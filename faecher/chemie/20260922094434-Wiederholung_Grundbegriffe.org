@@ -1,0 +1,127 @@
+:PROPERTIES:
+:ID: B165AD04-FBB4-4DB9-9E1E-3CA5D1FFEBF0
+:END:
+#+TITLE: Wiederholung Grundbegriffe
+
+#+filetags: :chemie:q12:
+
+
+** Stoffe:    
+- *Elemente*
+    = Reinstoffe aus einer *Atomart*
+    Es gibt welche aus einzelnen Atomen wie *He* oder Moleküle wie *O2*. 
+- *Verbindungen*
+    = Reinstoffe aus mindestens zwei *Atomarten*
+
+*** Vergleich der Verbindungsklassen
+
+| Merkmal                   | Molekulare Verbindungen       | Salze (Ionenverbindungen)            | Metallische Stoffe / Legierungen          |
+|---------------------------+-------------------------------+--------------------------------------+-------------------------------------------|
+| Bausteine                 | Moleküle (Nichtmetall-Atome)  | Ionen (Kationen [+] / Anionen [-])   | Metallkationen + Elektronengas            |
+| Beteiligte Elemente       | Nichtmetall + Nichtmetall     | Metall + Nichtmetall                 | Metall + Metall                           |
+| Bindungsart               | Atombindung (kovalent)        | Ionenbindung                         | Metallbindung                             |
+| Gitterstruktur            | Molekülgitter                 | Ionengitter (Kristallgitter)         | Metallgitter                              |
+| Schmelz- & Siedepunkte    | Niedrig bis mittel            | Sehr hoch                            | Meist hoch                                |
+| Elektrische Leitfähigkeit | Nichtleitend                  | Fest: nein / Schmelze & Lösung: ja   | Sehr gut (fest & flüssig)                 |
+| Verformbarkeit / Härte    | Weich / flüchtig              | Spröde (bricht bei Schlag)           | Duktil (gut verformbar)                   |
+| Beispiele                 | H2O, CO2, CH4, Zucker         | NaCl, CaCO3, MgO                     | Cu, Fe, Bronze, Messing                   |
+
+** Reinstoffe und Stoffgemische
+
+*Reinstoff* = besteht aus einer Stoffart mit bestimmten, charakteristischen Stoffeigenschaften (z.B. H2O => besteht auf Teilchenebene nur aus H2O Molekülen) 
+*Stoffgemisch* = besteht aus mindestens zwei *Reinstoffen*, seine Eigenschaften hängen von der Zusammensetzung ab (z.B. Salzwasser, Luft).
+
+** Atombau
+
+*** Atomkern, Schalen- & Energiestufenmodell
+
+#+BEGIN_SRC text
+  Schalenmodell (räumlich)                  Energiestufenmodell
+                                              
+             (   N   )                        Energie E
+           (   ( M )   )                        ▲
+         (   ( ( L ) )   )                      │        --- N-Schale (n=4) [max. 32 e⁻]
+       (   ( ( ( K ) ) )   )                    │        --- M-Schale (n=3) [max. 18 e⁻]
+      (   ( ( ( [●] ) ) )   )                   │     
+       (   ( ( ( K ) ) )   )                    │     ------ L-Schale (n=2) [max. 8 e⁻]
+         (   ( ( L ) )   )                      │
+           (   ( M )   )                        │
+             (   ( N   )                        │----------------- K-Schale (n=1) [max. 2 e⁻]
+                                                │
+       [●] = Kern (p⁺, n)                     ──┴──────────────── Kern (energieärmster Zustand)
+#+END_SRC
+
+- *Atomkern:* Beinhaltet fast die gesamte Masse; positiv geladen durch *Protonen* (p⁺) + neutrale *Neutronen* (n).
+- *Schalenmodell:* Elektronen (e⁻) verteilen sich auf Schalen von innen nach außen:
+  - Max. Elektronenanzahl = 2 · n² (K: 2, L: 8, M: 18, N: 32).
+  - *Valenzelektronen* (äußerste Schale) bestimmen das chemische Reaktionsverhalten.
+- *Energiestufenmodell:* 
+  - *Kernnah (K-Schale):* energiearm, am stärksten gebunden.
+  - *Kernfern (L, M, N...):* energiereich, schwächer gebunden.
+
+** Energetik chemischer Reaktionen
+
+*** Exotherme Reaktion (Energie wird freigesetzt: ΔE_i < 0)
+
+#+BEGIN_SRC text
+Innere Energie E_i
+ ▲
+ │          .--. (Übergangszustand)
+ │         /    \
+ │        /   ▲  \
+ │       /    │   \           ▲
+ │ ====='     │    \          │ E_A (Aktivierungsenergie)
+ │ Edukte     │     \         ▼
+ │            │      `===== 
+ │            │      Produkte ──┐
+ │            │                 │ ΔE_i < 0 (Reaktionsenergie wird frei)
+ │            ▼                 ▼
+ └────────────────────────────────► Reaktionsverlauf
+#+END_SRC
+
+- *Edukte* sind energiereicher als die *Produkte*.
+- ΔE_i < 0 (Wärme/Energie wird an die Umgebung abgegeben, z.B. Verbrennung).
+
+*** Endotherme Reaktion (Energie wird aufgenommen: ΔE_i > 0)
+
+#+BEGIN_SRC text
+Innere Energie E_i
+ ▲
+ │                 .--. (Übergangszustand)
+ │                /    \
+ │               /   ▲  \      ▲
+ │              /    │   `==== │ Produkte
+ │             /     │         │
+ │            /      │         │ ΔE_i > 0 (Energieaufnahme)
+ │ ====='     ▼      │         ▼
+ │ Edukte ───────────┘
+ │                   │ E_A (Aktivierungsenergie)
+ └────────────────────────────────► Reaktionsverlauf
+#+END_SRC
+
+- *Produkte* sind energiereicher als die *Edukte*.
+- ΔE_i > 0 (Ständige Energiezufuhr nötig, z.B. Fotosynthese, Elektrolyse).
+
+*** Einfluss eines Katalysators (Senkung der Aktivierungsenergie)
+
+#+BEGIN_SRC text
+Innere Energie E_i
+ ▲
+ │          .--. (ohne Katalysator)
+ │         /    \
+ │        / .--. \ (mit Katalysator)
+ │       / /    \ \           ▲ E_A (ohne Kat)
+ │ =====' /      \ `=====     │       ▲ E_A,kat (mit Kat)
+ │ Edukte/        \ Produkte ─┼───┐   │
+ │                            ▼   │   ▼
+ │                                │ ΔE_i bleibt unverändert!
+ │                                ▼
+ └────────────────────────────────► Reaktionsverlauf
+#+END_SRC
+
+- *Funktion:* Senkt die benötigte *Aktivierungsenergie* (E_A,kat < E_A) durch einen alternativen Reaktionsweg.
+- *Reaktionsenergie:* *ΔE_i bleibt exakt gleich* (weder Edukte noch Produkte ändern ihr Energieniveau).
+- *Eigenschaft:* Geht chemisch *unverändert* aus der Reaktion hervor und beschleunigt die Reaktion.
+
+* Reaktionsgleichungen & Mechanismen
+  - 

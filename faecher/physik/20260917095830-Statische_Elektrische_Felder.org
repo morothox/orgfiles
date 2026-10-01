@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID: C30331A3-B698-4B02-BB36-941986CFD422
+:END:
+#+TITLE: Statische Elektrische Felder
+
+#+filetags: :physik:q12::
+
+* Zusammenfassung
+[[/Users/morothox/Downloads/IMG_9906.HEIC][AB1]]
+
+* 1.1 Beschreibung elektrischer Felder
+**   Was sind elektrische Felder?
+      Das *elektrische* Feld bezeichnet einen Zustand des Raumes, der von den vorhanden elektrischen Ladungen verursacht wird. Probeladungen erfahren in diesem
+      Feld eine Kraft F(anziehend bzw abstoßend gemäß des elektrischen Kraftgesetzes). 
+      Das elektrische Feld ist somit ein *Vektorfeld*, da es richtungsbehaftet ist.
+   
+   Hallo | Hi | Lol 
+   
+   | Spalte 1 | Spalte 2 | Spalte 3 |
+   |          |          |          |
+   |          |          |          |
+   |          |          |          |
+   |          |          |          |
+   |----------+----------+----------|
+   | Wert 1   | Wert 2   | i        |
+   |          |          |          |
+   |          |          |          |
+   |          |          |          |
+   | o         |          |          |
+   
+
+
+     
+
+**   Verhalten geladener Körper
+   1. *Elektrisches Kraftgesetz*: Gleichnamig gekadene Körper stoßen sich ab, ungleichnahmige Geladene ziehen sich ab 
+   2. *Influenz*: Ladungstrennung in einem *neutralen Leiter* (Elektoskop)
+   3. *Polarisation*: Ausrichtung von Molekülen unsymmetrischer Ladungsverteilung im *Isolator* (z.B Ablenkung eines Wasserstrahls)
+* Formeln & Gesetzmäßigkeiten
+- 
+
+* Versuche & Herleitungen
+- 

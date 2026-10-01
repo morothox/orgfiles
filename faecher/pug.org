@@ -1,0 +1,8 @@
+#+TITLE: Politik und Gesellschaft Q12 (PuG)
+#+FILETAGS: :pug:q12:
+#+STARTUP: overview
+
+* 🗳️ Übersicht
+- Lehrkraft: wem (R147)
+- [[file:../pdf/][PDF-Ordner]]
+[[id:9CD5D43A-DCA8-4D6B-9B20-97C770F43AE0][Frieden und Krieg]]

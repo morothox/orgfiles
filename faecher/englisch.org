@@ -1,0 +1,11 @@
+#+TITLE: Englisch Q12
+#+FILETAGS: :englisch:q12:
+#+STARTUP: overview
+
+* 🇬🇧 Übersicht
+- Lehrkraft: kub (R147)
+- [[file:../pdf/][PDF-Ordner]]
+- [[https://klettbib.livebook.de/978-3-12-550000-6/][Ebook-English]]
+* Politics: 
+  [[id:D7BBF9B9-FF6F-46DC-8B2B-2FCAEF8C9FC6][Politics]]
+  [[/Users/morothox/Downloads/American Election Process.pdf][American-Politics]]

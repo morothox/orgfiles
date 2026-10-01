@@ -1,0 +1,10 @@
+#+TITLE: Vertiefungskurs Mathematik Q12
+#+FILETAGS: :vkm:mathe:q12:
+#+STARTUP: overview
+
+* 🧮 Übersicht
+- Lehrkraft: kit (R148)
+- Zeit: Mittwoch 13:45 - 15:15
+- [[file:../pdf/][PDF-Ordner]]
+* Kryptologie
+  [[id:4CFCD4E0-61D1-490C-90A6-E8CD648D4FA6][Kryptologie]]

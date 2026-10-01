@@ -1,0 +1,87 @@
+:PROPERTIES:
+:ID: 942CEA95-BA90-4868-8B78-1FBBCF0125D3
+:END:
+#+TITLE: gedicht
+
+#+filetags: :deutsch:q12:
+
+* Analyse & Kernaussagen
+[[/Users/morothox/Downloads/Epochenwiederholung_Textblatt.pdf][AB-Gedichte-1]]
+[[/Users/morothox/Downloads/Textblatt_Goethe_Herder_vollstaendig.pdf][Weltbilder]]
+[[/Users/morothox/Downloads/Klett S. 135-137.pdf][BS-Winkelmann]]
+** Barock
+  *Aufgabe1*: 
+  Alles was die Menschheit aktuell als schön bezeichnet ist Vergänglich und wird bald verschwinden.
+  *Aufgabe 2:* 
+    "Vers 2." "Was dieser heute baut, reist jener morgen ein:"
+    14 Verse - Sonett (typisch für Barock) 2 Quartette und 2 Terzette
+    Jambus - *Alexandriner* mit Zäsur 
+  *Aufgabe 3:*
+    *Barock*:
+      - Vanitas (Vergänglichkeit)
+      - Carpe Diem (Nutze den Tag)
+      - Memento Mori (Gedenke des Todes)
+      - Antithetik (Gegensätze: Diesseits vs. Jenseits, Schein vs. Sein)
+** Aufklärung (ca. 1720 – 1785)
+  *Key Facts & Leitmotive:*
+    - Leitspruch: /„Habe Mut, dich deines eigenen Verstandes zu bedienen!“/ (Immanuel Kant)
+    - Vernunft (Rationalismus) & Erfahrungsseelenkunde (Empirismus)
+    - Kritik an Kirche, Ständegesellschaft & absolutistischer Willkür
+    - Toleranzgedanke (z. B. Ringparabel in Lessings /„Nathan der Weise“/)
+    - Erziehung des Menschen zu Mündigkeit, Humanität und Moral
+    - Bevorzugte Gattungen: Lehrgedicht, Fabel, bürgerliches Trauerspiel
+** Sturm und Drang (ca. 1765 – 1785)
+  *Key Facts & Leitmotive:*
+    - Protestbewegung gegen rein rationale Aufklärung & gesellschaftliche Konventionen
+    - Geniebegriff / Geniezeit: Das „Originalgenie“ (schöpferische Freiheit, bricht mit starren Regeln)
+    - Gefühl, Leidenschaft, Naturverbundenheit & Herz statt kühler Verstand
+    - Rebellion gegen Autoritäten (Vater-Sohn-Konflikte, Fürstenwillkür)
+    - Ausdrucksstarke Sprache: Ausrufe, Ellipsen, Kraftausdrücke, freie Rhythmen
+    - Wichtige Werke: Goethe (/„Prometheus“/, /„Die Leiden des jungen Werthers“/), Schiller (/„Die Räuber“/)
+** Klassik / Weimarer Klassik (ca. 1786 – 1805)
+  *Key Facts & Leitmotive:*
+    - Streben nach Harmonie, Humanität, Maß, Gesetz und Vollkommenheit
+    - Vorbild: Antike (griechisches Schönheits- und Kunstideal: „edle Einfalt, stille Größe“)
+    - Ausgleich von Verstand (Aufklärung) und Gefühl (Sturm und Drang)
+    - Erziehung des Menschen zum „Schönen, Wahren, Guten“
+    - Formstrenge: Metrum (v. a. Blankvers), geregelte Dramenstruktur, kunstvolle Sprache
+    - Wichtige Vertreter/Werke: Goethe (/„Iphigenie auf Tauris“/, /„Faust I“/), Schiller (/„Don Karlos“/, /„Wilhelm Tell“/)
+** Natur und Kunst (Goethe)
+  *Kernaussage:*
+  Natur und Kunst scheinen zuerst Gegensätze zu sein, gehören aber eigentlich zusammen. Man erreicht nur etwas Großes, wenn man sich mit Fleiß und Disziplin an Regeln hält, statt einfach frei drauflos zu machen. Erst durch diese Beschränkung entsteht wahre Freiheit: „In der Beschränkung zeigt sich erst der Meister, / Und das Gesetz nur kann uns Freiheit geben.“
+
+** Nationalpoesie 
+- Die Dichtung muss die Natur nachahmen um großartig zu sein 
+- Die Dichtung wurde dafür geschaffen um die Natur nachzuahmen 
+- Die Dichtung muss die Regeln und Gesetze der Natur befolgen um sich abzuheben 
+- Ein großartiges Werk muss aber noch weiter gehen als bloße Nachahmung 
+
+* AB Weltbilder
+- *Menschen*: 
+    Der Mensch soll edel, hilfreich und gut sein. Das unterscheidet ihn von allen anderen Wesen. Er kann unterscheiden, wählen und richten - also moralische Entscheidungen treffen. Er kann den Guten lohnen und den Bösen strafen. Der Mensch soll das Nützliche und Rechte schaffen und unermüdet arbeiten. Er soll ein Vorbild sein für die Götter, die wir uns vorstellen.
+
+- *Götter*:
+    Die Götter sind "unbekannte höhere Wesen", die wir nur ahnen. Wir verehren sie, als wären sie Menschen, die im Großen tun, was der beste Mensch im Kleinen tut oder möchte. Sie folgen "ewigen, ehrnen, großen Gesetzen" und müssen die Kreise ihres Daseins vollenden. Der Mensch soll ihnen gleichen und sie sind ein Ideal, an dem er sich orientiert.
+
+- *Natur*:
+    Die Natur ist unfühlend und neutral. Die Sonne scheint über Böse und Gute gleichermaßen, der Mond und die Sterne glänzen für Verbrecher genauso wie für die Besten. Wind, Ströme, Donner und Hagel folgen einfach ihrem Weg und ergreifen vorüber eilend "einen um den andern". Auch das Glück ist blind - es "tappt unter die Menge" und trifft mal den Unschuldigen, mal den Schuldigen, ohne zu unterscheiden.
+* Hausaufgaben 
+** Lexikonartikel
+
+*Humanität:*
+   Humanität ist das Resultat aller Bestrebungen und Aufwände der Menschen. Ein Mensch wird nicht mit Errungenschaften oder Werten geboren er muss sich diese selbst erarbeiten. Es gibt noch viele weitere Worte die das gleiche wie Humanität aussagen sollen, wie z.B Menschlichkeit oder Menschenwürde, doch wurden diese laut Herder abgewertet und beschimpft. Deshalb entschied sich Herder das Wort Humanität zu nutzen um den Charakter der Menschheit zu beschreiben.Für ihn ist zunächst nur ein kleiner Teil von angeboren, den Rest muss man sich dabei aber selber erlernen. Sollte ein Mensch diese Bildung nicht erlangen wird er sich von Brutalität und Verstandslosigkeit leiten lassen.
+
+* Ab Winklemann:  
+** Aufgabe 1
+  Winckelmann beschreibt die Griechischen alten Dichter als Vorbild für moderne Schriftsteller. Deren Stiel soll benutzt werden um wieder großartige Werke zu schaffen. 
+** Aufgabe 2:
+  *Bs 136/4:*
+    - Er bewundert die stille Größe der Antike
+    - Für ihn haben die Griechen schon immer einen guten Geschmack für Kunst gehabt
+  *Bs 136/5:*
+    - Weil die Griechen über idealistische Schönheiten geschrieben haben 
+    - Die Griechen erstellen Kunstwerke die nicht nur schön sind sondern auch den Verstand anregen zu denken und zu verstehen. 
+  *Bs 136/6:*
+    - Obwohl Laokoon im Todeskampf mit den Schlangen steckt, verliert er nicht komplett die Kontrolle über sich:
+    - *Kein panisches Schreien:* Trotz der Schmerzen schreit er nicht wild herum, sondern sein Gesicht wirkt eher ruhig und zeigt nur ein unterdrücktes Seufzen
+    - *Körper vs. Geist:* Sein Körper leidet zwar sichtbar unter dem Kampf, aber sein Geist behält die Fassung und Würde – er lässt sich nicht von den Schmerzen     <    überwältigen, sondern erträgt das Leid mit Selbstbeherrschung

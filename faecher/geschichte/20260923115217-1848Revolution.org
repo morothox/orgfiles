@@ -1,0 +1,87 @@
+:PROPERTIES:
+:ID: E8CBF80B-70A7-4E0F-9B93-C345ECBAA946
+:END:
+#+TITLE: 1848Revolution
+
+#+filetags: :geschichte:q12:
+* AB
+[[/Users/morothox/Downloads/3_4_Ursachen1_AB.pdf][Ursachen-Revolution]]
+[[/Users/morothox/Downloads/4_Ursachen_Vertiefung_Hambach_Weber_ABfSchüler.pdf][Hambacher]]
+* Historischer Kontext & Verlauf
+  
+
+* Ursachen & Folgen
+** Lücken vom AB ausgefüllt
+  - *Wahlspruch der Liberalen und Nationalen:* „Einheit und Freiheit“ (vgl. Hoffmann von Fallersleben 1841: „Einigkeit und Recht und Freiheit“)
+  - *Ziele der Liberalen:* Verfassung, die die Macht des Fürsten begrenzt (konstitutionelle Monarchie), Grundrechte (Presse-, Meinungs-, Versammlungsfreiheit), Gewaltenteilung, gewähltes Parlament (aber Zensuswahlrecht, also nur wer Besitz hat), Gleichheit vor dem Gesetz, Wirtschaftsfreiheit
+  - *Ziele der Nationalen:* ein deutscher Nationalstaat statt 39 Einzelstaaten im Deutschen Bund, gemeinsame Wirtschaft (kein Zoll zwischen den Staaten)
+  - *Ziel der Demokraten:* Volkssouveränität, Republik, allgemeines und gleiches (Männer-)Wahlrecht, soziale Gerechtigkeit – also radikaler als die Liberalen
+
+** Die politischen Strömungen im Vormärz (noch keine Parteien im heutigen Sinn!)
+  - *Konservative / Reaktionäre:* Fürsten, Adel, Kirche, Metternich. Wollen Restauration, monarchisches Prinzip (Gottesgnadentum), Ständegesellschaft erhalten. Mittel: Zensur, Polizei, Karlsbader Beschlüsse
+  - *Liberale:* vor allem Bildungs- und Besitzbürgertum (Professoren, Juristen, Kaufleute). Wollen Reformen /mit/ den Fürsten, keine Revolution. 1847 Heppenheimer Tagung (gemäßigte Liberale)
+  - *Nationale:* überschneiden sich stark mit den Liberalen, Burschenschaften, Turner (Turnvater Jahn), Sänger. Farben Schwarz-Rot-Gold kommen aus den Befreiungskriegen (Lützower Freikorps)
+  - *Demokraten / Radikale:* Kleinbürger, Handwerker, Studenten. Bekannt: Friedrich Hecker und Gustav Struve in Baden, 1847 Offenburger Programm. Wollen notfalls auch Umsturz
+  - *Frühsozialisten:* kleine Gruppe, Arbeiterfrage, Abschaffung des Privateigentums an Produktionsmitteln. Marx/Engels, „Kommunistisches Manifest“ (Februar 1848) – für den Vormärz selbst aber noch kaum einflussreich
+
+** Wichtige Ereignisse im Vormärz (chronologisch)
+  - *1815 Wiener Kongress:* Neuordnung Europas, Restauration, Deutscher Bund (Bundesversammlung in Frankfurt, dominiert von Österreich und Preußen)
+  - *1817 Wartburgfest:* Burschenschaften fordern Einheit und Verfassung, verbrennen „reaktionäre“ Bücher
+  - *1819 Karlsbader Beschlüsse:* nach Mord an Kotzebue durch Karl Ludwig Sand → Zensur, Burschenschaftsverbot, Überwachung der Unis, „Demagogenverfolgung“
+  - *1830 Julirevolution in Frankreich:* Signalwirkung, in einigen deutschen Staaten danach neue Verfassungen (z.B. Sachsen, Hannover)
+  - *1832 Hambacher Fest:* ca. 20–30.000 Menschen, größte politische Massenversammlung, Schwarz-Rot-Gold, Forderung nach Einheit, Freiheit und Volkssouveränität. Folge: noch härtere Unterdrückung
+  - *1834 Deutscher Zollverein:* unter Führung Preußens, ohne Österreich → wirtschaftliche Einheit kommt vor der politischen (Vorstufe zur „kleindeutschen Lösung“)
+  - *1837 Göttinger Sieben:* sieben Professoren (u.a. Brüder Grimm) protestieren gegen Aufhebung der Verfassung in Hannover und werden entlassen → große Solidarität im Bürgertum
+  - *1840 Rheinkrise:* Frankreich will Rhein als Grenze → Welle von Nationalismus („Die Wacht am Rhein“), 1841 „Lied der Deutschen“
+  - *1844 Weberaufstand in Schlesien:* Weber verelenden durch Maschinenkonkurrenz (v.a. aus England), Aufstand wird vom preußischen Militär niedergeschlagen → Beispiel für Pauperismus
+  - *1845–1847 Missernten und Kartoffelfäule:* Lebensmittelpreise explodieren, Hungerkrise, Hungerrevolten (z.B. „Kartoffelrevolution“ Berlin 1847), dazu Wirtschaftskrise 1847
+  - *Februar 1848 Revolution in Paris:* König Louis-Philippe wird gestürzt → *Auslöser* der Revolution in Deutschland (Märzrevolution)
+
+** Fachbegriffe
+  - *Befreiungskriege (1813–1815):* Krieg von Preußen, Österreich, Russland u.a. gegen Napoleon, der Deutschland besetzt hielt. Viele Freiwillige kämpften für ein freies, geeintes Deutschland → Nationalgefühl entsteht. Entscheidend: Völkerschlacht bei Leipzig 1813
+  - *Schwarz-Rot-Gold:* Uniform des Lützower Freikorps (Freiwillige in den Befreiungskriegen: schwarze Uniform, rote Aufschläge, goldene Knöpfe). Später von den Burschenschaften übernommen (Wartburgfest 1817, Hambacher Fest 1832) → Symbol für Einheit und Freiheit
+  - *Wiener Kongress (1814/15):* Neuordnung Europas nach Napoleon, Leitung: Metternich
+  - *Restauration:* Wiederherstellung der alten Ordnung vor der Französischen Revolution
+  - *Deutscher Bund:* loser Staatenbund aus 39 souveränen Staaten, keine Regierung, kein Oberhaupt, Bundesversammlung in Frankfurt, dominiert von Österreich und Preußen
+  - *Monarchisches Prinzip:* alle Staatsgewalt liegt beim Fürsten, Verfassung wird von ihm „gewährt“ (oktroyiert), nicht vom Volk gemacht
+  - *Vormärz:* Zeit zwischen 1815 (bzw. 1830) und März 1848. Politisch unterdrückt, deshalb oft Rückzug ins Private → /Biedermeier/
+  - *Karlsbader Beschlüsse (1819):* Zensur, Burschenschaftsverbot, Uni-Überwachung („Demagogenverfolgung“)
+  - *Burschenschaften:* liberal-nationale Studentenverbindungen
+  - *Konstitutionelle Monarchie:* Fürst bleibt, aber an Verfassung und Parlament gebunden (Ziel der Liberalen)
+  - *Volkssouveränität:* alle Macht geht vom Volk aus (Ziel der Demokraten)
+  - *Zensuswahlrecht:* Wahlrecht abhängig von Besitz/Steuern (≠ Zensur!)
+  - *Allgemeines, gleiches Wahlrecht:* jede Stimme zählt gleich, unabhängig vom Besitz (für Männer)
+  - *Gewerbefreiheit:* Ende des Zunftzwangs, jeder darf ein Handwerk betreiben → Konkurrenz
+  - *Bauernbefreiung:* Ende der Abhängigkeit vom Grundherrn, aber ohne Absicherung
+  - *Pauperismus:* Massenarmut in der Frühindustrialisierung – Ursache v.a. Bevölkerungswachstum bei zu wenig Arbeit, nicht die Fabriken allein
+  - *Zollverein (1834):* Wirtschaftsunion unter Preußen, ohne Österreich
+
+** Ursachen zusammengefasst (Kessel-Bild vom AB)
+  - *Politisch:* Enttäuschung nach 1815 (keine Einheit, keine Freiheit), Unterdrückung durch Metternichs System
+  - *Sozial/wirtschaftlich:* Pauperismus, Ende der Zünfte, Bauernbefreiung ohne Absicherung, Konkurrenz durch Maschinen, Landflucht
+  - *Kurzfristig:* Missernten und Hunger 1845–47, Wirtschaftskrise 1847
+  - *Auslöser:* Februarrevolution in Paris 1848
+  - Wichtig für die Bewertung: verschiedene Gruppen hatten ganz unterschiedliche Ziele (Bürger wollen Verfassung, Unterschichten wollen Brot/Arbeit, Demokraten Republik) → gemeinsam gegen das alte System, aber nicht einig, was danach kommen soll. Das ist später ein Grund fürs Scheitern der Revolution
+
+** Mögliche Prüfungsfragen
+  - Warum waren viele Deutsche nach dem Wiener Kongress enttäuscht?
+  - Unterscheide Liberale und Demokraten.
+  - Erläutere, wie Metternich den Mord an Kotzebue genutzt hat.
+  - Warum war das Hambacher Fest so wichtig?
+  - Was ist Pauperismus und wie ist er entstanden?
+  - Warum ist der Zollverein für die deutsche Einheit wichtig?
+  - Unterscheide langfristige Ursachen und Auslöser der Revolution.
+
+* Lernübersicht (kurz)
+  - *Ausgangslage:* Befreiungskriege → Hoffnung auf Einheit + Freiheit. Wiener Kongress 1815 bringt stattdessen Restauration und den losen Deutschen Bund → Enttäuschung
+  - *Strömungen (noch keine Parteien):*
+    - Konservative (Fürsten, Adel, Kirche, Metternich): alles soll bleiben, *monarchisches Prinzip*
+    - Liberale (Bildungs-/Besitzbürgertum): Verfassung, Grundrechte, konstitutionelle Monarchie, *Zensuswahlrecht*, Reform statt Revolution
+    - Nationale (Burschenschaften, Turner): Nationalstaat, Schwarz-Rot-Gold; überschneiden sich mit den Liberalen → *„Einheit und Freiheit“*
+    - Demokraten (Kleinbürger, Handwerker, Studenten; Hecker, Struve): Volkssouveränität, Republik, allgemeines Wahlrecht, notfalls Revolution
+  - *Unterdrückung:* Karlsbader Beschlüsse 1819 (Mord an Kotzebue als Vorwand), nach Hambach 1832 noch härter
+  - *Widerstand:* Wartburgfest 1817, Hambacher Fest 1832, Göttinger Sieben 1837
+  - *Soziale Ursachen:* Bevölkerungswachstum, Gewerbefreiheit, Bauernbefreiung, Maschinenkonkurrenz → *Pauperismus* (Weberaufstand 1844)
+  - *Kurzfristig:* Missernten + Hunger 1845–47, Wirtschaftskrise 1847
+  - *Auslöser:* Februarrevolution Paris 1848
+  - *Kernaussage:* alle gegen das System von Metternich, aber mit verschiedenen Zielen → später ein Grund fürs Scheitern

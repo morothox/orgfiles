@@ -1,0 +1,7 @@
+#+TITLE: Kunst Q12
+#+FILETAGS: :kunst:q12:
+#+STARTUP: overview
+
+* 🎨 Übersicht
+- Lehrkraft: voj (R310)
+- [[file:../pdf/][PDF-Ordner]]

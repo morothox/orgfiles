@@ -1,0 +1,72 @@
+:PROPERTIES:
+:ID: D7BBF9B9-FF6F-46DC-8B2B-2FCAEF8C9FC6
+:END:
+#+TITLE: Politics
+
+#+filetags: :englisch:q12:
+* Worksheets: 
+[[/Users/morothox/Downloads/American Election Process.pdf][American-Politics]]
+[[/Users/morothox/Downloads/IMG_9988.heic][Party-Overview]]
+[[/Users/morothox/Downloads/Gerrymandering.pdf][Gerrymandering]]
+[[/Users/morothox/Downloads/Midterm elections.pdf][Midterms]]
+
+* Party Overview: Elephant and Donkey (Worksheet)
+
+** Tasks
+  *Task 1:* List the main differences between the two parties.
+  - *Economy & Taxes:*
+     
+    - Republicans: Favor free-market capitalism, deregulation, and private spending over state spending. Oppose higher corporate taxes and state intervention.
+     
+    - Democrats: Favor higher taxes on the rich/corporations and reduced taxes for the middle and lower classes to reduce the deficit and fund public services.
+
+  - *Welfare & Social Programs:*
+    - Republicans: Skeptical of large government welfare systems; prefer targeted grants and private initiatives to prevent abuse.
+    - Democrats: Believe the government must support welfare, healthcare, and education to assist disadvantaged groups and guarantee basic care for everyone.
+  - *Environmental Policy:*
+    - Republicans: Argue that strict environmental regulations hurt economic growth and kill jobs; prioritize business interests.
+    - Democrats: Prioritize environmental protection and clean energy; oppose tax breaks and subsidies for oil corporations.
+  - *Foreign & Defense Policy:*
+    - Republicans: Advocate a strong military, high defense spending, and unilateralism (the right of the US to act alone in its national self-interest).
+    - Democrats: Rely on diplomacy and multilateralism (acting through international alliances like NATO and the UN); aim to reduce military spending.
+  - *Demographics & Geography:*
+    - Republicans: Mostly white, Protestant, married with children, often without a college degree. Strongest in rural areas, suburbs, the South, and the West.
+    - Democrats: Broad coalition of minorities (African Americans, Hispanics), Catholics, Jews, labor unions, and young/educated voters. Strongest in large cities, the Northeast, and the Pacific Coast.
+
+  *Task 2:* Find corresponding parties in Germany and compare the parties' programs.
+  - *Republican Party $\leftrightarrow$ CDU/CSU & FDP:*
+    - /Similarities:/ Like Republicans, the CDU/CSU stands for conservative values, law and order, and national security. The FDP mirrors the Republican belief in free markets, private enterprise, and skepticism towards state regulations.
+    - /Differences:/ The US Republicans are positioned much further to the right than the German CDU/CSU. In Germany, even conservatives support universal healthcare, strict gun laws, and a strong social safety net, which Republicans often reject as "socialism".
+  - *Democratic Party $\leftrightarrow$ SPD & Bündnis 90/Die Grünen:*
+    - /Similarities:/ The Democrats' focus on social justice, workers' rights, and a strong welfare state corresponds with the SPD. Their commitment to climate protection, renewable energy, and multilateral foreign policy is very close to the Green Party.
+    - /Differences:/ The Democrats are a broad big-tent party. Many moderate Democrats would be considered centrist or even slightly conservative in Germany, and the party remains strictly capitalist, without the traditional European democratic-socialist roots of the SPD.
+
+  *Task 3:* Choose an issue from the excerpt you are interested in and find out more details.
+  - *Chosen Issue: Environmental Policy & Energy*
+    - /Democratic Position:/
+      - Climate change is treated as an urgent crisis that requires decisive federal regulation.
+      - Support heavy government investment in renewable energy (solar, wind) and green infrastructure (e.g. the *Inflation Reduction Act*).
+      - Rejoin international climate treaties (Paris Agreement) and enforce strict emissions standards while cutting tax incentives for fossil fuel companies.
+    - /Republican Position:/
+      - Focus on American energy independence and low energy costs for businesses and consumers ("drill, baby, drill").
+      - Consider environmental restrictions as bureaucratic red tape that damages domestic industry and costs manufacturing/mining jobs.
+      - Favor expanded oil and natural gas drilling on public lands and rely on free-market innovation rather than state mandates.
+
+* Vocabulary & Phrases
+  - *to advocate sth.:* etwas öffentlich befürworten / unterstützen
+  - *unilateralism:* Unilateralismus (einseitiges Handeln ohne Rücksicht auf Bündnispartner)
+  - *multilateralism:* multilaterales Handeln (Zusammenarbeit im Rahmen internationaler Bündnisse)
+  - *incentive:* Anreiz (hier: Steuervorteile / Subventionen für Unternehmen)
+  - *grant:* staatlicher Zuschuss / Fördergeld
+  - *to oppose sth.:* etwas ablehnen / sich etwas widersetzen
+  - *welfare system:* Sozialhilfe- / Wohlfahrtssystem
+  - *disadvantaged:* benachteiligt (sozial schwächer gestellt)
+* How Trump weakens Congress: 
+- He fires staff of independent institutes without permissions from congress 
+- He removed the Educational Agency, wich was a congress led beuary, and instated a federal led agency instead. 
+- He takes away powers from the senate by using emergency law making. He can do that by declaring a crisis or an emergency in order to make rulings without needing congresses approval 
+- He does not care about anyone, so he will do anything in his power to defy the senate, to openly insult senators that do not follow his ruling. 
+- He influences senators from his own party to not say anything against his policies. 
+- He does not inform congress about his executive order, this happened when he intervened in Venezuela. 
+- He fired jerome powell head of the fed 
+    

@@ -1,0 +1,9 @@
+#+TITLE: Katholische Religionslehre Q12
+#+FILETAGS: :religion:q12:
+#+STARTUP: overview
+
+* ✝️ Übersicht
+- Lehrkraft: scp (R148)
+- [[file:../pdf/][PDF-Ordner]]
+* Gen Z
+  [[id:D9402A08-1875-4FF3-A92C-6CE1DC55056B][Charackterisierung der Generation Z]]

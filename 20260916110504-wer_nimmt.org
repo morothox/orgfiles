@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID: 74DE8D46-57C5-4F75-9399-056EA8806F56
+:END:
+#+TITLE: wer nimmt
+
+#+title: ${title}
+#+filetags: :einfluss:
+
+* Zusammenfassung
+  hallo 
+
+* Kernbegriffe & Formeln
+  - 
+
+* Verwandte Themen (Links)
+  - 

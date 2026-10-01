@@ -1,0 +1,25 @@
+#+TITLE: Sport männlich Q12
+#+FILETAGS: :sport:q12:
+#+STARTUP: overview
+
+* 🏃 Übersicht
+- Lehrkräfte: heb (Mo R147), hec (Do RS Bad)
+
+* W-SEMINAR THEMEN 
+** Sportverletzungen:-
+   - *Maktrotraumen*:
+     Einwirkung großer Kräfte 
+   - *Mikrotraumen*:
+     Überlastungssyndrome
+ Sportschäden sind *rezidivierend*
+ Es gibt *Endogene* (Krankheit, Ernährung, Schlaf, Regeneration, Alter) und *Exogene* (Zweikampf,Kälte,schlechte Geräte) Verletzungen 
+ *Häufige Verletzungen:*
+   - Kontusionen (prellungen )
+   - Distorsionen (Verstauchungen)
+   -  Muskel- Bandverletzung
+   -   Sehnenverletzungen
+** Ernährung:
+   - *Makronährstoffe:*
+     - Wasser, Proteine, Kohlenhydrate, Eiweiß
+   - *Makronährstoffe:*
+     - Vitamine, Mineralien 

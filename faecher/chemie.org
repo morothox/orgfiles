@@ -1,0 +1,55 @@
+#+TITLE: Chemie Q12
+#+FILETAGS: :chemie:q12:
+#+STARTUP: overview
+
+* ⚗️ Übersicht
+- Lehrkraft: 
+- Raum: 
+- Notizen / Schuljahr: Q12 (G9/G8 Bayern)
+
+* 📁 Versuchsblätter & PDFs
+- [[file:../pdf/chemie/][PDF-Ordner Chemie]]
+
+* 🧪 Versuche & Protokolle
+- Schnelle Erstellung mit Snippet: =exp= + =<Tab>=
+
+* 🔬 Themenbereiche (Q12)
+* Wiederholung
+  [[id:B165AD04-FBB4-4DB9-9E1E-3CA5D1FFEBF0][Wiederholung Grundbegriffe]] 
+** 🔋 Elektrochemie
+- Redoxreaktionen & Oxidationszahlen
+- Galvanische Elemente & Daniell-Element
+- Standardelektrodenpotentiale & Spannungsreihe
+- Nernst-Gleichung: E = E° + (0,059 V / z) * lg(c(Ox) / c(Red))
+- Elektrolyse & Faraday-Gesetze
+- Akkumulatoren & Brennstoffzellen
+
+** ⚖️ Chemisches Gleichgewicht & Kinetik
+- Massenwirkungsgesetz (MWG): K_c = ([C]^c * [D]^d) / ([A]^a * [B]^b)
+- Prinzip von Le Chatelier (Druck, Temperatur, Konzentration)
+- Reaktionsgeschwindigkeit & RGT-Regel
+- Katalyse & Aktivierungsenergie
+
+** 🧪 Säure-Base-Gleichgewichte (Protolyse)
+- pH- & pOH-Wert: pH = -lg c(H₃O⁺), pH + pOH = 14
+- Starke Säuren: pH = -lg c₀(HA)
+- Schwache Säuren / Henderson-Hasselbalch: pH = pK_S - lg(c(HA) / c(A⁻))
+- Pufferlösungen & Titrationskurven
+
+** 🧬 Biomoleküle & Organische Chemie
+- Kohlenhydrate (Mono-, Di-, Polysaccharide, Fischer-/Haworth-Projektion)
+- Aminosäuren & Proteine (Peptidbindung, Primär- bis Quartärstruktur)
+- Lipide & Fette (Esterbildung, Verseifung)
+- Kunststoffe & Polymere (Polymerisation, Polykondensation, Polyaddition)
+* Analytik
+  [[id:E4B86F48-2229-4025-8A95-99C8B2990D1F][Analytik]]
+* 📊 Wichtige Formeln & Konstanten
+| Physikalische Größe | Formelzeichen | Einheit      | Formel / Zusammenhang | Bemerkung               |
+|---------------------+---------------+--------------+-----------------------+-------------------------|
+| Stoffmenge          | n             | 1 mol        | n = m / M = N / N_A   | N_A = 6,022 * 10^23 1/mol |
+| Molare Masse        | M             | 1 g/mol      | M = m / n             | Aus Periodensystem      |
+| Stoffmengenkonz.    | c             | 1 mol/l      | c = n / V             |                         |
+| Massenanteil        | w             | 1 (bzw. %)   | w = m(Stoff) / m(ges) |                         |
+| Ideales Gasgesetz   | p, V, T       | Pa, m³, K    | p * V = n * R * T     | R = 8,314 J/(mol*K)     |
+| Faraday-Ladung      | Q             | 1 C          | Q = I * t = n * z * F | F = 96485 C/mol         |
+

@@ -1,0 +1,283 @@
+:PROPERTIES:
+:ID: $(uuidgen)
+:END:
+#+TITLE: Vocabulary: Politics in the UK
+#+filetags: :englisch:q12:vocabulary:
+
+* Flashcards
+
+** politics
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+Politik
+
+** administration
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+Verwaltung, Organisation
+
+** affairs
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+Angelegenheiten
+
+** policy
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+(eine bestimmte) Politik
+
+** politician
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+Politiker(in)
+
+** domestic policy
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+Innenpolitik
+
+** foreign policy
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+Außenpolitik
+
+** to influence sb/sth
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+etw./jmdn. beeinflussen
+
+** decision-making
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+Entscheidungsfindung
+
+** republic
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+Republik
+
+** monarchy
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+Monarchie
+
+** monarch
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+Monarch(in)
+
+** dictatorship
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+Diktatur
+
+** dictator
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+Diktator
+
+** to have a say in sth
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+ein Mitspracherecht bei etw. haben
+
+** to vote
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+wählen
+
+** universal suffrage
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+allgemeines Wahlrecht
+
+** adult citizen
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+volljährige(r) Bürger(in)
+
+** to be eligible to vote
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+wahlberechtigt sein
+
+** to elect sb
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+jmdn. wählen
+
+** representative
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+Vertreter(in)
+
+** to hold a general election
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+eine allgemeine Wahl abhalten
+
+** polling station
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+Wahllokal
+
+** to go to the polls
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+zur Wahl gehen
+
+** to cast one's vote
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+seine Stimme abgeben
+
+** ballot paper
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+Stimmzettel
+
+** ballot box
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+Wahlurne
+
+** polling booth
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+Wahlkabine
+
+** to win a landslide victory
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+einen überwältigenden Sieg erringen
+
+** to form a government
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+eine Regierung bilden
+
+** to have an overall majority
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+die absolute Mehrheit haben
+
+** parliamentary democracy
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+parlamentarische Demokratie
+
+** constitutional monarchy
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+konstitutionelle Monarchie
+
+** head of government
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+Regierungschef(in)
+
+** head of state
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+Staatsoberhaupt
+
+** constitution
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+Verfassung
+
+** rights and responsibilities
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+Rechte und Pflichten
+
+** to lay sth down
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+etw. festlegen/festschreiben
+
+** source
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+Quelle
+
+** chamber
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+Kammer
+
+** House of Commons
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+Unterhaus
+
+** House of Lords
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+Oberhaus
+
+** to make a law
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+ein Gesetz verfassen
+
+** legislation
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+Gesetzgebung, Gesetze
+
+** scrutiny
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+genaue Untersuchung
+
+** current
+   :PROPERTIES:
+   :RECALL_TYPE: flashcard
+   :END:
+aktuell

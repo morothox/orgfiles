@@ -1,0 +1,77 @@
+#+TITLE: Schulmitschriften & Gymnasium W Niemalsissensbasis
+#+STARTUP: showeverything
+
+* 📚 Mathematik
+** 📐 Ableitungsregeln & Kurvendiskussion
+   [2026-09-14 Mo 21:50]
+   Fach: Mathe
+
+   #+BEGIN_QUOTE
+   💡 *Wichtige Merkregel:* Die Ableitung $f'(x)$ beschreibt immer die *Steigung* des Graphen an der Stelle $x$.
+   #+END_QUOTE
+
+   - *Potenzregel:* $(x^n)' = n \cdot x^{n-1}$
+   - *Faktorregel:* $(c \cdot f(x))' = c \cdot f'(x)$
+   - *Summenregel:* $(f(x) + g(x))' = f'(x) + g'(x)$
+   - *Produktregel:* $(u \cdot v)' = u' \cdot v + u \cdot v'$
+   - *Kettenregel:* $(f(g(x)))' = f'(g(x)) \cdot g'(x)$
+
+   Link zu Übungsaufgaben: [[file:~/orgfiles/hausaufgaben.org][Zu den Hausaufgaben]] oder [[https://www.geogebra.org][GeoGebra Online]]
+
+** 📊 Noten- & Punktetabelle (Berechnungsbeispiel)
+   Drücke =<Tab>= in einer beliebigen Zelle, um die Tabelle automatisch auszurichten:
+   | Klausur | Note | Gewichtung | Punkte |
+   |---------+------+------------+--------|
+   | 1. KA   | 2.0  | 1          |   2.00 |
+   | 2. KA   | 1.5  | 1          |   1.50 |
+   | Ex      | 1.0  | 0.5        |   0.50 |
+   |---------+------+------------+--------|
+   | Summe   |      |            |   4.00 |
+   #+TBLFM: $4=$2*$3;%.2f::@5$4=vsum(@2$4..@4$4);%.2f
+
+* 🧪 Physik
+** ⚡ Gleichförmige Bewegung & Messreihe
+   [2026-09-14 Mo 21:50]
+   Fach: Physik
+
+   #+BEGIN_QUOTE
+   ℹ️ *Formel:* $s = v \cdot t \iff v = \frac{\Delta s}{\Delta t}$
+   #+END_QUOTE
+
+   Messprotokoll:
+   | Versuch | Zeit $t$ in s | Strecke $s$ in m | Geschw. $v$ in m/s |
+   |---------+---------------+------------------+--------------------|
+   | Messung 1 | 2             | 10               |               5.00 |
+   | Messung 2 | 4             | 20               |               5.00 |
+   | Messung 3 | 6             | 30               |               5.00 |
+   #+TBLFM: $4=$3/$2;%.2f
+
+* 📖 Deutsch
+** ✍️ Textanalyse Leitfaden
+   - [ ] TATTE-Einleitung formulieren [1/3]
+     - [X] Titel & Autor nennen
+     - [ ] Textart & Entstehungsjahr bestimmen
+     - [ ] Kernthema / Leitmotiv prägnant zusammenfassen
+   - [ ] Hauptteil strukturiert gliedern
+   - [ ] Rhetorische Mittel mit Wirkung belegen
+
+   #+BEGIN_QUOTE
+   ⚠️ *Klausurrelevant:* Niemals nur Stilmittel aufzählen! Immer *Beleg* (Zeilenangabe) und *Wirkung auf den Leser* nennen.
+   #+END_QUOTE
+
+* 💻 Informatik
+** 🐍 Python Beispielcode
+   Code-Blöcke in Orgmode bieten volles Syntax-Highlighting:
+   #+BEGIN_SRC python
+   def fibonacci(n: int) -> list[int]:
+       """Berechnet die ersten n Fibonacci-Zahlen."""
+       fibs = [0, 1]
+       for _ in range(2, n):
+           fibs.append(fibs[-1] + fibs[-2])
+       return fibs[:n]
+
+   print(fibonacci(8))
+   #+END_SRC
+  #+BEGIN_QUOTE
+  ⚠️ *Achtung / Klausurrelevant:* Niemals 
+  #+END_QUOTE

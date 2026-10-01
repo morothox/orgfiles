@@ -1,0 +1,10 @@
+#+TITLE: Geschichte Q12
+#+FILETAGS: :geschichte:q12:
+#+STARTUP: overview
+
+* 🏛️ Übersicht
+- Lehrkraft: wat (R145)
+- [[file:../pdf/][PDF-Ordner]]
+
+* Revolution 1848/49
+  [[id:E8CBF80B-70A7-4E0F-9B93-C345ECBAA946][1848Revolution]]

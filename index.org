@@ -1,0 +1,41 @@
+#+TITLE: Q12 Dashboard & Stundenplan
+#+AUTHOR: Moritz Sanner
+#+STARTUP: overview
+
+* 📅 Mein Q12 Stundenplan (G9)
+
+| Zeit          | Montag        | Dienstag          | Mittwoch          | Donnerstag     | Freitag        |
+|---------------+---------------+-------------------+-------------------+----------------+----------------|
+| 08:05 - 08:50 | ---           | M (pfl, R128)     | D (hek, R145)     | E (kub, R147)  | PuG (wem, R147)|
+| 08:50 - 09:35 | ---           | M (pfl, R128)     | E (kub, R147)     | M (pfl, R128)  | K (scp, R148)  |
+| 09:35 - 10:20 | D (hek, R145) | C (paj, RE14)     | WR [LK] (ecm, 148)| Ph (wuj, R109) | G (wat, R145)  |
+| 10:40 - 11:25 | D (hek, R145) | C (paj, RE14)     | WR [LK] (ecm, 148)| Ph (wuj, R109) | M (pfl, R128)  |
+| 11:25 - 12:10 | Ph (wuj, R109)| WR [LK] (ecm, 148)| G (wat, R145)     | ---            | D (hek, R145)  |
+| 12:10 - 12:55 | PuG (wem, R147)| WR [LK] (ecm, 148)| K (scp, R148)     | C (paj, RE14)  | E (kub, R147)  |
+|---------------+---------------+-------------------+-------------------+----------------+----------------|
+| 13:45 - 14:30 | Smw (heb, R147)| ---               | vkM (kit, R148)   | Smw (hec, RS)  | ---            |
+| 14:30 - 15:15 | Smw (heb, R147)| ---               | vkM (kit, R148)   | Smw (hec, RS)  | ---            |
+| 15:15 - 16:00 | ---           | ---               | ---               | Ku (voj, R310) | ---            |
+| 16:00 - 16:45 | ---           | ---               | ---               | Ku (voj, R310) | ---            |
+
+* 📂 Schnellzugriff Fächer (Klicke Enter auf Link)
+- [[file:faecher/wr.org][💼 Wirtschaft & Recht (Leistungsfach)]]
+- [[file:faecher/mathe.org][📐 Mathematik]]
+- [[file:faecher/physik.org][⚡ Physik]]
+- [[file:faecher/chemie.org][🧪 Chemie]]
+- [[file:faecher/deutsch.org][📖 Deutsch]]
+- [[file:faecher/englisch.org][🇬🇧 Englisch]]
+- [[file:faecher/geschichte.org][🏛️ Geschichte]]
+- [[file:faecher/pug.org][🗳️ PuG (Politik und Gesellschaft)]]
+- [[file:faecher/religion.org][✝️ Religion (Katholisch)]]
+- [[file:faecher/kunst.org][🎨 Kunst]]
+- [[file:faecher/vkm.org][🧮 Vertiefungskurs Mathematik]]
+- [[file:faecher/sport.org][🏃 Sport]]
+
+* 🎯 Zentrale Schulverwaltung
+- [[file:klausuren.org][📝 Klausuren & Prüfungstermine]]
+- [[file:hausaufgaben.org][📚 Hausaufgaben]]
+- [[file:noten.org][📊 Q12 Punktetabelle (Abiturrechner 0-15 P.)]]
+- [[file:vokabeln.org][🔤 Vokabeln & Fachbegriffe]]
+
+

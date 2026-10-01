@@ -1,0 +1,10 @@
+#+TITLE: Deutsch Q12
+#+FILETAGS: :deutsch:q12:
+#+STARTUP: overview
+
+* 📖 Übersicht
+- Lehrkraft: hek (R145)
+- [[file:../pdf/][PDF-Ordner]e
+
+* Epochen 
+  1. Überblick über die Epochen: [[id:942CEA95-BA90-4868-8B78-1FBBCF0125D3][Epochen]] 

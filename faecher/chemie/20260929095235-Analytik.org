@@ -1,0 +1,140 @@
+:PROPERTIES:
+:ID: E4B86F48-2229-4025-8A95-99C8B2990D1F
+:END:
+#+TITLE: Analytik 
+
+#+filetags: :chemie:q12: 
+* Qualitative Analytik:   
+** Was ist drinnen? 
+*** 1.1 Hinweis und Nachweis
+    *Versuch: Gasaustreibung mit Salzsäure (Vorprobe auf Uhrgläsern)*
+
+    #+BEGIN_SRC text
+           Pipette                              Pipette
+            [   ]                                [   ]
+             | |                                  | |
+             | | (verd. HCl)                      | | (verd. HCl)
+             | |                                  | |
+              ▼                                    ▼
+              : (Tropfen)                          : (Tropfen)
+              
+          SO₂ ↑ (stechender Geruch)            CO₂ ↑ (geruchlos)
+          ░ ░ ░                                ○  ○  ○ (Aufschäumen)
+        \_____.:::._____/                    \_____.:::._____/
+        (  Sulfit-Salz  )                    ( Carbonat-Salz )
+         \ (z.B. Na₂SO₃)/                     \ (z.B. Na₂CO₃)/
+          `------------'                       `------------'
+            Uhrglas 1                            Uhrglas 2
+    #+END_SRC
+
+    - *Durchführung:*
+      Auf zwei Uhrgläser wird jeweils eine kleine Spatelspitze Salz gegeben (Uhrglas 1: Sulfitsalz, z. B. Na₂SO₃; Uhrglas 2: Carbonatsalz, z. B. Na₂CO₃). Anschließend werden vorsichtig mit einer Pipette einige Tropfen verdünnte Salzsäure (HCl) direkt auf die Salzkörner getropft. Vorsichtiges Zufächeln mit der Hand für die Geruchsprobe.
+
+    - *Beobachtung:*
+      - *Uhrglas 1 (Sulfit):* Schwaches bis mäßiges Aufschäumen/Bläschenbildung. Es entsteht ein stechender, schwefliger Geruch (nach verbranntem Streichholz bzw. Schwefeldioxid SO₂).
+      - *Uhrglas 2 (Carbonat):* Heftiges Aufbrausen und Sprudeln (Brauseeffekt). Das entweichende Gas (CO₂) ist vollkommen geruchlos.
+
+    - *Erklärung & Reaktionsgleichungen:*
+      Die Salzsäure ist als starke Säure fähig, die schwächeren und flüchtigen Säuren (schweflige Säure H₂SO₃ bzw. Kohlensäure H₂CO₃) aus ihren Salzen zu verdrängen. Die entstehenden instabilen Säuren zerfallen sofort in Wasser und das jeweilige Gas:
+      - *Sulfit:*
+        SO₃²⁻ + 2 H₃O⁺ -> [H₂SO₃ + 2 H₂O] -> SO₂↑ + 3 H₂O
+        (als Stoffgleichung: Na₂SO₃ + 2 HCl -> 2 NaCl + H₂O + SO₂↑)
+      - *Carbonat:*
+        CO₃²⁻ + 2 H₃O⁺ -> [H₂CO₃ + 2 H₂O] -> CO₂↑ + 3 H₂O
+        (als Stoffgleichung: Na₂CO₃ + 2 HCl -> 2 NaCl + H₂O + CO₂↑)
+
+    - *Bedeutung für "Hinweis vs. Nachweis":*
+      - *Hinweis (Vorprobe):* Das Sprudeln und der Geruch geben einen ersten schnellen Anhaltspunkt darüber, was in der Probe stecken könnte (Bläschen ohne Geruch deutet auf CO₃²⁻ hin, Bläschen mit Schwefelgeruch auf SO₃²⁻).
+      - *Nachweis:* Ein Hinweis ist noch kein sicherer Beweis (Gasentwicklung ist relativ unspezifisch, Geruch ist subjektiv). Erst eine spezifische Nachweisreaktion belegt das Anion zweifelsfrei:
+        - Für Carbonat: Leiten des Gases in Kalkwasser/Barytwasser -> weiße Trübung (CaCO₃ bzw. BaCO₃).
+        - Für Sulfit: Entfärbung einer violetten Kaliumpermanganatlösung (KMnO₄, Redoxreaktion) oder Nachweis als Bariumsulfat nach Zugabe von H₂O₂.
+*** 1.2 Nachweis von Sulfat-Ionen
+    *Versuch: Fällungsreaktion mit Bariumchlorid*
+
+    #+BEGIN_SRC text
+           Pipette                              Pipette
+            [   ]                                [   ]
+             | |                                  | |
+             | | (BaCl₂-Lösung)                  | | (BaCl₂-Lösung)
+             | |                                  | |
+              ▼                                    ▼
+              : (Tropfen)                          : (Tropfen)
+              
+          ⚪ ⚪ ⚪ (milchig-weiß)                ⚪ ⚪ ⚪ (milchig-weiß)
+        ░░░░░░░░░                            ░░░░░░░░░
+        \_____.:::._____/                    \_____.:::._____/
+        (  Sulfat-Lösung )                   ( Sulfit-Lösung )
+         \ (z.B. Na₂SO₄) /                    \ (z.B. Na₂SO₃) /
+          `------------'                       `------------'
+            Reagenzglas 1                        Reagenzglas 2
+    #+END_SRC
+
+    - *Durchführung:*
+      Auf zwei Reagenzgläser werden jeweils ca. 2 ml wässrige Lösung gegeben (Reagenzglas 1: Sulfatlösung, z. B. Na₂SO₄; Reagenzglas 2: Sulfitlösung, z. B. Na₂SO₃). Anschließend werden mit einer Pipette einige Tropfen verdünnte Bariumchlorid-Lösung (BaCl₂) hinzugegeben.
+
+    - *Beobachtung:*
+      - *Reagenzglas 1 (Sulfat):* Es bildet sich sofort eine milchig-weiße Trübung (feiner weißer Niederschlag von BaSO₄), die auch beim Stehen nicht verschwindet.
+      - *Reagenzglas 2 (Sulfit):* Es bildet sich ebenfalls sofort eine milchig-weiße Trübung (feiner weißer Niederschlag von BaSO₃).
+    - *Erklärung & Reaktionsgleichungen:*
+      Sowohl Sulfat- als auch Sulfit-Ionen reagieren mit Barium-Ionen zu schwer löslichen weißen Niederschlägen:
+      - *Sulfat:*
+        SO₄²⁻ + Ba²⁺ -> BaSO₄↓
+        (als Stoffgleichung: Na₂SO₄ + BaCl₂ -> BaSO₄↓ + 2 NaCl)
+      - *Sulfit:*
+        SO₃²⁻ + Ba²⁻ -> BaSO₃↓
+        (als Stoffgleichung: Na₂SO₃ + BaCl₂ -> BaSO₃↓ + 2 NaCl)
+
+      -> *Die milchig-weiße Trübung zeigt an, dass Sulfat- oder Sulfit-Ionen vorliegen!*
+
+    - *Störung:*
+      Auch Sulfit-Ionen (SO₃²⁻) geben mit Ba²⁺ einen weißen Niederschlag (BaSO₃). Zur Unterscheidung vorher mit verdünnter Salzsäure ansäuern: Sulfite entwickeln dabei SO₂ (stechender Geruch), Sulfate bleiben unverändert.
+*** 1.3 Nachweis von Carbonat-Ionen (Kalkwasserprobe)
+    *Versuch: Gasaustreibung und Nachweis mit Kalkwasser*
+
+    #+BEGIN_SRC text
+      Reagenzglas 1 (Entwickler)              Reagenzglas 2 (Vorlage)
+                 ┌───┐                                  ┌───┐
+      Stopfen -> │===│                                  │   │
+                 │ │ └──────┬───────────────────────┐   │   │
+                 │ │        │ Ableitungsrohr        │   │   │
+                 │ │        │ (oder Gärröhrchen)    │   │ │ │
+                 │ │        │                       │   │ │ │
+                 │          │                       │   │ ▼ │ CO₂ perlt ein
+                 │          │                       │   │. .│
+                 │   o  o   │ Gasentwicklung        │   │. .│ klares Kalkwasser
+                 │~~~~~~~~~~│ (CO₂ ↑)               │   │~~~│ Ca(OH)₂ -> trübt
+                 │. . . . . │ Probe (CO₃²⁻) + HCl   └───┴───┘ sich weiß (CaCO₃ ↓)
+                 └──────────┘
+    #+END_SRC
+
+    - *Geräte & Chemikalien:*
+      Zwei Reagenzgläser, durchbohrter Stopfen mit abgewinkeltem Glasrohr (alternativ: aufgesetztes Gärröhrchen), Pipette, Spatel; carbonathaltige Probe (z. B. Na₂CO₃ oder CaCO₃), verdünnte Salzsäure (HCl), frisch filtriertes, klares Kalkwasser (gesättigte Ca(OH)₂-Lösung) bzw. Barytwasser (Ba(OH)₂).
+
+    - *Durchführung:*
+      1. Eine Spatelspitze der Carbonatprobe wird in Reagenzglas 1 vorgelegt und mit etwa 2–3 ml verdünnter Salzsäure versetzt.
+      2. Das Glas wird sofort mit dem Stopfen verschlossen, dessen Ableitungsrohr bis auf den Grund von Reagenzglas 2 (gefüllt mit ca. 3 ml Kalkwasser) taucht.
+      3. Zur Beschleunigung kann das Entwicklerglas leicht geschwenkt oder vorsichtig erwärmt werden.
+
+    - *Beobachtung:*
+      - In Reagenzglas 1 setzt sofort heftiges Aufschäumen und Bläschenbildung ein (farbloses, geruchloses Gas).
+      - In Reagenzglas 2 bilden sich Gasblasen und das zuvor vollkommen klare Kalkwasser trübt sich nach wenigen Sekunden milchig-weiß ein.
+      - /Zusatzbeobachtung (bei längerem Einleiten):/ Leitet man über längere Zeit weiter CO₂ ein, verschwindet die Trübung wieder und die Lösung wird wieder vollständig klar.
+
+    - *Erklärung & Reaktionsgleichungen:*
+      - *1. Schritt: Verdrängung und Gasbildung (Entwicklerglas)*
+        Salzsäure verdrängt die schwache Kohlensäure aus ihren Salzen, welche sofort zu Wasser und Kohlenstoffdioxid zerfällt:
+        CO₃²⁻ + 2 H₃O⁺ -> [H₂CO₃ + 2 H₂O] -> CO₂↑ + 3 H₂O
+        (bzw. als Stoffgleichung: Na₂CO₃ + 2 HCl -> 2 NaCl + H₂O + CO₂↑)
+
+      - *2. Schritt: Nachweisreaktion (Fällungsreaktion im Kalkwasser)*
+        Das eingeleitete Kohlenstoffdioxid reagiert mit den Calcium- und Hydroxidionen des Kalkwassers zu schwer löslichem Calciumcarbonat (Kalk), das als feiner weißer Niederschlag ausfällt:
+        CO₂ + Ca²⁺ + 2 OH⁻ -> CaCO₃↓ + H₂O
+        -> *Die weiße Trübung beweist zweifelsfrei das Vorliegen von Carbonat-Ionen!*
+        (Hinweis: Mit Barytwasser Ba(OH)₂ fällt entsprechend weißes Bariumcarbonat BaCO₃↓ aus, was wegen geringerer Löslichkeit noch empfindlicher ist.)
+
+      - *3. Schritt: Wiederauflösung bei CO₂-Überschuss (Kalk-Kohlensäure-Gleichgewicht)*
+        Wird weiterhin CO₂ eingeleitet, reagiert das unlösliche Calciumcarbonat zu leicht löslichem Calciumhydrogencarbonat weiter:
+        CaCO₃↓ + CO₂ + H₂O ⇌ Ca²⁺ + 2 HCO₃⁻
+        (Dies entspricht dem chemischen Prozess der Entstehung von Karstformen und Tropfsteinhöhlen.)
+* Quantitative Analytik
+** Wie viel ist drinnen?

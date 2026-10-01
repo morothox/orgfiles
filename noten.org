@@ -1,0 +1,34 @@
+#+TITLE: Q12 Noten- & Punkteübersicht (0-15 Punkte)
+#+AUTHOR: Moritz Sanner
+#+STARTUP: showeverything
+
+* 📊 Halbjahresübersicht Q12 / Q13
+
+In Bayern gilt: 15 bis 0 Notenpunkte.
+Berechnung: Drücke in der Tabelle =C-c C-c= oder nutze Org-Tabellenfunktionen.
+
+| Fach                       | Art | Q12/1 | Q12/2 | Schnitt Fach |
+|----------------------------+-----+-------+-------+--------------|
+| Wirtschaft & Recht (LK)    | LK  |    12 |       |        12.00 |
+| Mathematik                 | GK  |    11 |       |        11.00 |
+| Physik                     | GK  |    10 |       |        10.00 |
+| Chemie                     | GK  |       |       |              |
+| Deutsch                    | GK  |       |       |              |
+| Englisch                   | GK  |       |       |              |
+| Geschichte                 | GK  |       |       |              |
+| PuG                        | GK  |       |       |              |
+| Religion (K)               | GK  |       |       |              |
+| Kunst                      | GK  |       |       |              |
+| Vertiefungskurs Mathe      | VK  |       |       |              |
+| Sport                      | GK  |       |       |              |
+|----------------------------+-----+-------+-------+--------------|
+| Punktedurchschnitt         |     | 11.00 |       |              |
+#+TBLFM: $5=if("$4"=="", "$3", ($3+$4)/2);%.2f::@15$3=vmean(@2$3..@13$3);%.2f
+
+* 📌 Notizen zu Klausuren & Notenbesprechungen
+** WR Leistungsfach
+- Klausur 1:
+- Rechenschaftsablage / mündlich:
+** Mathe
+- Klausur 1:
+- Ex 1:

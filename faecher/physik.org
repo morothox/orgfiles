@@ -1,0 +1,44 @@
+#+TITLE: Physik Q12
+#+FILETAGS: :physik:q12:
+#+STARTUP: overview
+
+* ⚡ Übersicht
+- Lehrkraft: wuj (R109)
+- Formelvorschau einschalten mit =<leader>um=
+
+* 📁 Versuchsblätter & PDFs
+- [[file:../pdf/][PDF-Ordner]]
+
+* 🧪 Versuche & Protokolle
+
+* 🔬 Themenbereiche
+** 🧲 Elektrisches & Magnetisches Feld
+
+  - **Statische Elekrtische Felder** [[id:C30331A3-B698-4B02-BB36-941986CFD422][Statische Elektrische Felder]]
+     n
+** 🌊 Schwingungen & Wellen
+- Harmonische Schwingung: $y(t) = y_{max} \cdot \sin(\omega t)$
+- Wellenlänge & Frequenz: $c = \lambda \cdot f$
+
+** ⚛️ Quanten- & Atomphysik
+- Photoeffekt: $E_{kin} = h \cdot f - W_A$
+- De-Broglie-Wellenlänge: $\lambda = \frac{h}{p}$
+* 🔬 Formelsammlung (Elektrizitätslehre):  
+  | Physikalische Größe     | Formelzeichen | Einheit       | Formel / Definition | Bemerkung                 |
+  |-------------------------+---------------+---------------+---------------------+---------------------------|
+  | Elektrische Ladung      | Q             | 1 C (Coulomb) | Q = N * e           | e = 1,602 * 10^-19 C      |
+  | Elektrische Spannung    | U             | 1 V (Volt)    | U = W / Q           | 1 V = 1 J / C             |
+  | Elektrische Stromstärke | I             | 1 A (Ampere)  | I = ΔQ / Δt         | 1 A = 1 C / s             |
+  | Elektrischer Widerstand | R             | 1 Ω (Ohm)     | R = U / I           | Ohmsches Gesetz (1 V / A) |
+  | Elektrische Leistung    | P_el          | 1 W (Watt)    | P = U * I           | P = I^2 * R = U^2 / R     |
+  | Elektrische Energie     | E_el (oder W) | 1 J (Joule)   | E = P * t = U*I*t   | 1 J = 1 Ws = 1 V*A*s      |
+
+* ⚡ Wichtige Grundformeln
+- Coulomb-Kraft: F_C = (1 / (4πε₀)) * (Q₁ * Q₂) / r²
+- Elektrische Feldstärke: E = F / q = U / d (homogenes Feld)
+- Plattenkondensator:
+  - Kapazität: C = ε₀ * ε_r * (A / d)
+  - Gespeicherte Energie: E_el = 1/2 * C * U² = 1/2 * Q * U
+- Induktionsgesetz: U_ind = -n * (ΔΦ / Δt) = -L * (ΔI / Δt)
+
+

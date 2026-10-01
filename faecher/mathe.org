@@ -1,0 +1,85 @@
+#+TITLE: Mathematik Q12
+#+FILETAGS: :mathe:q12:
+#+STARTUP: overview
+ 
+* 📐 Übersicht
+*
+- Lehrkraft: pfl (R128)
+- Tipp: =<leader>mp= schaltet die hochauflösende Bildvorschau an/aus, =<leader>mm= die schnelle Unicode-Vorschau!
+
+* 📁 Skripte & PDFs
+- [[file:../pdf/][PDF-Ordner]]
+
+* 📖 Analysis
+** 📈 Integralrechnung
+- Stammfunktionen: $\int x^n \, dx = \frac{1}{n+1} x^{n+1} + C$
+- Hauptsatz der Differential- und Integralrechnung: $\int_a^b f(x) \, dx = [F(x)]_a^b = F(b) - F(a)$
+- Flächenberechnung zwischen zwei Graphen:
+  #+BEGIN_QUOTE
+  $A = \int_a^b |f(x) - g(x)| \, dx$
+  #+END_QUOTE
+    
+** 📉 Kurvendiskussion Checkliste
+- [ ] Definitions- und Wertebereich
+- [ ] Symmetrie ($f(-x) = f(x)$ achsensymmetrisch, $f(-x) = -f(x)$ punktsymmetrisch)
+- [ ] Nullstellen ($f(x) = 0$)
+- [ ] Extremstellen ($f'(x) = 0$, $f''(x) \neq 0$)
+- [ ] Wendestellen ($f''(x) = 0$, $f'''(x) \neq 0$)
+- [ ] Grenzwerte im Unendlichen ($\lim_{x \to \pm \infty} f(x)$)
+
+* 🎯 Analytische Geometrie (Vektorrechnung)
+- Geradengleichung: $\vec{x} = \vec{p} + \lambda \cdot \vec{u}$
+- Ebenengleichung (Parameter- und Normalenform): $\vec{n} \cdot (\vec{x} - \vec{p}) = 0$
+- Skalarprodukt: $\vec{a} \cdot \vec{b} = a_1 b_1 + a_2 b_2 + a_3 b_3$
+
+* 🎲 Stochastik
+* L
+* L
+- Binomialverteilung: $P(X = k) = \binom{n}{k} p^k (1-p)^{n-k}$
+- Erwartungswert $\mu = n \cdot p$, Varianz $\sigma^2 = n \cdot p \cdot (1-p)$
+
+* 🧪 Vertiefung & Formelsammlung Q12 (Test-Formeln)
+** Analysis: Rotationskörper
+- Volumen bei Rotation um die x-Achse im Intervall $[a; b]$:
+  \[
+  V_x = \pi \cdot \int_a^b \left( f(x) \right)^2 \, dx
+  \]
+
+** Geometrie: Abstandsberechnungen & LGS
+- Abstand eines Punktes $P(\vec{p})$ von einer Ebene $E: (\vec{x} - \vec{a}) \cdot \vec{n}_0 = 0$:
+  \[
+  d(P, E) = \left| (\vec{p} - \vec{a}) \cdot \frac{\vec{n}}{|\vec{n}|} \right|
+  \]
+- Lineares Gleichungssystem in Matrizenform:
+  \[
+  \begin{pmatrix}
+    2 & 1 & -1 \\
+    0 & 3 &  4 \\
+    1 & -2 & 2
+  \end{pmatrix}
+  \cdot
+  \begin{pmatrix}
+    x_1 \\
+    x_2 \\
+    x_3
+  \end{pmatrix}
+  =
+  \begin{pmatrix}
+    4 \\
+    11 \\
+    -1
+  \end{pmatrix}
+  \]
+
+** Stochastik: Stetige Zufallsgrößen
+- Gauß'sche Glockenkurve (Dichtefunktion der Normalverteilung $\mathcal{N}(\mu, \sigma^2)$):
+  \[
+  \varphi_{\mu, \sigma}(x) = \frac{1}{\sigma \sqrt{2\pi}} \cdot e^{-\frac{1}{2} \left( \frac{x - \mu}{\sigma} \right)^2}
+  \]
+- Standardisierung: $Z = \frac{X - \mu}{\sigma}$ mit Verteilungsfunktion $\Phi(z) = P(Z \le z)$.
+
+** Physik-/Mathe-Grenzwerte
+- Definition der Ableitung als Differentialquotient:
+  \[
+  f'(x_0) = \lim_{h \to 0} \frac{f(x_0 + h) - f(x_0)}{h} = \lim_{x \to x_0} \frac{f(x) - f(x_0)}{x - x_0}
+  \]

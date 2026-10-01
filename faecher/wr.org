@@ -1,0 +1,20 @@
+#+TITLE: Wirtschaft & Recht (Leistungsfach Q12)
+#+FILETAGS: :wr:lk:q12:
+#+STARTUP: overview
+
+* 💼 Übersicht & Klausurtermine
+- Lehrkraft: ecm (R148)
+- [[file:../klausuren.org][Zu den Klausuren]] | [[file:../noten.org][Notenübersicht]]
+
+* 📁 Arbeitsblätter & Skripte (PDFs)
+- [[file:../pdf/][PDF-Ablage öffnen]]
+
+    <
+
+* 📖 Lernzettel & Themen
+  **Wer nimmt E[[id:74DE8D46-57C5-4F75-9399-056EA8806F56][wer nimmt]]influss auf unternehmerische Zielsetzungen** [[file:../pdf/wr/IMG_9896.HEIC]] ** ⚖️ Recht *** Bürgerliches Recht / Vertragsrecht #+BEGIN_QUOTE 💡 *BGB-Prüfungsschema beachten:* 1. Anspruch entstanden? (Willenserklärungen, Angebot & Annahme) 2. Anspruch erloschen? (§ 362 Erfüllung, Rücktritt) 3. Anspruch durchsetzbar? (Verjährung, Einreden) #+END_QUOTE
+*** Handels- und Gesellschaftsrecht
+- Kaufmannsbegriff (§§ 1 ff. HGB)
+- Rechtsformen (GmbH, AG, KG, OHG)
+
+** 📈 Wirtschaft / VWL *** Makroökonomie & Wirtschaftspolitik
