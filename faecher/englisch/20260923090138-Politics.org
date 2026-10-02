@@ -41,6 +41,19 @@
     - /Similarities:/ The Democrats' focus on social justice, workers' rights, and a strong welfare state corresponds with the SPD. Their commitment to climate protection, renewable energy, and multilateral foreign policy is very close to the Green Party.
     - /Differences:/ The Democrats are a broad big-tent party. Many moderate Democrats would be considered centrist or even slightly conservative in Germany, and the party remains strictly capitalist, without the traditional European democratic-socialist roots of the SPD.
 
+** Summary: Republicans vs. Democrats
+
+*** Main Differences:
+    1. *Economy:* Republicans → free market, low taxes, deregulation | Democrats → tax the rich, fund public services
+    2. *Welfare:* Republicans → minimal government, private solutions | Democrats → strong social safety net
+    3. *Environment:* Republicans → business first, regulations hurt jobs | Democrats → climate action, clean energy priority
+    4. *Foreign Policy:* Republicans → strong military, act alone (unilateralism) | Democrats → diplomacy, alliances (multilateralism)
+    5. *Base:* Republicans → rural, white, Protestant, South/West | Democrats → urban, diverse, educated, Northeast/Pacific Coast
+
+*** German Comparison:
+    - Republicans ≈ CDU/CSU + FDP (but way more right-wing)
+    - Democrats ≈ SPD + Grüne (but more centrist/capitalist)
+
   *Task 3:* Choose an issue from the excerpt you are interested in and find out more details.
   - *Chosen Issue: Environmental Policy & Energy*
     - /Democratic Position:/
@@ -69,4 +82,25 @@
 - He influences senators from his own party to not say anything against his policies. 
 - He does not inform congress about his executive order, this happened when he intervened in Venezuela. 
 - He fired jerome powell head of the fed 
+
+* Summary: How Trump Weakens the Three Branches
+
+*** Legislative (Congress):
+    - Fires staff of independent agencies without Congress approval
+    - Bypasses Senate using emergency powers to make laws alone
+    - Doesn't inform Congress about executive orders (e.g., Venezuela intervention)
+    - Pressures Republican senators into silence, openly insults defectors
+    - Fired Jerome Powell (Fed chair) without Congressional process
+
+*** Judicial:
+    - Appoints loyalist judges to federal courts (especially Supreme Court) to secure long-term conservative rulings
+    - Attacks judges who rule against him publicly, undermines judicial independence
+    - Ignores court rulings he dislikes (e.g., immigration bans, subpoenas)
+    - Pardons allies convicted by courts, bypassing the justice system
+
+*** Executive:
+    - Fires officials who don't follow his orders (even if they're supposed to be independent)
+    - Replaces career professionals with personal loyalists in key agencies (DOJ, State Dept., intelligence)
+    - Uses executive orders excessively to bypass normal legislative process
+    - Centralizes power in the White House, ignoring Cabinet input
     
