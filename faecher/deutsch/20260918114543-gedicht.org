@@ -5,7 +5,6 @@
 
 #+filetags: :deutsch:q12:
 
-* Analyse & Kernaussagen
 [[/Users/morothox/Downloads/Epochenwiederholung_Textblatt.pdf][AB-Gedichte-1]]
 [[/Users/morothox/Downloads/Textblatt_Goethe_Herder_vollstaendig.pdf][Weltbilder]]
 [[/Users/morothox/Downloads/Klett S. 135-137.pdf][BS-Winkelmann]]
@@ -85,3 +84,6 @@
     - Obwohl Laokoon im Todeskampf mit den Schlangen steckt, verliert er nicht komplett die Kontrolle über sich:
     - *Kein panisches Schreien:* Trotz der Schmerzen schreit er nicht wild herum, sondern sein Gesicht wirkt eher ruhig und zeigt nur ein unterdrücktes Seufzen
     - *Körper vs. Geist:* Sein Körper leidet zwar sichtbar unter dem Kampf, aber sein Geist behält die Fassung und Würde – er lässt sich nicht von den Schmerzen     <    überwältigen, sondern erträgt das Leid mit Selbstbeherrschung
+* Prometheus
+[[/Users/morothox/Downloads/Prometheus.pdf][Prometheus]]
+[[/Users/morothox/Downloads/Arbeitsblatt_Menschenbilder_Prometheus_Das_Goettliche.pdf][vergleich der beiden]]

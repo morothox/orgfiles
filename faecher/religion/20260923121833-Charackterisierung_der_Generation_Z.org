@@ -4,7 +4,6 @@
 #+TITLE: Charackterisierung der Generation Z
 
 #+filetags: :religion:q12:
-
 * Theologische & ethische Fragen
   - *Psychisch* weniger stabil / mehr Problemme 
   - *Pessimistische* Weltansicht
@@ -46,3 +45,12 @@ Rollen in einer Familie (Mutter, Sohn, Vater, etc) Dazu gehören *Verhaltensmust
 - Gewerkschaften werden immer lauter und kämpfen für Mitarbeiterrechte (schlecht)
 - Landwirtschaft wird immer kleiner => billige Produkte aus anderen Ländern
 - bessere Arbeitsschutz 
+* Was ist der Mensch
+** Das Bild von Franz Moor 
+- Zufällig entstanden, nichts Besonderes 
+- Vergänglichkeit 
+- kein besondere Wert 
+- kein Sinn 
+- Schafft nichts sinnvolles 
+
+    

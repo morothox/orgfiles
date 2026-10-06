@@ -136,5 +136,70 @@
         Wird weiterhin CO₂ eingeleitet, reagiert das unlösliche Calciumcarbonat zu leicht löslichem Calciumhydrogencarbonat weiter:
         CaCO₃↓ + CO₂ + H₂O ⇌ Ca²⁺ + 2 HCO₃⁻
         (Dies entspricht dem chemischen Prozess der Entstehung von Karstformen und Tropfsteinhöhlen.)
+*** 1.4 Nachweis von Fällungsreaktion
+    Bsp: Nachweis von Sulfat-Ionen mit Bariumchlorid-Lösung
+    Voraussetzungen: Testsubstanz und Nachweis-Reagenz müssen löslich sein.
+    Vorgänge auf Teilchenebene
+
+    *Versuch: Fällungsreaktion mit Bariumchlorid*
+
+    #+BEGIN_SRC text
+              Pipette
+               [   ]
+                | |
+                | | (BaCl₂-Lösung)
+                | |
+                 ▼
+                 : (Tropfen)
+
+           ⚪ ⚪ ⚪ (milchig-weiße Trübung = BaSO₄ ↓)
+         ░░░░░░░░░░░░░░░░░░░░
+         \__________________/
+         (  Sulfat-Lösung   )
+          \ (z.B. Na₂SO₄)  /
+           `--------------'
+             Reagenzglas
+    #+END_SRC
+
+    - *Geräte & Chemikalien:*
+      Reagenzglas, Pipette, Spatel; Sulfat-Lösung (z. B. Na₂SO₄), verdünnte Bariumchlorid-Lösung (BaCl₂).
+
+    - *Durchführung:*
+      Etwa 2 ml der wässrigen Sulfat-Lösung werden in ein Reagenzglas gegeben. Anschließend werden mit der Pipette einige Tropfen verdünnte Bariumchlorid-Lösung hinzugetropft.
+
+    - *Beobachtung:*
+      Es bildet sich sofort eine milchig-weiße Trübung (feiner weißer Niederschlag von BaSO₄), die auch beim Stehen nicht verschwindet.
+
+    - *Vorgänge auf Teilchenebene (Mikroebene):*
+      #+BEGIN_SRC text
+        gelöst (Ionen frei beweglich)      Fällung (Ionen verbinden sich)
+
+         Na⁺      SO₄²⁻                        Na⁺     Na⁺
+            ↘    ↙                    + Ba²⁺      ▓▓▓▓
+         Na⁺   SO₄²⁻        ──────►              ▓▓▓▓  BaSO₄ ↓
+            ↘    ↙                             ▓▓▓▓  (unlöslich,
+         SO₄²⁻   Na⁺                            Na⁺   fällt aus)
+
+        frei beweglich        ──►     fest, geordnet (Niederschlag)
+      #+END_SRC
+      - In der Lösung liegen die Ionen frei und getrennt vor: Na⁺ und SO₄²⁻ umgeben von Wasserteilchen.
+      - Gibt man BaCl₂ dazu, liegen auch Ba²⁺ und Cl⁻ als freie Ionen vor.
+      - Treffen Ba²⁺- und SO₄²⁻-Ionen zusammen, ziehen sich die entgegengesetzten Ladungen an und bilden ein Gitter (Ionenkristall). BaSO₄ ist schwer löslich, deshalb überschreitet es das Löslichkeitsprodukt und fällt als Feststoff aus.
+      - Cl⁻ und Na⁺ bleiben gelöst („Zuschauer-Ionen"), sie sind gut löslich.
+
+    - *Erklärung & Reaktionsgleichungen:*
+      Sulfat-Ionen reagieren mit Barium-Ionen zu schwer löslichem Bariumsulfat:
+      - *Ionengleichung:*
+        SO₄²⁻ + Ba²⁺ -> BaSO₄↓
+      - *Stoffgleichung:*
+        Na₂SO₄ + BaCl₂ -> BaSO₄↓ + 2 NaCl
+
+      -> *Die milchig-weiße Trübung zeigt an, dass Sulfat-Ionen vorliegen!*
+
+    - *Nachweis vs. Störung:*
+      - BaSO₄ ist der Nachweis: Der Niederschlag ist *säurebeständig*, er löst sich auch nach Zugabe von verdünnter HCl nicht auf.
+      - *Störung:* Auch Sulfit- (SO₃²⁻) und Carbonat-Ionen (CO₃²⁻) geben mit Ba²⁺ weiße Niederschläge (BaSO₃ bzw. BaCO₃). Diese lösen sich aber in Säure (SO₂↑ bzw. CO₂↑). Ansäuern vor der BaCl₂-Zugabe beseitigt die Störung.
+    
+
 * Quantitative Analytik
 ** Wie viel ist drinnen?

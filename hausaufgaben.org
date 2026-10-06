@@ -4,3 +4,7 @@
   DEADLINE: <2026-10-02 Fr.>
   Fach: English  
   Notizen: 
+* TODO Bs 12/2 
+  DEADLINE: <2026-10-09 Fr.>
+  Fach: Mathe
+  Notizen: 
