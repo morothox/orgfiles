@@ -1,0 +1,6 @@
+#+TITLE: Vokabeln & Fachbegriffe
+#+FILETAGS: :vokabeln:
+#+STARTUP: overview
+
+* 🇬🇧 Englisch
+- [[file:faecher/englisch/vocabulary-politics.org][Vocabulary: Politics]]
