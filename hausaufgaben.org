@@ -1,10 +1,14 @@
 #+TITLE: Hausaufgaben & Aufgaben
 #+STARTUP: overview
-* TODO WIC p.151, Democrats and Republicans, How does Trump weaken the different branches 
-  DEADLINE: <2026-10-02 Fr.>
-  Fach: English  
-  Notizen: 
 * TODO Bs 12/2 
-  DEADLINE: <2026-10-09 Fr.>
+  DEADLINE: <2026-10-12 Mo.>
   Fach: Mathe
+  Notizen: 
+* TODO Ab ausfüllen Preußen Revolution 
+  DEADLINE: <2026-10-14 Mi.>
+  Fach: Geschichte
+  Notizen: 
+* TODO Write mediation Bycs 
+  DEADLINE: <2026-10-21 Mi.>
+  Fach: English
   Notizen: 

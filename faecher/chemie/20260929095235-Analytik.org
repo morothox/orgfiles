@@ -200,6 +200,74 @@
       - BaSO₄ ist der Nachweis: Der Niederschlag ist *säurebeständig*, er löst sich auch nach Zugabe von verdünnter HCl nicht auf.
       - *Störung:* Auch Sulfit- (SO₃²⁻) und Carbonat-Ionen (CO₃²⁻) geben mit Ba²⁺ weiße Niederschläge (BaSO₃ bzw. BaCO₃). Diese lösen sich aber in Säure (SO₂↑ bzw. CO₂↑). Ansäuern vor der BaCl₂-Zugabe beseitigt die Störung.
     
+*** 1.5 Nachweis von Halogeniden
+    Versuch: Lösung eines halogenit-haltigen-salzes kaliumbromid
 
+    Voraussetzungen: Testsubstanz und Nachweis-Reagenz müssen löslich sein.
+    Vorgänge auf Teilchenebene
+
+    *Versuch: Fällungsreaktion mit Silbernitrat*
+
+    #+BEGIN_SRC text
+              Pipette
+               [   ]
+                | |
+                | | (AgNO₃-Lösung)
+                | |
+                 ▼
+                 : (Tropfen)
+
+           ⊙ ⊙ ⊙ (hellgelber, cremefarbener Niederschlag = AgBr ↓)
+         ░░░░░░░░░░░░░░░░░░░░
+         \__________________/
+         ( Halogenid-Lösung )
+          \ (z.B. KBr)      /
+           `--------------'
+             Reagenzglas
+    #+END_SRC
+
+    - *Geräte & Chemikalien:*
+      Reagenzglas, Pipette, Spatel; Kaliumbromid-Lösung (KBr), verdünnte Silbernitrat-Lösung (AgNO₃), verdünnte Salpetersäure (HNO₃) zum Ansäuern.
+
+    - *Durchführung:*
+      Etwa 2 ml der wässrigen Kaliumbromid-Lösung werden in ein Reagenzglas gegeben. Vorher wird mit einigen Tropfen verdünnter Salpetersäure angesäuert, anschließend werden mit der Pipette einige Tropfen Silbernitrat-Lösung hinzugetropft. Das Reagenzglas wird dunkel gestellt bzw. nicht unnötig dem Licht ausgesetzt.
+
+    - *Beobachtung:*
+      Es bildet sich sofort ein hellgelber, cremefarbener bis gelblich-weißer Niederschlag (Silberbromid AgBr). Der Niederschlag löst sich in verdünnter Salpetersäure nicht auf. Bei längerem Stehen im Licht färbt er sich allmählich nach, er wird gräulich bis dunkel.
+
+    - *Vorgänge auf Teilchenebene (Mikroebene):*
+      #+BEGIN_SRC text
+        gelöst (Ionen frei beweglich)      Fällung (Ionen verbinden sich)
+
+         K⁺       Br⁻                          K⁺      K⁺
+            ↘    ↙                    + Ag⁺      ▓▓▓▓
+         K⁺    Br⁻          ──────►              ▓▓▓▓  AgBr ↓
+            ↘    ↙                             ▓▓▓▓  (schwer löslich,
+         Br⁻      K⁺                           NO₃⁻   fällt aus)
+
+        frei beweglich        ──►     fest, geordnet (Niederschlag)
+      #+END_SRC
+      - In der Lösung liegen K⁺ und Br⁻ frei und getrennt vor.
+      - Nach Zugabe von AgNO₃ liegen zusätzlich Ag⁺ und NO₃⁻ als freie Ionen vor.
+      - Ag⁺ und Br⁻ ziehen sich wegen ihrer entgegengesetzten Ladungen an und lagern sich zu einem Ionengitter an. AgBr ist schwer löslich, es wird also schnell mehr AgBr gebildet, als sich lösen kann, und der Überschuss fällt als Feststoff aus.
+      - K⁺ und NO₃⁻ bleiben gelöst („Zuschauer-Ionen").
+
+    - *Erklärung & Reaktionsgleichungen:*
+      Silber-Ionen reagieren mit Halogenid-Ionen zu schwer löslichen Silberhalogeniden:
+      - *Ionengleichung:*
+        Ag⁺ + Br⁻ -> AgBr↓
+      - *Stoffgleichung:*
+        AgNO₃ + KBr -> AgBr↓ + KNO₃
+
+      -> *Der hellgelbe Niederschlag zeigt an, dass Bromid-Ionen vorliegen!*
+
+    - *Nachweis vs. Störung:*
+      - Die Farbe des Niederschlags unterscheidet die Halogenide: Chlorid gibt einen weißen (AgCl), Bromid einen hellgelben (AgBr) und Iodid einen gelben Niederschlag (AgI).
+      - *Störung:* Auch Carbonat- und Sulfit-Ionen geben mit Ag⁺ einen weißen Niederschlag. Deshalb wird die Probe vorher mit verdünnter *Salpetersäure* angesäuert. Diese verdrängt CO₃²⁻ und SO₃²⁻, die Niederschläge können sich nicht mehr bilden. Auf keinen Fall mit Salzsäure ansäuern, weil man damit selbst Chlorid-Ionen in die Probe einbringt.
+      - *Zusatz:* Die Silberhalogenide sind lichtempfindlich. Meist wird die Probe zusätzlich mit Ammoniak-Lösung geprüft, da sich AgCl leichter löst als AgBr.
+
+*** 1.6 Nachweis durch Farbreaktion
+    Versuch: Ammonium-Nachweis
+    
 * Quantitative Analytik
 ** Wie viel ist drinnen?

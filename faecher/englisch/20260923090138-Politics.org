@@ -10,6 +10,7 @@
 [[/Users/morothox/Downloads/Gerrymandering.pdf][Gerrymandering]]
 [[/Users/morothox/Downloads/Midterm elections.pdf][Midterms]]
 [[/Users/morothox/Downloads/Political Scandals in the USA.pdf][Scandals]]
+[[/Users/morothox/Downloads/DSM Assignments Students version.pdf][Death-of-a-Salesman-Assignments]]
 
 * Party Overview: Elephant and Donkey (Worksheet)
 
@@ -105,3 +106,78 @@
     - Uses executive orders excessively to bypass normal legislative process
     - Centralizes power in the White House, ignoring Cabinet input
     
+
+* Political Scandals: Donald Trump (Hush Money Affair)
+
+** Overview & Key Facts:
+- *The Incident:* In October 2016, shortly before the presidential election, Trump's personal lawyer Michael Cohen paid $130,000 in hush money to adult film actress Stormy Daniels to keep her from going public about an alleged sexual encounter with Trump in 2006.
+- *The Cover-Up:* Trump reimbursed Cohen in monthly installments throughout 2017. In the Trump Organization's internal records, these payments were falsely booked as regular legal expenses based on a non-existent retainer agreement.
+- *Legal & Political Consequences:*
+  - Michael Cohen pleaded guilty in 2018 to campaign finance violations and tax evasion, serving prison time.
+  - In April 2023, Manhattan District Attorney Alvin Bragg indicted Trump on 34 felony counts of falsifying business records to influence the 2016 election.
+  - In May 2024, a New York jury found Trump guilty on all 34 felony counts, making him the first former US president to be convicted of a felony.
+
+** Worksheet Question: How damaging are political scandals for a leader?
+- *Comparison & Impact:*
+  - *Richard Nixon (Watergate):* Completely fatal. Nixon lost bipartisan support in Congress and resigned in 1974 to avoid impeachment and conviction.
+  - *Bill Clinton (Lewinsky Scandal):* Moderately damaging. Clinton was impeached for perjury and obstruction of justice in 1998, but the Senate acquitted him. The strong economy and public perception of it as a private matter allowed him to maintain high approval ratings.
+  - *Donald Trump (Hush Money / Scandals):* Polarized impact. Unlike Nixon, Trump kept his core support. His base viewed the indictments as a politically motivated "witch hunt" by Democrats, which energized his voters and drove campaign donations. However, it hurt his standing among moderate and independent suburban voters.
+  - *Conclusion:* A scandal's damage depends heavily on party polarization, congressional support, and how effectively the leader frames the investigation.
+
+* Assignments: Death of a Salesman
+
+** Assignment 05.03.26 (Reading until p. 65)
+
+- *How does Linda criticize her sons?*
+  - Linda confronts Biff and Happy about their neglect, lack of respect, and lack of care for their father.
+  - She criticizes Biff for being ungrateful and distant: he doesn't write letters, never settles down, and wanders from job to job.
+  - She calls out Happy for prioritizing shallow fun, women, and partying over supporting his parents.
+  - She fiercely defends Willy ("Attention, attention must be finally paid to such a person"): he is not a great man, but an exhausted human being who worked his entire life for them.
+  - She reveals Willy's actual situation: he lost his salary, works on commission only, borrows $50 a week from Charley, and is suicidal (the recent car crashes were deliberate and she found a rubber hose on the gas pipe in the basement).
+
+- *In which situations does Willy escape from reality?*
+  - Willy escapes into daydreams and flashbacks whenever reality shatters his illusions:
+    - *Exhaustion and driving trouble:* When he can no longer drive safely or make sales on the road, he retreats into memories of young Biff as a high school football hero.
+    - *Financial problems:* When Linda presents the long list of unpaid bills, proving he earned much less than he claimed, he shifts into fantasies where clients love and admire him.
+    - *Guilt over the affair:* Seeing Linda mend her stockings triggers memories of giving new stockings to his mistress in Boston. Overwhelmed by guilt, he yells at Linda and escapes into memories of family unity.
+    - *Despair and failure:* When he feels helpless, he hallucinates conversations with his dead brother Ben, who became wealthy in the African diamond mines, asking him for the secret to effortless success.
+
+** Assignment 06.03.26 (DS) (Reading until p. 74 & p. 90)
+
+- *Which plan do the boys have? Why do they want to do that? (until p. 74)*
+  - *The Plan:* The "Florida idea" / sporting goods business. Biff and Happy plan to form a joint company ("The Loman Brothers") selling sporting equipment. Biff wants to ask his former boss, Bill Oliver, for a $10,000 loan (which Willy raises to $15,000 in his mind).
+  - *Why they want to do it:*
+    - Neither brother wants to take orders from bosses they dislike; they want independence.
+    - Biff loves outdoor, physical work, while Happy wants business prestige and status.
+    - The plan gives the family immediate hope and temporarily restores Willy's pride in Biff.
+
+- *Steps leading to Willy’s suicide (until p. 90):*
+  - *Fired by Howard:* Willy asks his young boss Howard for a New York desk job with a modest salary ($40/week). Howard is dismissive, only interested in his wire recorder, and fires Willy on the spot when Willy brings up his past loyalty. Willy loses his livelihood and professional identity.
+  - *Charley’s office / Rejection of help:* Willy goes to Charley to borrow money for his life insurance premium. Charley offers him a real job ($50/week), but Willy's stubborn pride prevents him from accepting it.
+  - *Valuing life vs. death:* Willy admits to Charley: "You end up worth more dead than alive." He starts viewing his life insurance policy as the only valuable thing he has left to give.
+
+** Assignment 12.03.26 (Reading until p. 131, l. 9)
+
+- *Further steps leading to Willy’s suicide:*
+  - *The bar disaster:* Biff and Happy abandon their father at Frank's Chop House while he is having a breakdown in the bathroom.
+  - *Biff’s confrontation:* At home, Biff confronts Willy with reality, breaking down in tears and shouting that both of them are ordinary people living a lie ("I am a dime a dozen, and so are you!").
+  - *Willy’s realization:* Willy is deeply moved that Biff actually loves him ("Biff—he likes me! He cried for me!").
+  - *The suicide decision:* Willy decides to crash his car so that Biff will inherit the $20,000 life insurance money, believing this will finally make Biff a successful businessman.
+
+- *Why is Bernard important for the story?*
+  - Bernard serves as a foil (contrast) to Biff.
+  - In high school, Bernard was the quiet, studious boy whom Willy mocked as "liked, but not well-liked" compared to the popular Biff.
+  - As an adult, Bernard becomes a successful lawyer arguing a case before the Supreme Court without bragging, proving that hard work and modesty lead to real success, not just charisma.
+  - Bernard also reveals the turning point: Biff burned his sneakers and gave up on summer school right after visiting Willy in Boston, confronting Willy with his guilt about the affair.
+
+- *What about Biff’s meeting with Bill Oliver?*
+  - The meeting is a total failure: Biff waits six hours, and Oliver does not even remember him.
+  - Biff realizes he was never a salesman for Oliver, just a shipping clerk, exposing the family's habit of lying to themselves.
+  - In panic and confusion, Biff steals Oliver's fountain pen and runs down eleven flights of stairs, shattering his own illusions.
+
+- *What happens in the bar? (Frank’s Chop House)*
+  - Happy and Biff meet at the restaurant; Happy flirts with women and lies about Biff's football career.
+  - Biff confesses that Oliver rejected him and that he stole the pen, wanting to be honest with Willy.
+  - When Willy arrives, he refuses to listen to any bad news and demands positive results.
+  - Willy suffers a breakdown at the table, hallucinating the Boston hotel room and the affair.
+  - Biff leaves in frustration, and Happy denies knowing Willy ("No, that's not my father. He's just a guy"), leaving their father alone in the washroom to chase after women.

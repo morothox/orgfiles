@@ -12,9 +12,23 @@
     <
 
 * 📖 Lernzettel & Themen
-  **Wer nimmt E[[id:74DE8D46-57C5-4F75-9399-056EA8806F56][wer nimmt]]influss auf unternehmerische Zielsetzungen** [[file:../pdf/wr/IMG_9896.HEIC]] ** ⚖️ Recht *** Bürgerliches Recht / Vertragsrecht #+BEGIN_QUOTE 💡 *BGB-Prüfungsschema beachten:* 1. Anspruch entstanden? (Willenserklärungen, Angebot & Annahme) 2. Anspruch erloschen? (§ 362 Erfüllung, Rücktritt) 3. Anspruch durchsetzbar? (Verjährung, Einreden) #+END_QUOTE
-*** Handels- und Gesellschaftsrecht
-- Kaufmannsbegriff (§§ 1 ff. HGB)
-- Rechtsformen (GmbH, AG, KG, OHG)
 
 ** 📈 Wirtschaft / VWL *** Makroökonomie & Wirtschaftspolitik
+** Szenario 1 
+   *Prozess folgt der Struktur*: 
+   - *Nachteil:* 
+     - Abteilungen sind abgeschottet., keine Zusammenarbeit
+     - Zwischen Probleme können nicht gelöst werden
+     - individuelle Ereignisse können nicht zu der Struktur passen (z.B Leitung gehört noch dazu)
+     - Probleme werden langsam gelöst
+   - *Vorteile:*
+     - gute Arbeitsteilung
+     - Spezialisierung 
+** Szenario 2 
+   - *Nachteil:*
+     - Zuständigkeits Probleme 
+   - *Vorteile:*
+     - Prozess kann perfekt strukturiert und optimiert werden
+     - schnelle Bearbeitung 
+     - genaue Zuordnung 
+
