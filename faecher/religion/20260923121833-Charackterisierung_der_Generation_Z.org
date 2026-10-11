@@ -53,4 +53,101 @@ Rollen in einer Familie (Mutter, Sohn, Vater, etc) Dazu gehören *Verhaltensmust
 - kein Sinn 
 - Schafft nichts sinnvolles 
 
-    
+* AB - Wichtigster Stoff ex 
+  [[/Users/morothox/Downloads/IMG_0084.pdf][Mensch]]
+
+** 1. Der Mensch als Person (Merkmale / Wesen)
+   - *Individualität:* Einzigartigkeit jedes einzelnen Menschen
+   - *Autonomie:* Selbstbestimmung und Unabhängigkeit im Denken und Handeln
+   - *Menschenwürde:* Unantastbarer Eigenwert, der jedem von Geburt an zukommt
+   - *Freiheit:* Fähigkeit zu eigenen Entscheidungen
+   - *Verantwortung:* Einstehen für das eigene Handeln vor sich, anderen und Gott
+   - *Bildung:* Geistige und persönliche Entfaltung, Fähigkeit zur Reflexion
+   - *Rechtsfähigkeit:* Träger von Grundrechten und Pflichten in der Gemeinschaft
+   - *Selbstzweckhaftigkeit:* Der Mensch darf niemals bloßes Mittel zum Zweck sein (Kant)
+   - *Reflexionsfähigkeit:* Über sich selbst, das eigene Leben und den Sinn nachdenken
+   - *Willensfreiheit:* Echte Entscheidungskraft, nicht bloß gesteuert von Trieben
+
+** 2. Der multidimensionale Mensch (Perspektiven auf den Mensch)
+   /„Der Mensch ist eine komplexe Wirklichkeit. Man kann ihn aus verschied. Perspektiven beschreiben.“/
+
+   | Biologische Perspektive                             | Psychologische / Existenzielle Perspektive     |
+   |-----------------------------------------------------+------------------------------------------------|
+   | - *Evolution:* Entstehung durch natürliche Prozesse | - *Sinnfrage:* Suche nach Lebenssinn und Halt   |
+   | - *Fortpflanzung:* Arterhaltung und Triebe          | - *Freiheit:* Echte Handlungs- und Wahlfreiheit |
+   | - *Biochemische Reaktionen:* Materie, Gene, Hormone | - *Moral / Gewissen:* Urteil über Gut und Böse |
+   | - *Teil des Tierreichs:* Physische Natur            | - *Verantwortung:* Ethische Zurechenbarkeit   |
+   | - *Determiniertheit:* Naturgesetzlich festgelegt    |                                                |
+   | - *Keine „Moral“:* Naturprozesse sind wertfrei      |                                                |
+   => *Fazit:* Beide Seiten gehören zusammen. Wer den Menschen rein biologisch sieht (Reduktionismus), verliert die Würde; wer das Biologische leugnet, verfehlt die Realität.
+
+** 3. Gefährdungen des Menschseins (Viktor Frankl)
+   - *Ausgangspunkt: „Existenzielles Vakuum“*
+     - Gefühl innerer Leere, Sinnlosigkeit und Orientierungslosigkeit.
+     - Entsteht, wenn traditionelle Bindungen wegfallen und der Mensch nicht weiß, wofür er leben soll.
+   - *Zwei Fehlhaltungen / Reaktionen:*
+     1. *Konformismus:* „Tun, was alle tun“
+        - Flucht in die Masse, Gruppenzwang, Trends, Bestätigungssucht, Verlust der eigenen Identität.
+     2. *Totalitarismus:* „Tun, was eine ‚Autorität‘ sagt“
+        - Blinde Unterwerfung unter Führer, extreme Ideologien oder radikale Strömungen; Abgabe der eigenen Verantwortung.
+
+* Zusammenfassung & Fachbegriffe für die Ex (Top-Noten-Wissen)
+
+** 1. Der rote Faden für die Ex: Von Gen Z zum existentiellen Vakuum
+   - *Gen Z & Lebensgefühl:* Viel Freiheit, digitale Dauervernetzung und unzählige Optionen – aber gleichzeitig Zukunftsangst, psychischer Druck und Sinnkrise.
+   - *Rollen- & Arbeitswandel:* Familie wird von autoritär zu partnerschaftlich umverhandelt; Arbeitswelt verlangt Flexibilität und New Work, bietet aber weniger lebenslange Stabilität.
+   - *Menschenbilder im Konflikt:*
+     - *Franz Moor (nihilistisch / rein materialistisch):* Der Mensch als reiner Zufall der Natur („Handvoll Dreck“), ohne Sinn, ohne Würde, ohne moralische Verantwortung.
+     - *Mensch als Person (christlich / Kant):* Mensch als multidimensionales Wesen mit unveräußerlicher Würde, Selbstzweckhaftigkeit und Gewissen.
+   - *Verknüpfung mit Frankl:* Findet die Gen Z in der Optionenvielfalt keinen Sinn, entsteht das *existenzielle Vakuum*. Das macht anfällig für *Konformismus* (Social-Media-Schwamm, Algorithmen, FOMO) und *Totalitarismus* (Abdriften in politischen/religiösen Extremismus durch Suche nach einfachen Antworten).
+
+** 2. Zentrale Fachbegriffe & Definitionen
+   - *Existenzielles Vakuum:* Begriff von Viktor Frankl (Begründer der Logotherapie). Zustand innerer Leere und Sinnlosigkeit, wenn weder Instinkte noch Traditionen vorgeben, was man tun soll.
+   - *Konformismus:* Unkritisches Anpassen an die Mehrheit bzw. Gruppe („Tun, was alle tun“), um Orientierungslosigkeit zu überspielen.
+   - *Totalitarismus:* Unterwerfung unter eine absolute Autorität oder Ideologie („Tun, was eine Autorität sagt“), bei der eigene Freiheit und Urteilskraft aufgegeben werden.
+   - *Selbstzweckhaftigkeit (Immanuel Kant):* Grundsatz, dass der Mensch Zweck an sich selbst ist und niemals bloßes Werkzeug oder Mittel für fremde Zwecke sein darf.
+   - *Autonomie vs. Determiniertheit:*
+     - *Autonomie:* Selbstbestimmung und Fähigkeit zu freier sittlicher Entscheidung.
+     - *Determiniertheit:* Vorbestimmtsein durch Biologie, Gene, Umwelt oder gesellschaftliche Zwänge.
+   - *Reduktionismus:* Das unzulässige Verkürzen des Menschen auf nur eine Dimension (z. B. *biologistischer Reduktionismus*, der den Geist ignoriert).
+   - *Mehrdimensionalität:* Ganzheitliche Sicht: Der Mensch vereint biologische, psychologische, soziale und geistig-existenzielle Dimensionen.
+   - *Soziale Rolle vs. Soziale Position:*
+     - *Soziale Position:* Platz im Gefüge (wer man ist, z. B. Schüler, Sohn).
+     - *Soziale Rolle:* An die Position geknüpfte Verhaltenserwartungen der Umwelt (was man tun soll).
+
+
+* Kompakte Ex-Zusammenfassung (Alle Themen auf einen Blick)
+
+** 1. Soziologie: Position, Rolle & Rollenerwartungen (Schwerpunkt)
+   - *Soziale Position (Status / Differenzierung):*
+     - Was/Wer jemand im sozialen Gefüge ist (z. B. Schüler, Sohn, Vater, Arzt).
+   - *Soziale Rolle (Normen):*
+     - Was jemand tun soll – Summe aller Verhaltens- und Handlungsmuster, die an eine Position geknüpft sind.
+     - /Merksatz:/ Die Position *hat* man, die Rolle *spielt* man.
+   - *Rollenerwartungen:*
+     - Konkrete Erwartungen der Gesellschaft an das Verhalten des Rollenträgers (z. B. Fleiß, Disziplin und Pünktlichkeit beim Schüler).
+   - *Wandel der Rollen in der Familie (Früher vs. Heute):*
+     - *Früher (traditionell):* Autoritäre Hierarchie (Vater an der Spitze), Pflicht zu Gehorsam, starre Geschlechterrollen, wirtschaftliche Notwendigkeit der Mitarbeit.
+     - *Heute (modern):* Partnerschaftlich und demokratisch (Beziehung auf *Augenhöhe*), Mitspracherecht und Verhandlung, Fokus auf Bildung und Selbstentfaltung (hoher Leistungs-/Studiendruck).
+
+** 2. Gen Z & Viktor Frankl: Das existenzielle Vakuum
+   - *Ausgangslage Gen Z:* Unendliche Optionen, Freiheit und digitale Dauervernetzung – gleichzeitig Zukunftsangst, Instabilität und Orientierungslosigkeit.
+   - *Existenzielles Vakuum:* Zustand innerer Leere und Sinnlosigkeit nach Wegfall fester Traditionen.
+   - *Zwei Fehlhaltungen / Reaktionen:*
+     1. *Konformismus („Tun, was alle tun“):*
+        - Flucht in Masse und Trends => erklärt den *Überkonsum* (Fast Fashion, Influencer-Käufe für Gruppenzugehörigkeit).
+     2. *Totalitarismus („Tun, was eine Autorität sagt“):*
+        - Abgabe der eigenen Verantwortung an radikale Gruppen mit einfachen Schwarz-Weiß-Antworten => erklärt das Abdriften in *Extremismus in beide Richtungen*.
+
+** 3. Menschenbilder: Franz Moor vs. Kant & christliche Anthropologie
+   - *Franz Moor (Schiller: Die Räuber):*
+     - *Biologistischer Reduktionismus:* Reduktion auf reine Materie, Triebe und Zufall („Handvoll Dreck“). Kein Eigenwert, kein Sinn, keine moralische Verantwortung.
+   - *Immanuel Kant:*
+     - *Selbstzweckhaftigkeit:* Der Mensch ist Zweck an sich selbst und darf niemals bloßes Mittel zum Zweck (Werkzeug) sein. Besitzt Vernunft und Autonomie.
+   - *Christliches Menschenbild:*
+     - Unantastbare Würde durch *Gottebenbildlichkeit*; Verantwortung vor Gott und Mitmenschen.
+
+** 4. Der multidimensionale Mensch (Synthese)
+   - *Biologische Perspektive:* Evolution, Biochemie, Triebe, Determiniertheit (reine Natur ist wert- und moralfrei).
+   - *Psychologisch-existenzielle Perspektive:* Sinnfrage, Gewissen, Werte, freie Entscheidung, ethische Verantwortung.
+   - *Fazit für die Ex:* Beide Seiten gehören zusammen. Wer den Menschen *nur biologisch* sieht, landet im Reduktionismus (Verlust der Würde); wer das *Biologische leugnet*, verfehlt die Realität.
