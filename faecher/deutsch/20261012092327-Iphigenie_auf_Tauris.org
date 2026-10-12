@@ -1,0 +1,51 @@
+:PROPERTIES:
+:ID: E654CDF5-8F92-4EC0-BE4F-76EFB85D1178
+:END:
+#+TITLE: Iphigenie auf Tauris
+#+filetags: :deutsch:q12:
+
+* AB  
+[[/Users/morothox/Downloads/15801_01a_Arbeitsblatt.pdf][Ab]]
+[[/Users/morothox/Downloads/15801_01b_Arbeitsblatt.pdf][Eingangsmonolog]]
+
+* Der Artemis-Kult im antiken Griechenland
+
+** Aufgabe 1: Profil der Göttin Artemis
+- *Herkunft & Verwandtschaft:* Tochter von Zeus und der Titanin Leto, Zwillingsschwester Apollos (Z. 22f., 31f.)
+- *Zuständigkeitsbereiche & Attribute:*
+  - Göttin der Jagd, der Natur, der Wildnis und später auch des Mondes (Z. 23f.)
+  - Anführerin der Nymphen („muntere Anführerin“, Z. 24, 48)
+  - Herrin der Waldtiere, heilig ist ihr vor allem der Hirsch (Z. 24f.)
+  - Berühmtester Tempel in Ephesos (eines der antiken Weltwunder, Z. 26f.)
+- *Charakter & Wesenszüge:*
+  - Jungfräulich, unnahbar, aber vor allem streng, wild und grausam (Z. 27f.)
+  - Ambivalentes Doppelwesen (Leben schenken vs. fordern): Als Hüterin der Frauen, Kinder und Gebärenden schenkt sie Leben, kann und darf es aber auch willkürlich vernichten („Zur Löwin für die Frauen hat dich Zeus gemacht, zu töten, welche du willst“, Z. 29f.)
+  - Rachsüchtig und gnadenlos: Bestraft Niobe für die Beleidigung ihrer Mutter Leto „geradezu bestialisch“, indem sie zusammen mit Apoll alle 14 Kinder Niobes tötet (Z. 31–34)
+- *Kult & Opferpraxis:*
+  - Ihr Opferdienst zählte zu den grausamsten griechischen Blutopfern (Z. 20f.) – sie bleibt stets die „Herrin der Opfer, gerade der grausamen, blutigen Opfer“ (Z. 39f.), deren Bild nach Menschenblut verlangt (Z. 40f.)
+  - Im Heiligtum Brauron dienten Mädcheninitiationsrituale als Freikauf von ihrer Macht – dahinter steht als historische Schicht das archaische Mädchenopfer (Z. 34–39)
+  - Rituelle Grausamkeiten überlebten bis in die klassische Stadtkultur (z. B. blutiges Einritzen am Hals in Halai Araphenides oder Knabenauspeitschen in Sparta, Z. 41–45)
+- *Doppelgesicht:* Schwankt zwischen heiterer Nymphen-Anführerin und der uralten Härte vorzivilisatorischer Vorzeit (Z. 44–48)
+
+** Aufgabe 2: Bedeutung der Emanzipation vom Menschenopfer in der Kulturgeschichte
+- *Zentraler Meilenstein der Kulturentwicklung:* Die Ersetzung des Menschenopfers durch das Tieropfer gilt kulturgeschichtlich als grundlegender zivilisatorischer Fortschritt (Z. 56–58).
+- *Befreiung & Selbstbestimmung:* Durch die symbolische Stellvertretung löst sich der Mensch aus dem starren Zwang archaischer Rituale. Er nimmt sich die Freiheit, sein Verhältnis zu den Naturmächten und Göttern eigenständig neu zu definieren (Z. 58–60) – der Mensch ist ihnen nicht mehr nur blind und verängstigt ausgeliefert.
+- *Zunehmender Humanitätsgedanke:* Mit wachsender Zivilisation empfanden die Griechen die grausamen Blutrituale als unpassend und peinlich für ihr Selbstverständnis (Z. 52–55).
+- *Sublimierung statt radikalem Bruch:* Menschenopfer wurden schrittweise in mildere, symbolische Ersatzhandlungen umgewandelt (z. B. Tieropfer, Initiationsriten, symbolisches Blutvergießen wie in Halai Araphenides, Z. 49–52).
+- *Mythengeschichtlicher Wendepunkt:* Die verhinderte Opferung Iphigenies in Aulis (Artemis tauscht sie gegen eine Hirschkuh) spiegelt genau diesen Übergang von vorzivilisatorischer Härte zur humaneren Kultur wider (Z. 60f.).
+
+** Aufgabe 3: Fortsetzung des Tantalidenmythos durch Euripides
+- *In welcher Weise (Ausgestaltung):*
+  - Euripides erfindet die Fortsetzung in seinem Drama /Iphigenie bei den Taurern/ (um 412 v. Chr.) unter Nutzung attischer Lokaltraditionen selbst (Z. 68–70, 73–75).
+  - Iphigenie stirbt nicht in Aulis, sondern wird von Artemis nach Tauris entrückt.
+  - Dort zwingt der barbarische Kult gefangene griechische Frauen, Menschenopfer an Fremden zu vollziehen (Z. 71–73).
+  - Iphigenie und ihr Bruder Orest rauben schließlich das Altarbild der Göttin und fliehen nach Griechenland: Sie befreien damit Artemis aus der „barbarischen“ Gefangenschaft und erlösen die Frauen vom Zwang des Tötens (Z. 69–73).
+- *Zu welchem Zweck (Funktion & Absicht):*
+  - *Zivilisatorische Überlegenheit demonstrieren:* Die Griechen machten die Taurer auf der Krim zur Projektionsfläche für ihre eigene grausame Vorzeit (Z. 61–68). Indem das Menschenopfer den Taurern als Barbaren zugeschrieben wurde, konnten die Griechen ihre eigene zivilisatorische und moralische Überlegenheit betonen (Z. 65–68).
+  - *Reinigung des Artemis-Kults:* Die Göttin wird aus dem barbarischen Raum befreit und nach Attika geholt – der Kult wird damit gereinigt, humanisiert und in die griechische Polis integriert (Z. 69–71).
+  - *Legitimation lokaler Kulte:* Euripides liefert eine mythologische Begründung für bestehende attische Kulte und Feste (wie z. B. in Halai Araphenides).
+  - *Heilung der Tantaliden:* Auf der Mythenebene wird der endlose Fluch aus innerfamiliärem Mord und Rache durch die Versöhnung und Rettung der Geschwister endlich durchbrochen.
+  
+* Eingangsmonolog
+
+

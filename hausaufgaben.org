@@ -12,3 +12,7 @@
   DEADLINE: <2026-10-21 Mi.>
   Fach: English
   Notizen: 
+* TODO Stielmittel ex 
+  DEADLINE: <2026-10-16 Fr.>
+  Fach: Deutsch
+  Notizen: Klassik + Stielmittel 
