@@ -16,3 +16,7 @@
   DEADLINE: <2026-10-16 Fr.>
   Fach: Deutsch
   Notizen: Klassik + Stielmittel 
+* TODO B.S. 16/ 2 + 6 
+  DEADLINE: <2026-10-15 Do.>
+  Fach: Mathe
+  Notizen: 

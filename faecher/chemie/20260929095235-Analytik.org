@@ -200,9 +200,8 @@
       - BaSO₄ ist der Nachweis: Der Niederschlag ist *säurebeständig*, er löst sich auch nach Zugabe von verdünnter HCl nicht auf.
       - *Störung:* Auch Sulfit- (SO₃²⁻) und Carbonat-Ionen (CO₃²⁻) geben mit Ba²⁺ weiße Niederschläge (BaSO₃ bzw. BaCO₃). Diese lösen sich aber in Säure (SO₂↑ bzw. CO₂↑). Ansäuern vor der BaCl₂-Zugabe beseitigt die Störung.
     
-*** 1.5 Nachweis von Halogeniden
-    Versuch: Lösung eines halogenit-haltigen-salzes kaliumbromid
-
+*** 1.5 Nachweis von Halogeniden Versuch: 
+    Lösung eines halogenit-haltigen-salzes kaliumbromid
     Voraussetzungen: Testsubstanz und Nachweis-Reagenz müssen löslich sein.
     Vorgänge auf Teilchenebene
 
@@ -267,7 +266,154 @@
       - *Zusatz:* Die Silberhalogenide sind lichtempfindlich. Meist wird die Probe zusätzlich mit Ammoniak-Lösung geprüft, da sich AgCl leichter löst als AgBr.
 
 *** 1.6 Nachweis durch Farbreaktion
-    Versuch: Ammonium-Nachweis
-    
+    Versuch: Ammonium-Nachweis (Kreuzprobe / Gasaustreibung mit Indikator-Farbreaktion)
+
+    Voraussetzungen: Freisetzung von gasförmigem Ammoniak durch eine starke Base.
+    Vorgänge auf Teilchenebene & Farbreaktion am Indikator
+
+    *Versuch: Verdrängung von Ammoniak und Farbreaktion am Indikatorpapier*
+
+    #+BEGIN_SRC text
+      feuchtes Indikatorpapier (rot/gelb)
+      wird an die Öffnung gehalten
+              ┌───────────────┐
+              │ ░░░░░░░░░░░░░ │  ◄── Farbumschlag nach INTENSIV BLAU (pH > 8)
+              └───────┬───────┘
+                      │
+                      ▼
+                  ┌───┴───┐
+                  │       │
+                  │       │
+                  │  ↑ ↑  │ NH₃ ↑ (Ammoniakgas steigt auf,
+                  │       │        stechender Geruch)
+                  │~~~~~~~│
+                  │. . . .│ Probe (z.B. NH₄Cl)
+                  │. . . .│ + Natronlauge (NaOH)
+                  └───────┘
+                 Reagenzglas (evtl. leicht erwärmt)
+    #+END_SRC
+
+    - *Geräte & Chemikalien:*
+      Reagenzglas (alternativ zwei Uhrgläser für die Kreuzprobe), Reagenzglasständer, Spatel, Pipette, Brenner/Wasserbad zum vorsichtigen Erwärmen; Ammonium-haltige Probe (z. B. Ammoniumchlorid NH₄Cl), verdünnte Natronlauge (NaOH, ca. 2 mol/l), demineralisiertes Wasser, Universalindikatorpapier (oder rotes Lackmuspapier).
+
+    - *Durchführung:*
+      1. Eine Spatelspitze der ammoniumhaltigen Probe wird in ein Reagenzglas gegeben und mit ca. 1–2 ml verdünnter Natronlauge (NaOH) versetzt (oder als Feststoff gemischt).
+      2. Ein Streifen Universalindikatorpapier wird mit demineralisiertem Wasser angefeuchtet und vorsichtig über die Öffnung des Reagenzglases gehalten. Wichtig: Das Papier darf weder den Rand noch die Lösung berühren!
+      3. Das Reagenzglas wird vorsichtig geschwenkt und bei Bedarf leicht handwarm erwärmt (nicht sieden lassen, damit keine Lauge verspritzt).
+      4. Geruchsprobe: Durch vorsichtiges Zufächeln mit der Hand wird der Geruch über dem Glas geprüft.
+
+    - *Beobachtung:*
+      - Das angefeuchtete Indikatorpapier färbt sich an der Öffnung des Reagenzglases sofort intensiv **blau** bis blau-violett (stark basisches Milieu, pH ca. 9–11).
+      - Es entsteht ein stechender, charakteristischer Geruch nach Ammoniak (Salmiakgeist).
+      - An der kühleren oberen Glaswand schlägt sich feiner Flüssigkeitsbeschlag nieder.
+
+    - *Vorgänge auf Teilchenebene (Mikroebene):*
+      #+BEGIN_SRC text
+        In der Lösung (Reagenzglas):          Im Wasserfilm des Papiers:
+
+          NH₄⁺   +   OH⁻                       NH₃   +   H₂O
+             ↘   ↙                                ↘   ↙
+           [Protonenübergang]                  [Rückreaktion]
+                   │                                  │
+                   ▼                                  ▼
+              NH₃ ↑  +  H₂O                      NH₄⁺  +  OH⁻
+        (flüchtiges Gas entweicht)          (freie OH⁻ bewirken Farbumschlag
+                                             des Indikatorfarbstoffs -> BLAU)
+      #+END_SRC
+      - In der Lösung liegen Ammonium-Ionen (NH₄⁺) und Hydroxid-Ionen (OH⁻) frei vor.
+      - Hydroxid-Ionen sind wesentlich stärkere Basen als Ammoniak. Deshalb entreißt das OH⁻ dem NH₄⁺ ein Proton (H⁺): Es findet eine Säure-Base-Reaktion (Protolyse) statt.
+      - Dabei entsteht ungeladenes, flüchtiges Ammoniakgas (NH₃), das aus der wässrigen Lösung nach oben entweicht.
+      - Das aufsteigende NH₃ löst sich im Wasserfilm des feuchten Indikatorpapiers und reagiert dort erneut als Brønsted-Base: Es entreißt Wassermolekülen Protonen, wodurch wieder Hydroxid-Ionen (OH⁻) entstehen.
+      - Die freien OH⁻-Ionen im Wasserfilm deprotonieren den Indikatorfarbstoff -> *Farbumschlag nach Blau*.
+
+    - *Erklärung & Reaktionsgleichungen:*
+      - *1. Schritt: Verdrängung des Ammoniaks durch die stärkere Base (Gasaustreibung):*
+        Ammonium-Ionen wirken als schwache Brønsted-Säure, die Hydroxid-Ionen als starke Base:
+        - *Ionengleichung:*
+          NH₄⁺ + OH⁻ -> NH₃↑ + H₂O
+        - *Stoffgleichung:*
+          NH₄Cl + NaOH -> NH₃↑ + NaCl + H₂O
+
+      - *2. Schritt: Farbreaktion am Indikatorpapier (Rückreaktion im Wasserfilm):*
+        Das gasförmige Ammoniak löst sich im Wasser und reagiert alkalisch:
+        - *Gleichgewichtsreaktion:*
+          NH₃ + H₂O ⇌ NH₄⁺ + OH⁻
+
+        -> *Der Farbumschlag des Indikators nach Blau beweist zweifelsfrei das Entweichen einer basischen flüchtigen Substanz (Ammoniak) und damit das Vorliegen von Ammonium-Ionen (NH₄⁺)!*
+
+    - *Ergänzung: Spezifische chemische Farbreaktion mit Neßlers Reagenz:*
+      - Gibt man zu einer neutralen bis schwach alkalischen Ammoniumprobe *Neßlers Reagenz* (alkalische Lösung von Kaliumtetraiodomercurat(II), K₂[HgI₄]), entsteht eine charakteristische **gelb-braune bis rotbraune Färbung** bzw. ein rotbrauner Niederschlag (Iodid der Millonschen Base, [Hg₂N]I · H₂O):
+        2 [HgI₄]²⁻ + NH₄⁺ + 4 OH⁻ -> [Hg₂N]I · H₂O↓ + 7 I⁻ + 3 H₂O
+      - Wegen der Giftigkeit von Quecksilber (Hg) wird dieser Nachweis in der Schule heute meist durch die Kreuzprobe / Indikator-Farbreaktion oder durch die Bildung von *Indophenolblau* (Berthelot-Reaktion) ersetzt.
+
+    - *Nachweis vs. Störung:*
+      - *Häufigste Fehlerquelle:* Berührt das Indikatorpapier versehentlich die mit NaOH benetzte Reagenzglaswand oder gelangt ein Spritzer Lauge darauf, färbt es sich ebenfalls blau (falsch-positiver Befund durch die zugegebene Base). Das Papier darf deshalb strikt nur in den Gasraum gehalten werden.
+      - *Spezifität:* Flüchtige organische Amine (z. B. Methylamin) reagieren ebenfalls basisch und riechen fischig-ammoniakalisch; in typischen anorganischen Schulproben liegen solche Verbindungen jedoch nicht vor.
+
+*** 1.7 Untersuchung einer Substanz auf SO₄²⁻-Ionen (Sulfat-Ionen) mit BaCl₂
+    Versuch: Vergleichsreihe mit Positivprobe, Testsubstanz und Blindprobe
+
+    Voraussetzungen: Fällungsreaktion mit Bariumchlorid und Prüfung auf Säurebeständigkeit mit Salzsäure.
+
+    *Versuch: Vergleichende Fällungsreaktion in drei Reagenzgläsern*
+
+    #+BEGIN_SRC text
+         Pipette (BaCl₂ + HCl)     Pipette (BaCl₂ + HCl)     Pipette (BaCl₂ + HCl)
+                [   ]                     [   ]                     [   ]
+                 | |                       | |                       | |
+                 ▼ :                       ▼ :                       ▼ :
+
+         ⚪ ⚪ ⚪ (milchig-weiß)           ? ? ? (Vergleich)          (bleibt klar)
+         ░░░░░░░░░░░░░░░░░░░       ░░░░░░░░░░░░░░░░░░░       ~~~~~~~~~~~~~~~~~~~
+         \_________________/       \_________________/       \_________________/
+         (  Positivprobe   )       (  Testsubstanz   )       (   Blindprobe    )
+          \   (Na₂SO₄)    /         \  (unbekannt)  /         \ (dest. Wasser) /
+           `-------------'           `-------------'           `-------------'
+            Reagenzglas 1             Reagenzglas 2             Reagenzglas 3
+           (Positivkontrolle)        (Probe / Analyt)         (Negativkontrolle)
+    #+END_SRC
+
+    - *Geräte & Chemikalien:*
+      3 Reagenzgläser im Reagenzglasständer, 3 Pipetten, Spatel;
+      - Reagenzglas 1: Natriumsulfatlösung (Na₂SO₄, Positivkontrolle)
+      - Reagenzglas 2: gelöste Testsubstanz (unbekannte Probe)
+      - Reagenzglas 3: demineralisiertes/destilliertes Wasser (Blindprobe/Negativkontrolle)
+      - Nachweisreagenzien: verdünnte Bariumchloridlösung (BaCl₂), verdünnte Salzsäure (HCl).
+
+    - *Durchführung:*
+      1. Drei saubere Reagenzgläser werden beschriftet (1: Na₂SO₄ / Positiv, 2: Testsubstanz, 3: Blindprobe).
+      2. In Reagenzglas 1 werden ca. 2 ml Natriumsulfatlösung, in Reagenzglas 2 ca. 2 ml der gelösten Testsubstanz und in Reagenzglas 3 ca. 2 ml destilliertes Wasser gegeben.
+      3. Alle drei Gläser werden zunächst mit einigen Tropfen verdünnter Salzsäure (HCl) angesäuert, um eventuell störende Carbonat- oder Sulfitionen vorab zu zersetzen.
+      4. Anschließend werden mit einer Pipette jeweils ca. 3–5 Tropfen Bariumchloridlösung (BaCl₂) zu jedem Reagenzglas getropft. Die Gläser werden kurz geschwenkt und das Ergebnis optisch miteinander verglichen.
+
+    - *Beobachtung:*
+      - *Reagenzglas 1 (Na₂SO₄ - Positivkontrolle):* Es bildet sich sofort eine deutliche milchig-weiße Trübung (feiner weißer Niederschlag von BaSO₄), die auch im Sauren stabil bleibt.
+      - *Reagenzglas 3 (dest. Wasser - Blindprobe):* Die Flüssigkeit bleibt vollkommen klar und farblos; keinerlei Trübung.
+      - *Reagenzglas 2 (Testsubstanz):*
+        - *Ergebnis A (Sulfat enthalten):* Es bildet sich ebenfalls eine milchig-weiße Trübung, die exakt wie in Reagenzglas 1 aussieht und säurebeständig ist.
+        - *Ergebnis B (kein Sulfat enthalten):* Die Lösung bleibt vollständig klar wie die Blindprobe in Reagenzglas 3.
+
+    - *Funktion der Vergleichsreihe (Positiv- und Negativkontrolle):*
+      - *Reagenzglas 1 (Positivkontrolle):* Beweist, dass das Nachweisreagenz (BaCl₂) einwandfrei funktioniert und zeigt das typische Aussehen eines positiven Befunds als direkten Referenzwert.
+      - *Reagenzglas 3 (Blindprobe / Negativkontrolle):* Schließt Verunreinigungen des Wassers oder des BaCl₂-Reagenzes aus. Wenn hier eine Trübung auftreten würde, wären die verwendeten Chemikalien verunreinigt und der Test ungültig.
+      - *Reagenzglas 2 (Testsubstanz):* Das Ergebnis kann zweifelsfrei durch den direkten Vergleich mit Glas 1 und Glas 3 abgelesen werden.
+
+    - *Erklärung & Reaktionsgleichungen:*
+      Sulfationen reagieren mit Bariumionen zu schwer löslichem Bariumsulfat (BaSO₄), das als feiner weißer Feststoff ausfällt:
+      - *Ionengleichung:*
+        SO₄²⁻ + Ba²⁺ -> BaSO₄↓
+      - *Stoffgleichung (Positivprobe):*
+        Na₂SO₄ + BaCl₂ -> BaSO₄↓ + 2 NaCl
+
+    - *Bedeutung der Salzsäure (Säurebeständigkeit als Absicherung):*
+      Bariumsulfat (BaSO₄) ist das Salz einer starken Säure (H₂SO₄) und löst sich in Salzsäure *nicht* auf.
+      - *Stör-Ionen ausschließen:* Bariumcarbonat (BaCO₃) und Bariumsulfit (BaSO₃) sind ebenfalls weiße Niederschläge, lösen sich aber in Salzsäure unter Gasentwicklung (CO₂↑ bzw. SO₂↑) wieder auf:
+        BaCO₃↓ + 2 H₃O⁺ -> Ba²⁺ + CO₂↑ + 3 H₂O
+        BaSO₃↓ + 2 H₃O⁺ -> Ba²⁺ + SO₂↑ + 3 H₂O
+      - -> *Nur eine Trübung, die nach Zugabe von verdünnter Salzsäure bestehen bleibt, beweist sicher Sulfationen (SO₄²⁻)!*
+
+    - *Auswertung der Testsubstanz:*
+      - Trübung wie in Glas 1 -> *Sulfationen (SO₄²⁻) positiv nachgewiesen.*
+      - Klar wie in Glas 3 -> *Keine Sulfationen (SO₄²⁻) in der Probe vorhanden.*
 * Quantitative Analytik
 ** Wie viel ist drinnen?
