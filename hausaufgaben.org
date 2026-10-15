@@ -20,3 +20,11 @@
   DEADLINE: <2026-10-15 Do.>
   Fach: Mathe
   Notizen: 
+* TODO Wr ex
+  DEADLINE: <2026-10-20 Di.>
+  Fach: WR
+  Notizen: 
+* TODO Bs 18 / 3
+  DEADLINE: <2026-10-16 Fr.>
+  Fach: Mathe
+  Notizen: 

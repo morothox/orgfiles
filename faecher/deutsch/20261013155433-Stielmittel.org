@@ -1,0 +1,176 @@
+:PROPERTIES:
+:ID: 105A8D76-00AE-441A-BED5-68EE0E95844B
+:END:
+#+TITLE: Stielmittel
+
+#+filetags: :deutsch:q12:
+[[/Users/morothox/Downloads/Rhetorik Grundwissen Oberstufe (Klett).pdf][Stielmittel-GW-Klett]]
+
+* 20 wichtigste Stilmittel für die Q12 (Ex-Wissen)
+  /Auswahl aus dem Klett-Grundwissen – die zentralen rhetorischen Figuren für Analysen, Gedichte und Klausuren./
+
+** 1. Antithese
+  - *Definition:* Gegenüberstellung von gegensätzlichen Begriffen, Gedanken oder Aussagen.
+  - *Wirkung & Funktion:* Verdeutlicht innere Zerrissenheit von Figuren oder fundamentale Konflikte im Drama (z. B. Pflicht vs. Neigung, Wahrheit vs. Lüge, Humanität vs. Barbarei).
+  - *Beispiel (Iphigenie):* „Das Land der Griechen mit der Seele suchend“ (V. 12) – starker Kontrast zwischen seelischer Heimat und der realen Fremde auf Tauris; oder: „Ein edler Mann wird durch ein gutes Wort / Der Frauen weit geführt.“ (V. 213f.) im Gegensatz zu roher Gewalt.
+
+** 2. Inversion
+  - *Definition:* Umstellung der regulären Satzgliedfolge (z. B. Prädikat vor Subjekt oder Voranstellung eines Objekts/Adverbs).
+  - *Wirkung & Funktion:* Dient im Drama der Einpassung in das Metrum (Blankvers) und betont das vorangestellte Wort besonders stark.
+  - *Beispiel (Iphigenie):* „Heraus in eure Schatten, rege Wipfel“ (V. 1) – die Richtung („Heraus“) und das Ziel („Schatten“) werden durch die Voranstellung sofort dramatisch hervorgehoben.
+
+** 3. Anapher
+  - *Definition:* Wiederholung desselben Wortes oder derselben Wortgruppe an aufeinanderfolgenden Vers- oder Satzanfängen.
+  - *Wirkung & Funktion:* Steigert die Eindringlichkeit, verleiht Klagen oder Bitten Rhythmus und emotionalen Nachdruck.
+  - *Beispiel (Iphigenie):* Wiederholtes Klagen über die Fremde: „Vergebens... / Vergebens...“ (bzw. im Klett-Blatt: „Mein sind die Jahre nicht... / Mein sind die Jahre nicht...“).
+
+** 4. Parallelismus
+  - *Definition:* Wiederholung derselben Satzbaustruktur in aufeinanderfolgenden Sätzen oder Versen.
+  - *Wirkung & Funktion:* Erzeugt sprachliche Ausgewogenheit, Ordnung und Harmonie – typisch für das Formideal der Klassik; stellt Handlungen oder Wesenszüge auf eine Stufe.
+  - *Beispiel (Iphigenie):* Ausgewogene Wechselreden zwischen Thoas und Iphigenie (z. B. Subjekt-Prädikat-Objekt-Wiederholungen in argumentativen Dialogen).
+
+** 5. Chiasmus
+  - *Definition:* Kreuzweise Überkreuzstellung von syntaktisch oder inhaltlich korrespondierenden Satzteilen (Schema: A-B / B-A).
+  - *Wirkung & Funktion:* Hebt gegensätzliche Behauptungen hervor, sorgt für symmetrische Geschlossenheit und wirkt rhetorisch geschliffen und dialektisch.
+  - *Beispiel (Klassik/Klett):* „Eng ist die Welt und der Verstand ist weit“ (Schiller).
+
+** 6. Klimax (Gegenteil: Antiklimax)
+  - *Definition:* Stufenweise Steigerung von Wörtern oder Satzteilen, meist dreiteilig, vom Schwächeren zum Stärkeren.
+  - *Wirkung & Funktion:* Dramatische Zuspitzung, Aufbau von Spannung und Erregung hin zu einem Höhepunkt.
+  - *Beispiel (Iphigenie):* Iphigenies innerer Entscheidungsprozess im 5. Aufzug – von Zweifel über Andeutungen hin zum offenen Bekenntnis der ganzen Wahrheit vor König Thoas.
+
+** 7. Rhetorische Frage
+  - *Definition:* Scheinfrage, auf die keine Antwort erwartet wird, weil die Antwort entweder offensichtlich ist oder die Frage als Vorwurf/Feststellung gemeint ist.
+  - *Wirkung & Funktion:* Appelliert an das Gewissen oder die Vernunft des Gegenübers; spiegelt in Monologen Verzweiflung und ethische Selbstprüfung wider.
+  - *Beispiel (Iphigenie):* Iphigenie zweifelt an grausamen Göttergeboten: „Verlangt die Göttin wirklich Menschenblut?“ / Appell an Thoas: „Hat denn zur Unerhörten Tat der Mann allein das Recht?“
+
+** 8. Metapher
+  - *Definition:* Bildhafter Ausdruck, bei dem ein Begriff aus seinem ursprünglichen Bedeutungsbereich in einen anderen übertragen wird (Vergleich ohne „wie“).
+  - *Wirkung & Funktion:* Veranschaulicht seelische Zustände und abstrakte Begriffe (Schicksal, Fluch, Schuld) sinnlich und einprägsam.
+  - *Beispiel (Iphigenie):* Der Tantalidenfluch als unentrinnbares „Band“ oder „Netz“, das die Familie umschlingt; das „Meer“ als Trennung und stürmische Lebensgefahr.
+
+** 9. Personifikation
+  - *Definition:* Vermenschlichung von unbelebten Dingen, Naturerscheinungen oder abstrakten Begriffen.
+  - *Wirkung & Funktion:* Schicksalsmächte, Schuld oder Götterwillen treten als handelnde Personen auf und erhöhen die Dramatik.
+  - *Beispiel (Iphigenie):* „Des Schicksals Hand“, die Iphigenie führt; oder die Furien (Erinnyen) als fleischgewordene Personifikationen von Orests nagendem Schuldbewusstsein.
+
+** 10. Ellipse
+  - *Definition:* Grammatisch unvollständiger Satz; Auslassung von leicht ergänzbaren Satzteilen (oft Subjekt oder Prädikat).
+  - *Wirkung & Funktion:* Zeigt hohe emotionale Erregung, Verwirrung, Atemlosigkeit oder Sprachlosigkeit – durchbricht gezielt die sonst harmonische Blankvers-Ordnung.
+  - *Beispiel (Iphigenie):* Orests Ausrufe in seinen Wahnzuständen (3. Aufzug), wenn er von Schuldgefühlen gequält wird und keine vollständigen Sätze mehr formen kann.
+
+** 11. Oxymoron
+  - *Definition:* Verbindung zweier sich scheinbar oder tatsächlich gegenseitig ausschließender, widersprüchlicher Begriffe in einem Wortpaar.
+  - *Wirkung & Funktion:* Pointierte Zuspitzung, erzeugt gedankliche Spannung, verblüfft den Leser und spiegelt innere Zerrissenheit wider.
+  - *Beispiel (Klett / Literatur):* „lebendiger Tod“, „stumm sprechen“, „bittersüße Tränen“, „schwarze Milch“ (Celan).
+
+** 12. Paradoxon
+  - *Definition:* Scheinbar widersinnige oder unlogische Aussage bzw. Gedankengang, der bei genauerer Betrachtung eine tiefere Wahrheit enthält.
+  - *Wirkung & Funktion:* Durchbricht gewohnte Denkmuster, schockiert, regt zu intensivem Nachdenken über komplexe Lebenswahrheiten an.
+  - *Beispiel (Klett / Philosophie):* „Der Tod ist das wahre Leben.“ / „Ich weiß, dass ich nichts weiß.“ (Sokrates) / „Weniger ist oft mehr.“
+
+** 13. Alliteration
+  - *Definition:* Betonte Stammsilben benachbarter oder syntaktisch verbundener Wörter beginnen mit demselben Konsonanten bzw. Anlaut (Klangfigur).
+  - *Wirkung & Funktion:* Steigert den Sprachrhythmus und die Einprägsamkeit (Merkspruch-Charakter), verknüpft die Begriffe eng miteinander.
+  - *Beispiel (Klett):* „mit Mann und Maus“, „Milch macht müde Männer munter“, „Kind und Kegel“.
+
+** 14. Vergleich
+  - *Definition:* Verknüpfung zweier Bedeutungsbereiche durch ein gemeinsames Merkmal (tertium comparationis) mithilfe eines Vergleichswortes („wie“, „als ob“).
+  - *Wirkung & Funktion:* Veranschaulicht abstrakte Gefühle oder Vorgänge bildhaft, erzeugt klare Assoziationen und unterstützt das Kopfkino des Lesers.
+  - *Beispiel (Klett):* „schnell wie ein Gepard“, „stark wie ein Löwe“, „Er stand da, als ob die Welt unterginge“.
+
+** 15. Symbol
+  - *Definition:* Ein konkreter, sinnlich wahrnehmbarer Gegenstand oder Vorgang, der über sich hinausweist und für eine abstrakte Idee oder einen Sinnzusammenhang steht (kulturell festgelegt).
+  - *Wirkung & Funktion:* Verdichtet komplexe Themen und Motive auf ein einziges Zeichen, dient oft als roter Faden (Leitmotiv) im Text.
+  - *Beispiel (Klett):* Taube (Frieden), Kreuz (Christentum / Glaube / Erlösung), Rose (Liebe und Vergänglichkeit), Sensenmann (Tod).
+
+** 16. Hyperbel
+  - *Definition:* Starke, offensichtliche und maßlose Übertreibung (Vergrößerung oder Verkleinerung eines Sachverhalts).
+  - *Wirkung & Funktion:* Dramatisiert Geschehnisse, verstärkt Emotionen extrem; wirkt je nach Kontext pathetisch-verzweifelt oder ironisch-lächerlich.
+  - *Beispiel (Klett):* „Zuschauer wie Sand am Meer“, „ein Schneidergeselle, so dünn, dass die Sterne durchschimmern konnten“, „ich weinte ein Meer von Tränen“.
+
+** 17. Ironie
+  - *Definition:* Rhetorische Redeweise, bei der das Gegenteil des eigentlich Gemeinten formuliert wird, der Adressat den wahren Sinn aber durch Kontext oder Tonfall versteht.
+  - *Wirkung & Funktion:* Verspottung, Entlarvung von Heuchelei oder Fehlern, Distanzierung des Autors, regt zum kritischen Hinterfragen an.
+  - *Beispiel (Klett):* „Schöne Bescherung!“ (für ein Missgeschick), „Das hast du ja wieder glänzend hinbekommen!“.
+
+** 18. Akkumulation
+  - *Definition:* Häufung und Reihung von mehreren Unterbegriffen anstelle des zusammenfassenden Oberbegriffs.
+  - *Wirkung & Funktion:* Erzeugt ein lebendiges, detailreiches Bild und verstärkt den Eindruck von Fülle, Vielfalt oder chaotischem Übermaß.
+  - *Beispiel (Klett):* „Wie schadhafft ist Spriet / Mast / Steur / Ruder / Schwerdt und Kill“ (Gryphius für das gesamte Schiff); „Sonne, Mond und Sterne“ (für den Himmel).
+
+** 19. Euphemismus
+  - *Definition:* Beschönigende, verharmlosende oder mildernde Umschreibung eines tabuisierten, negativen oder unangenehmen Sachverhalts.
+  - *Wirkung & Funktion:* Verschleiert unangenehme Wahrheiten (z. B. in Politik/Wirtschaft), mildert Schmerzliches ab oder dient gesellschaftlicher Höflichkeit.
+  - *Beispiel (Klett):* „personale Verschlankung“ (für Massenentlassung), „entschlafen / von uns gehen“ (für sterben), „organisieren“ (für stehlen).
+
+** 20. Litotes
+  - *Definition:* Hervorhebung einer Aussage durch bewusste Untertreibung, Abschwächung oder doppelte Verneinung.
+  - *Wirkung & Funktion:* Wirkt zurückhaltend, bescheiden oder spöttisch; verstärkt durch die Verneinung des Gegenteils paradoxerweise die Aussagekraft.
+  - *Beispiel (Klett):* „nicht übel“ (für hervorragend), „kein schlechter Einfall“, „er ist nicht unbegabt“.
+
+* Wichtige Zusatzbegriffe für die Ex (Dramenform Klassik)
+- *Blankvers:* Reimloser, fünfhebiger Jambus mit weiblicher (klingender) oder männlicher (stumpfer) Kadenz. Steht für Beherrschung, Würde, Maß und sittliche Ruhe.
+- *Stichomythie:* Schnelle Zeilenrede / Schlagabtausch Vers für Vers zwischen zwei Figuren (z. B. Iphigenie und Thoas). Zeigt dramatische Zuspitzung und Streit.
+- *Sentenz:* Prägnanter, allgemeingültiger Sinnspruch / Weisheit (z. B. Iphigenies Aussagen über Tugend und Wahrheit).
+- *Aposiopese:* Satzabbruch vor der entscheidenden Aussage vor lauter Erregung.
+
+* Die Klassik / Weimarer Klassik (Ex-Wissen kompakt)
+  /Zusammenfassung der Kernpunkte aus den Epochennotizen für die Ex./
+
+** 1. Eckdaten & Kontext
+- *Zeitraum:* ca. 1786 (Goethes Italienreise) bis 1805 (Schillers Tod).
+- *Historischer Hintergrund:*
+  - Enttäuschung über die Französische Revolution (1789): Statt zu Freiheit und Vernunft führte sie in die Schreckensherrschaft (Jakobinerterror).
+  - Konsequenz der Klassiker: Eine rein politische/gewaltsame Veränderung scheitert. Der Mensch muss erst *ästhetisch und moralisch erzogen* werden, bevor ein humaner Staat entstehen kann.
+
+** 2. Zentrale Leitmotive & Ideale
+- *Humanität:* Das höchste Ziel der Klassik. Wahre Menschlichkeit, Nächstenliebe, Achtung der Menschenwürde. Humanität ist nach Herder nicht von Geburt an fertig, sondern eine sittliche Aufgabe, die sich der Mensch durch Bildung und Selbstdisziplin erarbeiten muss.
+- *Harmonie & Ausgleich:* Versöhnung der Gegensätze – kühler Verstand (Aufklärung) und unbändiges Gefühl (Sturm und Drang) werden in ein harmonisches Gleichgewicht gebracht.
+- *Pflicht vs. Neigung:* Der Mensch soll seine moralischen Pflichten nicht widerwillig erfüllen, sondern aus innerer Überzeugung („schöne Seele“).
+- *Antike als Vorbild:* Orientierung am griechischen Schönheitsideal. Johann Joachim Winckelmann prägte die Formel: /„edle Einfalt, stille Größe“/ (Beispiel Laokoon: Trotz größter Qualen verliert der Mensch nicht die Beherrschung und Würde; Geist triumphiert über körperliches Leid).
+- *Kunstbegriff:* Kunst soll die Natur nicht plump kopieren, sondern das Ideale und Vollkommene darstellen. Goethe: /„In der Beschränkung zeigt sich erst der Meister, / Und das Gesetz nur kann uns Freiheit geben.“/ (Strenge Regeln schenken erst wahre Freiheit).
+
+** 3. Bezug zu „Iphigenie auf Tauris“ (Musterexempel des klassischen Dramas)
+- *Iphigenie als Humanitätsideal:* Iphigenie weigert sich, die List und Täuschung von Pylades mitzumachen. Sie setzt alles auf eine Karte und gesteht Thoas die volle Wahrheit. Dadurch appelliert sie an das Gute im Menschen und rettet alle gewaltfrei.
+- *Überwindung des Tantalidenfluchs:* Der archaische Kreislauf aus Blutrache und Verbrechen wird nicht durch neue Gewalt gebrochen, sondern durch Wahrheit, Vergebung und Sittlichkeit („reine Menschlichkeit“).
+- *Humanisierung der Götter:* Die Orakelbotschaft („Bringt die Schwester zurück“) wird nicht wörtlich auf das Götterbild der Diana bezogen, sondern auf Iphigenie selbst. Die Götter wollen keine barbarischen Menschenopfer, sondern ein friedliches Miteinander.
+- *Klassische Form:* Einheit von Ort, Zeit und Handlung; durchgängiger Blankvers; symmetrischer Aufbau in 5 Akten.
+
+* Zitierregeln für Klausuren, Exen & Abitur (Q12 Bayern)
+  /Verbindliche Standards für Textanalysen am bayerischen Gymnasium./
+
+** 1. Belegfunktion & Einbettung (Keine „Zitatinseln“)
+- Zitate belegen eigene Thesen, sie ersetzen nicht den eigenen Text.
+- Zitate müssen syntaktisch und grammatikalisch nahtlos in den eigenen Satzbau eingefügt werden.
+- *Falsch:* Iphigenie trauert um ihre Heimat. „Das Land der Griechen mit der Seele suchend.“ (V. 14)
+- *Richtig:* Iphigenies Sehnsucht zeigt sich daran, dass sie das Heimatland „mit der Seele“ sucht (V. 14).
+
+** 2. Direktes (wörtliches) Zitat
+- *Anführungszeichen:* Immer in deutschen Anführungszeichen: „...“.
+- *Textertreue:* Wortlaut, Zeichensetzung und historische Rechtschreibung (z. B. bei Goethe/Klassik) müssen exakt übernommen werden; man korrigiert keine Schreibweisen des Originals.
+- *Kein „vgl.“:* Bei wörtlichen Zitaten steht in der Klammer *niemals* ein „vgl.“, sondern nur die Stellenangabe!
+  - Richtig: ...nennt sie „beklagenswert“ (V. 26).
+
+** 3. Indirektes (sinngemäßes) Zitat / Paraphrase
+- Wird ein Gedanke mit eigenen Worten zusammengefasst, steht *keine* Anführungszeichen, aber zwingend ein **vgl.** in der Belegklammer.
+- *Beispiel:* Iphigenie beklagt die gesellschaftliche Unterdrückung der Frau im Vergleich zum Mann (vgl. V. 26–31).
+
+** 4. Exakte Stellenangaben & Satzzeichen
+- *Dramen/Gedichte:* Immer mit *V.* für Vers (nicht Z. oder S.):
+  - Ein Vers: `(V. 14)`
+  - Zwei Verse: `(V. 14f.)` (für Vers 14 und folgende Zeile)
+  - Mehrere Verse: Genaue Spanne mit Bis-Strich: `(V. 27–30)`. /Wichtig in der Oberstufe:/ Auf „ff.“ verzichten, Lehrer verlangen die genaue Endziffer.
+- *Satzzeichen-Regel:* Der Schlusspunkt des Satzes gehört immer **hinter** die Belegklammer:
+  - Richtig: ...wirkt das Ufer trostlos (V. 15f.)*.*
+  - Falsch: ...wirkt das Ufer trostlos. (V. 15f.)
+
+** 5. Veränderungen im Zitat (Auslassungen & Anpassungen)
+- *Auslassungen:* Werden Wörter innerhalb des Zitats weggelassen, setzt man drei Punkte in eckige Klammern: `[...]`.
+  - Beispiel: „Und es umschlingt das Meer [...] Mich von den Meinen“ (V. 11f.).
+- *Grammatikalische Anpassungen:* Muss ein Buchstabe oder eine Endung an den eigenen Satzbau angepasst werden, kommt der veränderte Teil in eckige Klammern:
+  - Beispiel: Sie betont, dass der Mann sich „[z]u Haus und in dem Kriege“ durchsetze (V. 27).
+
+** 6. Versumbrüche im Zitat kennzeichnen
+- Geht ein wörtliches Zitat über Versgrenzen hinweg im Fließtext weiter, wird der Zeilensprung durch einen Schrägstrich mit Leerzeichen (` / `) markiert:
+  - Beispiel: Iphigenie klagt: „Und gegen meine Seufzer bringt die Welle / Nur dumpfe Töne brausend mir herüber“ (V. 15f.).

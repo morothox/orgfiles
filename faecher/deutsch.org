@@ -10,3 +10,6 @@
   1. Überblick über die Epochen: [[id:942CEA95-BA90-4868-8B78-1FBBCF0125D3][Epochen]] 
 * Iphigenie 
   1. Iphigenie auf Tauris (Artemis-Kult): [[id:E654CDF5-8F92-4EC0-BE4F-76EFB85D1178][Iphigenie auf Tauris]]
+* Stielmittel: 
+
+ [[id:105A8D76-00AE-441A-BED5-68EE0E95844B][Stielmittel]]

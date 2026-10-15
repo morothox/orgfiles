@@ -265,7 +265,7 @@
       - *Störung:* Auch Carbonat- und Sulfit-Ionen geben mit Ag⁺ einen weißen Niederschlag. Deshalb wird die Probe vorher mit verdünnter *Salpetersäure* angesäuert. Diese verdrängt CO₃²⁻ und SO₃²⁻, die Niederschläge können sich nicht mehr bilden. Auf keinen Fall mit Salzsäure ansäuern, weil man damit selbst Chlorid-Ionen in die Probe einbringt.
       - *Zusatz:* Die Silberhalogenide sind lichtempfindlich. Meist wird die Probe zusätzlich mit Ammoniak-Lösung geprüft, da sich AgCl leichter löst als AgBr.
 
-*** 1.6 Nachweis durch Farbreaktion
+*** 1.6 Nachweis durch Farbreaktion 
     Versuch: Ammonium-Nachweis (Kreuzprobe / Gasaustreibung mit Indikator-Farbreaktion)
 
     Voraussetzungen: Freisetzung von gasförmigem Ammoniak durch eine starke Base.
@@ -415,5 +415,110 @@
     - *Auswertung der Testsubstanz:*
       - Trübung wie in Glas 1 -> *Sulfationen (SO₄²⁻) positiv nachgewiesen.*
       - Klar wie in Glas 3 -> *Keine Sulfationen (SO₄²⁻) in der Probe vorhanden.*
+*** Exkurs:   
+    
+ ### 1. Formel für Eisen(III)-oxid aufstellen
+
+ - Eisen(III) bedeutet: Fe³⁺
+ - Sauerstoff im Oxid ist immer: O²⁻
+ - Ladungsausgleich (kleinstes gemeinsames Vielfaches ist 6):
+   2 × Fe³⁺  und  3 × O²⁻ ⟹ Fe_𝟐O_𝟑
+
+ ────────────────────────────────────────────────────────────────────────────────
+
+ ### 2. Grundgerüst   
+
+ (Wichtig: Sauerstoff kommt elementar immer als O₂ vor!)
+ Fe + O₂ → Fe₂O₃
+
+ ────────────────────────────────────────────────────────────────────────────────
+
+ ### 3. Ausgleichen
+
+ 1. Sauerstoff: Links 2 O (O₂), rechts 3 O (Fe₂O₃). Das kgV ist 6.
+    Fe + 𝟑 O₂ → 𝟐 Fe₂O₃
+ 2. Eisen: Rechts stehen jetzt 2 × 2 = 4 Fe. Also links eine 4 vor das Fe setzen:
+    𝟒 Fe + 3 O₂ → 2 Fe₂O₃
+
+ ────────────────────────────────────────────────────────────────────────────────
+
+ ### Fertige Stoffgleichung:
+
+ 4 Fe + 3 O₂ → 2 Fe₂O₃
+*** 1.8 Flammenversuch mit energie 
+    *Versuch: Flammenfärbung von Metallsalzen (Spektralanalyse als Vorprobe)*
+
+    #+BEGIN_SRC text
+      Versuchsaufbau:                       Energieniveauschema (Quantensprung):
+
+           Flamme (z.B. gelb)                    Energie E
+               (   )                                 ▲
+              (     )                                │     angeregter Zustand (E₁)
+             (  ***  )                               ├─────────────────────────────┤
+            (  *****  ) Magnesiastäbchen             │              ▲          │   │
+            ( ******* )=======|====                  │              │          │   │
+             (  ***  )       Substanz                │              │          ▼   │
+               |   |         (Salz)                  │   Absorption │  Emission    │
+            ┌──┴───┴──┐                              │   thermische │  Lichtquant  │
+            │ Brenner │                              │   Energie    │  (Photon)    │
+            │  (blau) │                              │   (Brenner)  │  ΔE = h · f  │
+            └────┬────┘                              │              │          │   │
+                 │                                   │              │          │ ░░░ ──► Flammenfarbe
+            ─────┴─────                              │              │          ▼   │     (spezifische
+               Sockel                                ├─────────────────────────────┤     Wellenlänge λ)
+                                                     │     Grundzustand (E₀)       │
+                                                    ─┴─────────────────────────────┴─
+    #+END_SRC
+
+    - *Geräte & Chemikalien:*
+      Bunsenbrenner, Magnesiastäbchen (oder Platindraht), Kobaltglas, Spatel, Uhrglas, Becherglas; konzentrierte Salzsäure (HCl, ca. 20–30 % zum Reinigen/Ausglühen);
+      7 Metallsalze (vorzugsweise leicht flüchtige Chloride):
+      Lithiumchlorid (LiCl), Natriumchlorid (NaCl), Kaliumchlorid (KCl), Calciumchlorid (CaCl₂), Strontiumchlorid (SrCl₂), Bariumchlorid (BaCl₂), Kupfer(II)-chlorid (CuCl₂).
+
+    - *Durchführung:*
+      1. Das Magnesiastäbchen wird kurz in konzentrierte Salzsäure getaucht und in der heißesten Zone der nichtleuchtenden Bunsenbrennerflamme (rauschende Flamme, ca. 1000–1200 °C) so lange ausgeglüht, bis die Flamme keine Eigenfärbung mehr zeigt.
+      2. Das noch warme Stäbchen wird erneut kurz mit Salzsäure benetzt und vorsichtig in das zu untersuchende Salzpulver getippt, sodass wenige Kristalle anhaften.
+      3. Das behaftete Stäbchen wird in den äußeren Rand der Flammenbasis gehalten und die auftretende Flammenfärbung mit bloßem Auge beobachtet.
+      4. Bei Kaliumsalzen wird die Flamme zusätzlich durch ein blaues Kobaltglas betrachtet.
+      5. Vor jeder neuen Probe wird das Stäbchen erneut mit Salzsäure gereinigt und bis zur Farblosigkeit ausgeglüht (oder ein frisches Stäbchen verwendet).
+
+    - *Beobachtungen (Farben der 7 Metallsalze):*
+      - *Lithium (Li⁺):* Karminrot (tiefes, leuchtendes Rot)
+      - *Natrium (Na⁺):* Intensiv gelb (extrem hell, hält lange an und überdeckt fast jede andere Farbe)
+      - *Kalium (K⁺):* Fahlviolett / lila (mit bloßem Auge oft von gelben Na⁺-Spuren überdeckt; durch das blaue Kobaltglas deutlich violett/rotviolett sichtbar)
+      - *Calcium (Ca²⁺):* Ziegelrot (orangerot, flüchtig)
+      - *Strontium (Sr²⁺):* Scharlachrot / intensiv rot
+      - *Barium (Ba²⁺):* Fahlgrün / gelbgrün
+      - *Kupfer (Cu²⁺):* Grün bis intensiv blaugrün (smaragdgrün)
+
+    - *Vorgänge auf Teilchen- und Energieebene (Atommodell nach Bohr):*
+      #+BEGIN_SRC text
+           1. Zufuhr thermischer Energie           2. Spontane Relaxation (Emission)
+              (Absorption / Anregung)                 (Rückkehr in den Grundzustand)
+
+              E₁ ───────( e⁻ )───────                 E₁ ─────────────────────
+                         ▲                                        │
+                         │                                        │  ΔE = E₁ - E₀
+                         │ + ΔE (Wärme)                           ▼  wird frei als
+                         │                                      ( e⁻ ) Lichtquant
+              E₀ ───────( e⁻ )───────                 E₀ ───────( e⁻ )─────── ──► h · f
+      #+END_SRC
+      - *1. Schritt (Verdampfung & Atomisierung):* In der heißen Brennerflamme verdampft das Metallsalz und dissoziiert in gasförmige Atome bzw. Metall-Ionen.
+      - *2. Schritt (Thermische Anregung / Absorption):* Durch Stöße mit hochenergetischen Gasteilchen der Flamme nimmt ein Außenelektron (Valenzelektron) des Metallatoms/Ions thermische Energie auf (ΔE). Es wird aus seinem energetisch tiefsten Niveau, dem *Grundzustand (E₀)*, auf ein höheres, unbesetztes Energieniveau, den *angeregten Zustand (E₁)*, angehoben („Quantensprung nach oben“).
+      - *3. Schritt (Lichtemission / Relaxation):* Der angeregte Zustand ist instabil (Lebensdauer ca. 10⁻⁸ s). Das Elektron fällt spontan unter Abgabe der Energiedifferenz wieder auf das niedrigere Niveau (E₀) zurück. Die freiwerdende Energie wird als Lichtportion emittiert: ein einzelnes *Photon / Lichtquant* mit genau dieser Energie ΔE.
+
+    - *Physikalische Gesetzmäßigkeiten & Energiezusammenhang:*
+      - *Planck'sche Beziehung:*
+        $$\Delta E = E_1 - E_0 = h \cdot f = h \cdot \frac{c}{\lambda}$$
+        (h: Planck'sches Wirkungsquantum, f: Frequenz, c: Lichtgeschwindigkeit, λ: Wellenlänge)
+      - *Zusammenhang zwischen Energie ΔE und Flammenfarbe:*
+        - *Große Energiedifferenz ΔE* -> hohe Frequenz f, kurze Wellenlänge λ -> energiereiches, kurzwelligeres Licht (z. B. violett/blau, wie bei K⁺ oder Cu²⁺).
+        - *Kleine Energiedifferenz ΔE* -> geringere Frequenz f, lange Wellenlänge λ -> energieärmeres, langwelligeres Licht (z. B. rot/orangerot, wie bei Li⁺, Sr²⁺, Ca²⁺).
+      - *Warum elementspezifisch?* Die Energieniveaus in der Atomhülle sind *gequantelt* und durch Kernladung sowie Zahl der Elektronen für jedes Element absolut einzigartig. Die Elektronen können nur ganz bestimmte Energiesprünge ausführen. Daher sendet jedes Metall-Kation Licht mit diskreten, unverwechselbaren Wellenlängen aus (Linienspektrum als „optischer Fingerabdruck“).
+
+    - *Wichtige Praxishinweise & Störungen:*
+      - *Warum Salzsäure (HCl)?* Metallchloride besitzen eine wesentlich höhere Flüchtigkeit als z. B. Oxide, Sulfate oder Nitrate. Durch die HCl wird das Salz an der Oberfläche in das leicht verdampfbare Chlorid überführt.
+      - *Warum Kobaltglas bei Kalium?* Natrium ist als Verunreinigung praktisch überall vorhanden (an den Händen, im Staub, im Glas). Wegen der extrem hohen Intensität der gelben Natrium-Doppellinie (589 nm) wird die schwächere violette Kaliumflamme meist vollständig überstrahlt. Blaues Kobaltglas enthält Co²⁺-Ionen, die gelbes Natriumlicht selektiv absorbieren, während violettes Licht ungehindert durchtritt.
+      - *Hinweis vs. Nachweis:* Die Flammenfärbung ist eine orientierende *Vorprobe* (Hinweis). Bei Stoffgemischen überdecken sich die Farben gegenseitig, weshalb für einen zweifelsfreien Nachweis nasschemische Fällungsreaktionen oder ein Spektroskop erforderlich sind.
 * Quantitative Analytik
 ** Wie viel ist drinnen?

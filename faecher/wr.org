@@ -8,9 +8,6 @@
 
 * 📁 Arbeitsblätter & Skripte (PDFs)
 - [[file:../pdf/][PDF-Ablage öffnen]]
-
-    <
-
 * 📖 Lernzettel & Themen
 
 ** 📈 Wirtschaft / VWL *** Makroökonomie & Wirtschaftspolitik
