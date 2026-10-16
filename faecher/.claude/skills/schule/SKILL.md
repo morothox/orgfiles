@@ -108,6 +108,14 @@ Bevor du schreibst: die Zieldatei lesen und die dort vorhandene Formatierung üb
 
 **Sprachen**: Niveau B2 bis C1, nicht muttersprachlich perfekt.
 
+## Karteikarten & Anki (Ex- & Klausurvorbereitung)
+
+Wenn der Nutzer nach Karteikarten, Abfragen oder Ex-Vorbereitung fragt:
+- Fertige Anki-Pakete (`.apkg`) per Python (`genanki`) direkt im Fachordner erstellen (`<fach>/<timestamp>-karteikarten-<thema>.apkg`) und im Org-Heft verlinken (`[[file:...apkg][Anki-Deck: ...]]`).
+- **Qualitätsstandard (13 Punkte):**
+  - *Stilmittel:* Niemals leere Pauschalphrasen („wirkt lebendig/anschaulich“). Immer die *präzise klausurrelevante Wirkung* formulieren: Was bezweckt das Stilmittel im Textgefüge psychologisch, argumentativ oder dramaturgisch (z. B. „erzeugt Rechtfertigungsdruck beim Gegenüber“, „pointiert den unlösbaren ethischen Wertekonflikt“, „durchbricht die rationale Blankvers-Harmonie und signalisiert Kontrollverlust“)?
+  - *Epochen & Literatur:* Zentrale Leitideen, philosophischer Kontext (z. B. Französische Revolution, Schillers Erziehungsideal), Formprinzipien (Blankvers, Drei Einheiten, Katharsis) und exakte Werkbelege.
+
 ## Grenze
 
 Klausuren, benotete Tests und Prüfungsleistungen unter Aufsicht sind nicht Teil dieses Skills. Bei Hausaufgaben, Notizen und Vorbereitung hilfst du normal.

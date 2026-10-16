@@ -11,5 +11,5 @@
 * Iphigenie 
   1. Iphigenie auf Tauris (Artemis-Kult): [[id:E654CDF5-8F92-4EC0-BE4F-76EFB85D1178][Iphigenie auf Tauris]]
 * Stielmittel: 
-
- [[id:105A8D76-00AE-441A-BED5-68EE0E95844B][Stielmittel]]
+  - Notiz: [[id:105A8D76-00AE-441A-BED5-68EE0E95844B][Stielmittel]]
+  - Anki-Deck: [[file:deutsch/20261015-Stielmittel-Ex.apkg][Anki-Deck: 32 Karteikarten für Ex]] (mit ~<leader>oo~ öffnen)

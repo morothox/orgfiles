@@ -415,9 +415,9 @@
     - *Auswertung der Testsubstanz:*
       - Trübung wie in Glas 1 -> *Sulfationen (SO₄²⁻) positiv nachgewiesen.*
       - Klar wie in Glas 3 -> *Keine Sulfationen (SO₄²⁻) in der Probe vorhanden.*
-*** Exkurs:   
+*** Exkurs:       
     
- ### 1. Formel für Eisen(III)-oxid aufstellen
+ ### 1. Fortelung des ZDF, 2020tel für Eisen(III)-oxid aufstellen
 
  - Eisen(III) bedeutet: Fe³⁺
  - Sauerstoff im Oxid ist immer: O²⁻
@@ -520,5 +520,9 @@
       - *Warum Salzsäure (HCl)?* Metallchloride besitzen eine wesentlich höhere Flüchtigkeit als z. B. Oxide, Sulfate oder Nitrate. Durch die HCl wird das Salz an der Oberfläche in das leicht verdampfbare Chlorid überführt.
       - *Warum Kobaltglas bei Kalium?* Natrium ist als Verunreinigung praktisch überall vorhanden (an den Händen, im Staub, im Glas). Wegen der extrem hohen Intensität der gelben Natrium-Doppellinie (589 nm) wird die schwächere violette Kaliumflamme meist vollständig überstrahlt. Blaues Kobaltglas enthält Co²⁺-Ionen, die gelbes Natriumlicht selektiv absorbieren, während violettes Licht ungehindert durchtritt.
       - *Hinweis vs. Nachweis:* Die Flammenfärbung ist eine orientierende *Vorprobe* (Hinweis). Bei Stoffgemischen überdecken sich die Farben gegenseitig, weshalb für einen zweifelsfreien Nachweis nasschemische Fällungsreaktionen oder ein Spektroskop erforderlich sind.
+*** 1.9 
+*AB* [[/Users/morothox/Downloads/AB Q12.pdf][funktioneller Gruppen]]
+Ethanol verfärbt sich braun der Rest verfärbt sich gelb 
+Essig wird gelb 
 * Quantitative Analytik
 ** Wie viel ist drinnen?

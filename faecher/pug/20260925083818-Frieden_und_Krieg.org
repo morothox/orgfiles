@@ -4,11 +4,7 @@
 #+TITLE: Frieden und Krieg
 
 #+filetags: :pug:q12:
-* AB: 
-
-[[/Users/morothox/Downloads/Material Gruppenarbeit.pdf][Gruppenarbeit]]
+* AB: [[/Users/morothox/Downloads/Material Gruppenarbeit.pdf][Gruppenarbeit]]
 * Institutionen & Konfliktfeld
-  
-
 * Argumente & Positionen
   - 
