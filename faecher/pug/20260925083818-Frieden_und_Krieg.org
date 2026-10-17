@@ -5,6 +5,7 @@
 
 #+filetags: :pug:q12:
 * AB: [[/Users/morothox/Downloads/Material Gruppenarbeit.pdf][Gruppenarbeit]]
+[[/Users/morothox/Downloads/4 Hybrider Krieg AB.pdf][Hybrider Krieg]]
 * Institutionen & Konfliktfeld
 * Argumente & Positionen
   - 

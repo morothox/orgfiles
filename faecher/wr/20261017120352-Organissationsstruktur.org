@@ -1,0 +1,93 @@
+:PROPERTIES:
+:ID: 551887F9-8856-40C9-83E0-02C4BECFFA20
+:END:
+#+TITLE: Organissationsstruktur 
+
+#+filetags: :wr:lk:q12:
+
+* EX 
+  AB: [[/Users/morothox/Downloads/04_Lernskript_Kernprozesse.pdf][Thema 4]]
+      [[/Users/morothox/Downloads/05_Lernskript_Organisationsstrukturen.pdf][Thema 5]]
+* Prüfungsschema & Definitionen
+** 1. Aufbauorganisation vs. Ablauforganisation
+   - *Aufbauorganisation* (statisch, „Gerüst“):
+     - Leitfrage: *Wer* ist wofür zuständig, wer weist wen an?
+     - Gliedert die Gesamtaufgabe hierarchisch in Teilaufgaben, Stellen und Abteilungen.
+     - Darstellung: *Organigramm* (vertikal/senkrecht).
+   - *Ablauforganisation* (dynamisch, „Prozess“):
+     - Leitfrage: *Was* geschieht *wann*, *wo* und in welcher *Reihenfolge*?
+     - Regelt die räumlich-zeitliche Abfolge der Arbeitsschritte (z. B. Kundenauftrag läuft quer durch Einkauf, Fertigung, Vertrieb).
+     - Darstellung: *Flussdiagramm*, Prozesskette (horizontal/waagrecht).
+   - *Verschränkung*: Beide Seiten bedingen sich gegenseitig. Die Struktur setzt den Rahmen für Abläufe; sinnvoll gestalten lässt sie sich nur, wenn man die Abläufe kennt.
+
+** 2. Formen der Aufbauorganisation (Thema 5)
+   - *Funktionale Organisation* (nach Tätigkeiten gegliedert):
+     - Gliederung: Einkauf, Produktion, Vertrieb (jeder Bereich arbeitet für alle Produkte).
+     - Stärken: Spezialisierung, klare Zuständigkeit, keine Doppelarbeit.
+     - Schwächen: Abteilungsdenken („Silos“), Schnittstellenprobleme, hohe Abstimmungslast bei der Geschäftsleitung.
+     - Eignung: Kleinere bis mittlere Unternehmen mit homogenen/wenigen Produkten.
+     - Leitungssystem: Einliniensystem (jede Stelle hat genau 1 Vorgesetzten).
+     #+begin_example
+                   [ UNTERNEHMENSLEITUNG ]
+                 ┌────────────┼────────────┐
+                 ▼            ▼            ▼
+            [ Einkauf ]  [ Produktion ] [ Vertrieb ]
+                 │            │            │
+            (alle Prod.) (alle Prod.) (alle Prod.)
+     #+end_example
+
+   - *Spartenorganisation / Divisionale Organisation* (nach Objekten gegliedert):
+     - Gliederung: nach Produkten, Regionen oder Kundengruppen (z. B. Sparte Küchen, Wohnen, Büro).
+     - Jede Sparte besitzt eigene Funktionen (E, P, V), oft als eigenes *Profit-Center*.
+     - Stärken: Hohe Marktnähe, schnelle Entscheidungen, direkte Ergebnisverantwortung.
+     - Schwächen: *Doppelarbeit* (mehrere Einkaufs-/Vertriebsabteilungen) -> höhere Kosten; Konkurrenz unter Sparten.
+     - Eignung: Große Unternehmen mit heterogenem Produktsortiment (z. B. Deutsche Bahn).
+     - Leitungssystem: Einliniensystem.
+     #+begin_example
+                        [ UNTERNEHMENSLEITUNG ]
+                 ┌─────────────────┼─────────────────┐
+                 ▼                 ▼                 ▼
+          [ Sparte Küchen ] [ Sparte Wohnen ] [ Sparte Büro ]
+           ┌─────┼─────┐     ┌─────┼─────┐     ┌─────┼─────┐
+           ▼     ▼     ▼     ▼     ▼     ▼     ▼     ▼     ▼
+           E     P     V     E     P     V     E     P     V
+       (E=Einkauf, P=Produktion, V=Vertrieb -> Funktionen mehrfach vorhanden = Doppelarbeit!)
+     #+end_example
+
+   - *Matrixorganisation* (mehrdimensional):
+     - Gliederung: Funktionen und Sparten/Projekte gleichzeitig überlagert.
+     - Mitarbeiter an Schnittpunkten haben *zwei Vorgesetzte* -> *Mehrliniensystem*.
+     - Stärken: Fach- und Marktwissen wirken zusammen, flexible Problemlösung.
+     - Schwächen: Hohes Konfliktpotenzial („Zwei Herren“), lange Abstimmungen, Kompetenzgerangel.
+     - Eignung: Große Unternehmen mit komplexen Projekten.
+     - Leitungsunterschied: Produktionsleitung gibt es nur 1x für alle Sparten; Mitarbeiter an [X] teilen sich Ressourcen/Maschinen.
+     #+begin_example
+                        [ UNTERNEHMENSLEITUNG ]
+                 ┌─────────────────┼─────────────────┐
+                 ▼                 ▼                 ▼
+           Leiter Einkauf    Leiter Prod.      Leiter Vertrieb  <-- Funktionen
+                 │                 │                 │
+    Produkt A ───┼─────────────────┼─────────────────┼──> Spartenleiter A
+                 │                 │                 │
+    Produkt B ───┼─────────────── [ X ] ─────────────┼──> Spartenleiter B
+                 │                 │                 │
+    Produkt C ───┼─────────────────┼─────────────────┼──> Spartenleiter C
+       (Schnittstelle [X]: 2 Vorgesetzte -> Mehrliniensystem)
+     #+end_example
+** 3. Typische Ex-Fragestellungen & Praxisfälle (M4–M7)
+   - *Leitsatz „Structure follows Strategy“*: Erst Unternehmensstrategie festlegen (z. B. Kostenführerschaft vs. Nische/Qualität), danach Aufbau- und Ablauforganisation daran ausrichten.
+   - *Wirkungsanalyse*: Wer an einer Seite dreht, verändert die andere:
+     - Automatisierung/Roboter (M5/M6): Setzt am *Ablauf* an -> Folge für den *Aufbau*: Stellenprofil des Personals ändert sich (Kontrolle/Wartung statt Handarbeit), neue IT-Stellen.
+     - Hierarchieabbau (M7): Setzt am *Aufbau* an -> Folge für den *Ablauf*: Kürzere Entscheidungswege, schnellere Durchlaufzeiten.
+
+** 4. Grundwissen Kernprozesse (Thema 4)
+   - *Kernprozess-Kriterien* (müssen alle 3 erfüllt sein):
+     1. Echte Wertschöpfung für den Kunden.
+     2. Relevant für den Unternehmenserfolg.
+     3. Kunde ist bereit, für den Output zu bezahlen (z. B. Auftragsabwicklung = Kernprozess; IT/Personal/Buchhaltung = Unterstützungsprozesse).
+   - *Prinzipien der Ablauforganisation*:
+     - Termineinhaltung (Liefertermine punktgenau einhalten).
+     - Zeitminimierung (Durchlaufzeiten und Liegezeiten minimieren).
+     - Kapazitätsauslastung (Leerlauf bei Personal und Maschinen vermeiden).
+* Verwandte Themen / Links
+  - 

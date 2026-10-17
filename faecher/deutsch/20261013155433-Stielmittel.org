@@ -4,9 +4,7 @@
 #+TITLE: Stielmittel
 
 #+filetags: :deutsch:q12:
-- [[/Users/morothox/Downloads/Rhetorik Grundwissen Oberstufe (Klett).pdf][Stielmittel-GW-Klett]]
-- [[file:20261015-Stielmittel-Ex.apkg][Anki-Deck: 32 Karteikarten für Ex (Stilmittel & Klassik)]] (Cursor auf Link + ~<leader>oo~ öffnet Anki)
-- [[file:20261015-Stielmittel-Ex.tsv][TSV-Tabelle (Backup)]]
+[[/Users/morothox/Downloads/Rhetorik Grundwissen Oberstufe (Klett).pdf][Stielmittel-GW-Klett]]
 
 * 20 wichtigste Stilmittel für die Q12 (Ex-Wissen)
   /Auswahl aus dem Klett-Grundwissen – die zentralen rhetorischen Figuren für Analysen, Gedichte und Klausuren./

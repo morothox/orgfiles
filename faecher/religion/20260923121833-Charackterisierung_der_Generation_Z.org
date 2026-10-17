@@ -2,7 +2,8 @@
 :ID: D9402A08-1875-4FF3-A92C-6CE1DC55056B
 :END:
 #+TITLE: Charackterisierung der Generation Z
-
+* AB: 
+[[/Users/morothox/Downloads/Reli.pdf][AB1]]
 #+filetags: :religion:q12:
 * Theologische & ethische Fragen
   - *Psychisch* weniger stabil / mehr Problemme 
