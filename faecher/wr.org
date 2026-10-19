@@ -31,3 +31,4 @@
 
 * Themen 
 [[id:551887F9-8856-40C9-83E0-02C4BECFFA20][Organissationsstruktur]]
+- [[id:50D0FB42-15A7-4FB1-B172-8EFFB3DAB5B6][Stegreifaufgabe: Organisationsstrukturen & Kernprozesse (20 BE)]]

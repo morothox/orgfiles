@@ -1,0 +1,106 @@
+:PROPERTIES:
+:ID:       50D0FB42-15A7-4FB1-B172-8EFFB3DAB5B6
+:END:
+#+TITLE: Stegreifaufgabe: Organisationsstrukturen & Kernprozesse (Q12 WR Leistungsfach)
+#+FILETAGS: :wr:lk:q12:ex:
+#+DATE:    [2026-10-19 Mo]
+
+* Rahmendaten der Prüfung
+- *Fach:* Wirtschaft und Recht (Leistungsfach eA)
+- *Ausbildungsabschnitt:* Q12 / 1. Halbjahr
+- *Prüfungsform:* Stegreifaufgabe (Ex)
+- *Bearbeitungszeit:* 20 Minuten
+- *Gesamtpunktzahl:* 20 Bewertungseinheiten (BE)
+- *Hilfsmittel:* Nicht programmierbarer Taschenrechner
+
+---
+
+* Ausgangsmaterialien
+
+** Material M1: Fallbeispiel „FrankenBike GmbH“ (Neustadt a. d. Waldnaab)
+Die mittelständische /FrankenBike GmbH/ produziert und vertreibt hochwertige Trekkingräder sowie seit drei Jahren stark nachgefragte E-Bikes. Das Unternehmen ist seit seiner Gründung streng *funktional nach dem Einliniensystem* organisiert:
+#+begin_example
+                      [ GESCHÄFTSFÜHRUNG ]
+                               │
+       ┌───────────────┬───────┴───────┬───────────────┐
+       ▼               ▼               ▼               ▼
+  [ Einkauf ]    [ Fertigung ]    [ Vertrieb ]   [ Verwaltung ]
+       │               │               │               │
+  (alle Räder)    (alle Räder)    (alle Räder)    (alle Räder)
+#+end_example
+
+Mit dem rasanten Wachstum im E-Bike-Sektor geraten die Betriebsabläufe zunehmend aus dem Takt:
+1. *Kundenbeschwerden häufen sich:* Die durchschnittliche Lieferzeit von der Kundenbestellung im Webshop bis zum Eintreffen der Räder stieg von 4 auf 13 Werktage. Zahlreiche Kunden drohen mit Stornierungen.
+2. *Ressort-Egoismen:* Der Vertrieb beschwert sich, dass die Fertigung Kundenaufträge zu langsam abarbeitet. Die Fertigung kontert, dass der Einkauf benötigte E-Bike-Akkus und Steuerungschips viel zu spät beschafft. Der Einkauf verteidigt sich: Man bestelle erst, wenn die Geschäftsführung das Budget freigegeben hat, um Lagerkosten zu minimieren.
+3. *Ablaufanalyse:* Eine interne Prozessprüfung offenbart: Von den 13 Tagen Durchlaufzeit entfallen nur 2 Tage auf die tatsächliche Bearbeitung und Montage. 11 Tage (über 80 % der Durchlaufzeit) sind *reine Liege- und Wartezeiten* an den Abteilungs-Schnittstellen.
+
+** Material M2: Sitzungsprotokoll der Geschäftsleitung
+Geschäftsführerin Sabine Gruber berät mit ihrem Führungsteam über Reformschritte:
+
+#+begin_quote
+/„Wir müssen handeln. Ich schlage vor, dass wir unsere bisherige funktionale Struktur auflösen und eine reine Spartenorganisation einführen – mit einer Sparte für E-Bikes und einer Sparte für klassische Fahrräder. Wenn jede Sparte ihren eigenen Einkauf und Vertrieb hat, regeln sich die schleppenden Abläufe von ganz alleine nach der neuen Struktur.“/
+#+end_quote
+
+Ein externer Organisationsberater widerspricht:
+#+begin_quote
+/„Vorsicht, Frau Gruber! Wenn Sie nur Abteilungen neu zuschneiden, lösen Sie das Schnittstellenproblem bei der Auftragsabwicklung nicht automatisch. Wir sollten lieber über eine moderne Matrixorganisation nachdenken oder die Prozesse radikal neu aufstellen.“/
+#+end_quote
+
+---
+
+* Aufgabenstellungen
+
+** Aufgabe 1: Kernprozess-Analyse & Prinzipien der Ablauforganisation [5 BE]
+a) *Weisen Sie anhand der drei konstitutiven Merkmale nach*, dass die /Auftragsabwicklung/ bei der FrankenBike GmbH einen betrieblichen Kernprozess darstellt. [3 BE]
+
+*Ihre Lösung zu 1a:*
+
+
+b) *Erläutern Sie unter direktem Bezug auf M1*, gegen welches grundlegende /Prinzip der Ablauforganisation/ bei der FrankenBike GmbH derzeit am stärksten verstoßen wird. [2 BE]
+
+*Ihre Lösung zu 1b:*
+
+
+---
+
+** Aufgabe 2: Schwachstellen der Aufbauorganisation & Matrix-Modell [7 BE]
+a) *Arbeiten Sie zwei wesentliche Schwachstellen* der bisherigen /funktionalen Organisation/ heraus, die sich in den geschilderten Problemen der FrankenBike GmbH (M1) manifestieren. [3 BE]
+
+*Ihre Lösung zu 2a:*
+
+
+b) Der Berater bringt alternativ eine /Matrixorganisation/ (Funktionen $\times$ Sparten) ins Spiel.
+   - *Stellen Sie dar*, welches spezifische /Leitungssystem/ der Matrixorganisation zugrunde liegt. [1 BE]
+   - *Analysieren Sie ein zentrales Konfliktpotenzial*, das sich durch diese Organisationsform für die Mitarbeiter der FrankenBike GmbH im Arbeitsalltag ergeben würde. [3 BE]
+
+*Ihre Lösung zu 2b:*
+
+
+---
+
+** Aufgabe 3: Beurteilung von Leitgedanken & Zielkonflikten [8 BE]
+a) *Nehmen Sie kritisch Stellung* zur Aussage von Geschäftsführerin Gruber: /„Die Abläufe regeln sich von ganz alleine nach der neuen Struktur.“/
+   Gehen Sie in Ihrer Argumentation präzise auf die Leitsätze *„Structure follows Strategy“* bzw. *„Structure follows Process“* sowie auf die *Verschränkung* von Aufbau- und Ablauforganisation ein. [5 BE]
+
+*Ihre Lösung zu 3a:*
+
+
+b) *Beurteilen Sie* den Vorschlag von Frau Gruber, eine /reine Spartenorganisation/ (Divisionsstruktur) einzuführen, indem Sie einen zentralen betriebswirtschaftlichen *Zielkonflikt* (Kosten vs. Marktnähe/Reaktionsgeschwindigkeit) gegeneinander abwägen. [3 BE]
+
+*Ihre Lösung zu 3b:*
+
+
+---
+* Notenspiegel & Bewertung (wird nach Abgabe von der Lehrkraft ausgefüllt)
+#+begin_example
+| Aufgabe   | Max. BE | Erreichte BE | Bemerkung / Feedback |
+|-----------+---------+--------------+----------------------|
+| Aufgabe 1 |    5 BE |              |                      |
+| Aufgabe 2 |    7 BE |              |                      |
+| Aufgabe 3 |    8 BE |              |                      |
+|-----------+---------+--------------+----------------------|
+| GESAMT    |   20 BE |              |                      |
+|-----------+---------+--------------+----------------------|
+| PROZENT   |  100 %  |              |                      |
+| NOTE (P)  | 0–15 P. |              |                      |
+#+end_example
