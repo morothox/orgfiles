@@ -1,3 +1,7 @@
 #+TITLE: Klausurtermine & Tests
 #+STARTUP: overview
-
+* TODO Klausur in English
+  DEADLINE: <2026-10-29 Do.>
+  Themen:
+  - voc p. 155 law lords - respectively 
+    voc p. 159 - 161 

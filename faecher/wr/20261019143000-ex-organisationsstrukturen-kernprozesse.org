@@ -19,6 +19,7 @@
 
 ** Material M1: Fallbeispiel „FrankenBike GmbH“ (Neustadt a. d. Waldnaab)
 Die mittelständische /FrankenBike GmbH/ produziert und vertreibt hochwertige Trekkingräder sowie seit drei Jahren stark nachgefragte E-Bikes. Das Unternehmen ist seit seiner Gründung streng *funktional nach dem Einliniensystem* organisiert:
+
 #+begin_example
                       [ GESCHÄFTSFÜHRUNG ]
                                │
@@ -51,22 +52,39 @@ Ein externer Organisationsberater widerspricht:
 * Aufgabenstellungen
 
 ** Aufgabe 1: Kernprozess-Analyse & Prinzipien der Ablauforganisation [5 BE]
+
 a) *Weisen Sie anhand der drei konstitutiven Merkmale nach*, dass die /Auftragsabwicklung/ bei der FrankenBike GmbH einen betrieblichen Kernprozess darstellt. [3 BE]
 
 *Ihre Lösung zu 1a:*
+#+begin_export typst
+#v(0.3cm)
+#stack(spacing: 0.8cm, ..range(6).map(_ => line(length: 100%, stroke: 0.35pt + luma(190))))
+#v(0.4cm)
+#+end_export
 
 
 b) *Erläutern Sie unter direktem Bezug auf M1*, gegen welches grundlegende /Prinzip der Ablauforganisation/ bei der FrankenBike GmbH derzeit am stärksten verstoßen wird. [2 BE]
 
 *Ihre Lösung zu 1b:*
+#+begin_export typst
+#v(0.3cm)
+#stack(spacing: 0.8cm, ..range(5).map(_ => line(length: 100%, stroke: 0.35pt + luma(190))))
+#v(0.4cm)
+#+end_export
 
 
 ---
 
 ** Aufgabe 2: Schwachstellen der Aufbauorganisation & Matrix-Modell [7 BE]
+
 a) *Arbeiten Sie zwei wesentliche Schwachstellen* der bisherigen /funktionalen Organisation/ heraus, die sich in den geschilderten Problemen der FrankenBike GmbH (M1) manifestieren. [3 BE]
 
 *Ihre Lösung zu 2a:*
+#+begin_export typst
+#v(0.3cm)
+#stack(spacing: 0.8cm, ..range(6).map(_ => line(length: 100%, stroke: 0.35pt + luma(190))))
+#v(0.4cm)
+#+end_export
 
 
 b) Der Berater bringt alternativ eine /Matrixorganisation/ (Funktionen $\times$ Sparten) ins Spiel.
@@ -74,33 +92,50 @@ b) Der Berater bringt alternativ eine /Matrixorganisation/ (Funktionen $\times$ 
    - *Analysieren Sie ein zentrales Konfliktpotenzial*, das sich durch diese Organisationsform für die Mitarbeiter der FrankenBike GmbH im Arbeitsalltag ergeben würde. [3 BE]
 
 *Ihre Lösung zu 2b:*
+#+begin_export typst
+#v(0.3cm)
+#stack(spacing: 0.8cm, ..range(8).map(_ => line(length: 100%, stroke: 0.35pt + luma(190))))
+#v(0.4cm)
+#+end_export
 
 
 ---
 
 ** Aufgabe 3: Beurteilung von Leitgedanken & Zielkonflikten [8 BE]
+
 a) *Nehmen Sie kritisch Stellung* zur Aussage von Geschäftsführerin Gruber: /„Die Abläufe regeln sich von ganz alleine nach der neuen Struktur.“/
    Gehen Sie in Ihrer Argumentation präzise auf die Leitsätze *„Structure follows Strategy“* bzw. *„Structure follows Process“* sowie auf die *Verschränkung* von Aufbau- und Ablauforganisation ein. [5 BE]
 
 *Ihre Lösung zu 3a:*
+#+begin_export typst
+#v(0.3cm)
+#stack(spacing: 0.8cm, ..range(11).map(_ => line(length: 100%, stroke: 0.35pt + luma(190))))
+#v(0.4cm)
+#+end_export
 
 
 b) *Beurteilen Sie* den Vorschlag von Frau Gruber, eine /reine Spartenorganisation/ (Divisionsstruktur) einzuführen, indem Sie einen zentralen betriebswirtschaftlichen *Zielkonflikt* (Kosten vs. Marktnähe/Reaktionsgeschwindigkeit) gegeneinander abwägen. [3 BE]
 
 *Ihre Lösung zu 3b:*
+#+begin_export typst
+#v(0.3cm)
+#stack(spacing: 0.8cm, ..range(7).map(_ => line(length: 100%, stroke: 0.35pt + luma(190))))
+#v(0.4cm)
+#+end_export
 
 
 ---
+
 * Notenspiegel & Bewertung (wird nach Abgabe von der Lehrkraft ausgefüllt)
 #+begin_example
 | Aufgabe   | Max. BE | Erreichte BE | Bemerkung / Feedback |
-|-----------+---------+--------------+----------------------|
-| Aufgabe 1 |    5 BE |              |                      |
-| Aufgabe 2 |    7 BE |              |                      |
-| Aufgabe 3 |    8 BE |              |                      |
-|-----------+---------+--------------+----------------------|
-| GESAMT    |   20 BE |              |                      |
-|-----------+---------+--------------+----------------------|
-| PROZENT   |  100 %  |              |                      |
-| NOTE (P)  | 0–15 P. |              |                      |
+|-----------+---------+--------------+----------------------------------------------------------------------|
+| Aufgabe 1 |    5 BE |       2,5 BE | Kriterien vs. Ablauf verwechselt (-2); Zeitminimierung erkannt (-0,5)|
+| Aufgabe 2 |    7 BE |       5,5 BE | Schwachstellen gut erfasst (-1); Matrix-Konflikt exzellent gelöst!   |
+| Aufgabe 3 |    8 BE |       7,0 BE | Starke Argumentation zu Structure/Process; Zielkonflikt Sparte gut   |
+|-----------+---------+--------------+----------------------------------------------------------------------|
+| GESAMT    |   20 BE |      15,0 BE | Solide Leistung! Note 2. Achte auf exakte Lehrplan-Fachbegriffe.    |
+|-----------+---------+--------------+----------------------------------------------------------------------|
+| PROZENT   |  100 %  |       75,0 % |                                                                      |
+| NOTE (P)  | 0–15 P. |        11 P. | Note 2 (gut)                                                         |
 #+end_example

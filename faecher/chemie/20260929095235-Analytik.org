@@ -520,9 +520,123 @@
       - *Warum Salzsäure (HCl)?* Metallchloride besitzen eine wesentlich höhere Flüchtigkeit als z. B. Oxide, Sulfate oder Nitrate. Durch die HCl wird das Salz an der Oberfläche in das leicht verdampfbare Chlorid überführt.
       - *Warum Kobaltglas bei Kalium?* Natrium ist als Verunreinigung praktisch überall vorhanden (an den Händen, im Staub, im Glas). Wegen der extrem hohen Intensität der gelben Natrium-Doppellinie (589 nm) wird die schwächere violette Kaliumflamme meist vollständig überstrahlt. Blaues Kobaltglas enthält Co²⁺-Ionen, die gelbes Natriumlicht selektiv absorbieren, während violettes Licht ungehindert durchtritt.
       - *Hinweis vs. Nachweis:* Die Flammenfärbung ist eine orientierende *Vorprobe* (Hinweis). Bei Stoffgemischen überdecken sich die Farben gegenseitig, weshalb für einen zweifelsfreien Nachweis nasschemische Fällungsreaktionen oder ein Spektroskop erforderlich sind.
-*** 1.9 
-*AB* [[/Users/morothox/Downloads/AB Q12.pdf][funktioneller Gruppen]]
-Ethanol verfärbt sich braun der Rest verfärbt sich gelb 
-Essig wird gelb 
+*** 1.9 Nachweis funktioneller Gruppen
+    *AB* [[/Users/morothox/Downloads/AB Q12.pdf][funktioneller Gruppen]]
+
+    *Merke vorab:* Man testet immer mehrere Stoffe gleichzeitig. Ein Test ist nur dann positiv, wenn sich bei /einem/ Stoff etwas ändert und bei den anderen nicht.
+
+**** Teil 1: Alkohol, Carbonsäure oder Ester?
+     - *Die drei Stoffe:*
+       - *Ethanol:* CH₃–CH₂–OH -> Hydroxygruppe –OH (Alkohol)
+       - *Ethansäure:* CH₃–COOH -> Carboxygruppe –COOH (Carbonsäure)
+       - *Ethansäureethylester:* CH₃–COO–CH₂–CH₃ -> Estergruppe –COO– (Ester)
+
+     #+BEGIN_SRC text
+                                     O                         O
+                                     ║                         ║
+       H₃C─CH₂─OH            H₃C ─── C ─── OH          H₃C ─── C ─── O ─── CH₂─CH₃
+        Ethanol                 Ethansäure               Ethansäureethylester
+       (Hydroxygruppe)         (Carboxygruppe)            (Estergruppe)
+     #+END_SRC
+
+**** V1: CAN-Test (Ammoniumcer(IV)-nitrat) -> Nachweis von Alkoholen
+     - *Durchführung:* 10 Tropfen Probe auf die Tüpfelplatte, dann 3 Tropfen gelbe CAN-Lösung dazu.
+     - *Beobachtung:*
+       - Ethanol: gelb -> *rotbraun*
+       - Ethansäure und Ester: bleiben *gelb*
+     - *Erklärung:* Das Cer-Ion (Ce⁴⁺) ist im Reagenz von Nitrat-Ionen umgeben. Die OH-Gruppe des Alkohols verdrängt ein Nitrat-Ion und bindet sich selbst an das Cer. So entsteht ein neuer Komplex, und der ist rotbraun.
+       Ethansäure und Ester haben keine „freie“ Alkohol-OH-Gruppe -> keine Reaktion.
+     - *Merksatz:* Rotbraun = Alkohol (OH-Gruppe).
+
+**** V2: Rojahn-Test -> Nachweis von Estern
+     - *Durchführung:* 1 ml Probe + 3 Tropfen Phenolphthalein, dann tropfenweise NaOH dazu, bis die Lösung /gerade so/ zart rosa ist. Danach im Wasserbad (ca. 40 °C) erwärmen.
+     - *Beobachtung:*
+       - Ester: rosa -> *farblos*
+       - Ethanol und Ethansäure: bleiben *rosa*
+     - *Erklärung:*
+       1. Phenolphthalein ist nur im Basischen (pH > 8,2) rosa, also nur solange OH⁻-Ionen da sind.
+       2. Der Ester wird durch die OH⁻-Ionen gespalten (*alkalische Esterhydrolyse = Verseifung*):
+          CH₃–COO–CH₂–CH₃ + OH⁻ → CH₃–COO⁻ + CH₃–CH₂–OH
+          (Ester + Hydroxid-Ion → Acetat-Ion + Ethanol)
+       3. Dabei werden die OH⁻-Ionen verbraucht -> pH sinkt -> Phenolphthalein wird farblos.
+     - *Warum nur ganz wenig NaOH?* Sonst sind zu viele OH⁻-Ionen da, der Ester kann sie nicht alle verbrauchen und die Lösung bleibt rosa (falsch-negativ).
+     - *Warum erwärmen?* Die Verseifung ist bei Raumtemperatur zu langsam.
+     - *Achtung Säure:* Eine Carbonsäure neutralisiert die OH⁻-Ionen sofort (CH₃COOH + OH⁻ → CH₃COO⁻ + H₂O). Dann wird es auch ohne Ester farblos (falsch-positiv). Deshalb muss die Säure vorher neutralisiert werden.
+     - *Merksatz:* Rosa verschwindet beim Erwärmen = Ester (OH⁻ wird verbraucht).
+
+**** V3: Bromthymolblau-Test -> Nachweis von Carbonsäuren
+     - *Durchführung:* 5 Tropfen Probe auf die Tüpfelplatte + 1 Tropfen (leicht alkalische) Bromthymolblau-Lösung.
+     - *Beobachtung:*
+       - Ethansäure: blau -> *gelb*
+       - Ethanol und Ester: bleiben *blau*
+     - *Erklärung:* Bromthymolblau ist ein Indikator: gelb = sauer, grün = neutral, blau = basisch. Die Ethansäure gibt ein Proton (H⁺) an Wasser ab:
+       CH₃COOH + H₂O ⇌ CH₃COO⁻ + H₃O⁺
+       Die entstehenden Oxonium-Ionen (H₃O⁺) machen die Lösung sauer -> gelb.
+       Alkohole und Ester geben praktisch keine Protonen ab -> bleibt blau.
+     - *Merksatz:* Gelb = Säure (COOH-Gruppe gibt H⁺ ab).
+
+**** Teil 2: Aldehyd oder Keton? (Propanal vs. Propanon)
+     - *Die zwei Stoffe:*
+       - *Propanal:* CH₃–CH₂–CHO -> Aldehydgruppe –CHO (C=O am /Ende/ der Kette, mit H daneben)
+       - *Propanon (Aceton):* CH₃–CO–CH₃ -> Ketogruppe >C=O (C=O in der /Mitte/ der Kette)
+     - *Der entscheidende Unterschied:* Aldehyde lassen sich leicht oxidieren (das H an der CHO-Gruppe wird zu OH -> Carbonsäure). Ketone haben dort kein H und lassen sich deshalb nicht so leicht oxidieren.
+       -> Fehling, Tollens und Schiff nutzen genau das aus: Nur der Aldehyd reagiert.
+
+     #+BEGIN_SRC text
+                    O                              O
+                    ║                              ║
+       H₃C ─ CH₂ ─ C ─ H                H₃C ───── C ───── CH₃
+          Propanal (Aldehyd)               Propanon (Keton)
+          C=O am Kettenende                C=O in der Mitte
+     #+END_SRC
+
+**** V1: DNPH-Test -> Hinweis auf C=O (Carbonylgruppe)
+     - *Durchführung:* 5 Tropfen Probe + 10 Tropfen 2,4-Dinitrophenylhydrazin-Lösung (DNPH).
+     - *Beobachtung:* Bei *beiden* fällt ein gelb-oranger Niederschlag aus.
+     - *Erklärung:* DNPH reagiert mit jeder C=O-Gruppe zu einem schwerlöslichen Feststoff (Hydrazon).
+     - *Merksatz:* Nur ein /Hinweis/ auf C=O, man kann damit Aldehyd und Keton *nicht* unterscheiden.
+
+**** V2: Fehling-Probe -> Nachweis von Aldehyden
+     - *Durchführung:* Fehling I (CuSO₄-Lösung, blau) und Fehling II (alkalische Lösung) 1:1 mischen -> tiefblau. Probe dazu, im Wasserbad erwärmen.
+     - *Beobachtung:*
+       - Propanal: blau -> grün -> *rotbrauner Niederschlag*
+       - Propanon: bleibt *tiefblau*
+     - *Erklärung (Redoxreaktion):*
+       - Oxidation: Der Aldehyd wird zur Carbonsäure (bzw. zum Carboxylat-Ion) oxidiert.
+       - Reduktion: Cu²⁺ (blau) nimmt Elektronen auf und wird zu Cu⁺ reduziert -> rotbraunes Kupfer(I)-oxid Cu₂O fällt aus.
+       - Gesamt: CH₃–CH₂–CHO + 2 Cu²⁺ + 5 OH⁻ → CH₃–CH₂–COO⁻ + Cu₂O↓ + 3 H₂O
+     - *Merksatz:* Rotbrauner Niederschlag = Aldehyd.
+
+**** V3: Tollens-Probe (Silberspiegel) -> Nachweis von Aldehyden
+     - *Durchführung:* AgNO₃-Lösung + tropfenweise verdünnte NH₃-Lösung, bis der braune Niederschlag sich gerade wieder auflöst (es entsteht der Silberkomplex [Ag(NH₃)₂]⁺). Probe dazu, Wasserbad ca. 70 °C.
+     - *Beobachtung:*
+       - Propanal: *Silberspiegel* an der Glaswand (oder schwarzer Niederschlag)
+       - Propanon: bleibt klar
+     - *Erklärung (Redoxreaktion):* Gleiches Prinzip wie bei Fehling, nur mit Silber statt Kupfer.
+       - Oxidation: CH₃–CH₂–CHO + 3 OH⁻ → CH₃–CH₂–COO⁻ + 2 H₂O + 2 e⁻
+       - Reduktion: 2 [Ag(NH₃)₂]⁺ + 2 e⁻ → 2 Ag↓ + 4 NH₃
+       - Gesamt: CH₃–CH₂–CHO + 2 [Ag(NH₃)₂]⁺ + 3 OH⁻ → CH₃–CH₂–COO⁻ + 2 Ag↓ + 4 NH₃ + 2 H₂O
+       Das Silber-Ion (Ag⁺) wird zu elementarem Silber (Ag) reduziert und lagert sich am Glas ab.
+     - *Merksatz:* Silberspiegel = Aldehyd.
+
+**** V4: Schiff-Probe -> Nachweis von Aldehyden
+     - *Durchführung:* 2 ml Probe + 5–10 Tropfen Schiff-Reagenz (das ist ein Farbstoff, Fuchsin, der vorher mit SO₂ entfärbt wurde).
+     - *Beobachtung:*
+       - Propanal: farblos -> *violett/pink*
+       - Propanon: bleibt farblos
+     - *Erklärung:* Der Aldehyd reagiert mit dem entfärbten Farbstoff, dadurch wird der Farbstoff wieder „zurückgebaut“ und ist wieder farbig. Ketone reagieren nicht.
+     - *Merksatz:* Violett = Aldehyd. Funktioniert ohne Erwärmen, kein Redox.
+
+**** Übersicht zum Lernen
+     | Test           | Weist nach      | Positiv                 | Negativ        |
+     |----------------+-----------------+-------------------------+----------------|
+     | CAN            | Alkohol (–OH)   | gelb -> rotbraun        | bleibt gelb    |
+     | Rojahn         | Ester (–COO–)   | rosa -> farblos         | bleibt rosa    |
+     | Bromthymolblau | Säure (–COOH)   | blau -> gelb            | bleibt blau    |
+     | DNPH           | C=O (beide)     | gelb-oranger Nds.       | -              |
+     | Fehling        | Aldehyd (–CHO)  | blau -> rotbraun (Cu₂O) | bleibt blau    |
+     | Tollens        | Aldehyd (–CHO)  | Silberspiegel (Ag)      | bleibt klar    |
+     | Schiff         | Aldehyd (–CHO)  | farblos -> violett      | bleibt farblos |
 * Quantitative Analytik
 ** Wie viel ist drinnen?
+

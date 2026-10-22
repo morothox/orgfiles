@@ -89,5 +89,4 @@
      - Termineinhaltung (Liefertermine punktgenau einhalten).
      - Zeitminimierung (Durchlaufzeiten und Liegezeiten minimieren).
      - Kapazitätsauslastung (Leerlauf bei Personal und Maschinen vermeiden).
-* Verwandte Themen / Links
-  - 
+      
