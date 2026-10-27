@@ -1,0 +1,59 @@
+:PROPERTIES:
+:ID: 1F4321FC-CCBE-496E-B003-6F0B9B3469CD
+:END:
+#+TITLE: Failed States 
+
+#+filetags: :pug:q12:
+[[/Users/morothox/Downloads/Staatszerfall.pdf][Staatszerfall]]
+[[/Users/morothox/Downloads/5 Indikatoren von Staatszerfall.pdf][Indikatoren von Staatszerfall]]
+[[/Users/morothox/Downloads/5 Handout Schwache und gescheiterte Staaten.pdf][Handout]]
+
+* Schwach oder gescheitert? (Modell nach Schneckener)
+  Drei Staatsfunktionen: *Sicherheit* (Gewaltmonopol), *Wohlfahrt*, *Legitimität / Rechtsstaat*.
+  Sicherheit ist die wichtigste - ohne Gewaltmonopol funktioniert der Rest auch nicht.
+
+  | Typ                  | Sicherheit         | Wohlfahrt | Legitimität | Beispiel                |
+  |----------------------+--------------------+-----------+-------------+-------------------------|
+  | konsolidiert         | erfüllt            | erfüllt   | erfüllt     | Deutschland             |
+  | schwach (weak)       | weitgehend erfüllt | Defizite  | Defizite    | arme / autoritäre Staaten |
+  | versagend (failing)  | stark eingeschränkt | teilweise | teilweise   | Mali, Burkina Faso      |
+  | gescheitert (failed) | nicht erfüllt      | nicht     | nicht       | Somalia, Haiti, Jemen   |
+
+  *Merke:* Entscheidende Frage ist das Gewaltmonopol. Kontrollieren Milizen/Banden Teile des Landes,
+  ist der Staat nicht mehr nur schwach, sondern mindestens versagend.
+  Oberbegriff für alle drei Stufen: /fragile Staatlichkeit/. Übergänge sind fließend.
+
+* Indikatoren von Staatszerfall (Fragile States Index, 4 Gruppen)
+  - *Kohäsion:* schwaches Gewaltmonopol, keine Kontrolle über das ganze Staatsgebiet, viele private
+    Gewaltakteure, fragmentierte Eliten, Auflösung des Sicherheitsapparats, Bewaffnung der Bevölkerung, Selbstjustiz
+  - *Ökonomisch:* wirtschaftlicher Niedergang und Armut, hohe Arbeitslosigkeit, Wirtschaftskrisen,
+    Kluft zwischen Arm und Reich, Brain-Drain, kaum Bildungs- und Gesundheitswesen
+  - *Politisch:* instabile Verhältnisse, Wahlfälschung, Menschenrechtsverletzungen, Justiz nicht
+    unabhängig, hohe Korruption
+  - *Sozial / bereichsübergreifend:* wenig staatliche Dienstleistungen, schwaches Sozialsystem,
+    rudimentäre Verwaltung, Flüchtlinge und Binnenvertriebene, demografischer Druck, externe Intervention
+
+* So geht man in der Ex vor
+  1. Für jede Staatsfunktion Befund mit Material nennen
+  2. Passenden Indikator zuordnen
+  3. Funktion erfüllt? ja / teilweise / nein
+  4. Einstufung begründen - vor allem über das Gewaltmonopol
+  5. Bonus: ein Satz Kritik am Begriff (westlicher Maßstab, zu grob - Hauptstadt funktioniert oft, Randregionen nicht)
+
+* Mögliche Ex-Staaten
+  - *Somalia* - gescheitert
+    - Sicherheit: Al-Shabaab beherrscht große Teile im Süden und in der Mitte, Clan-Milizen, Somaliland
+      praktisch unabhängig, Regierung hält sich nur mit AU-Truppe → nein
+    - Wohlfahrt: Dürre, Hunger, Millionen Binnenvertriebene, kaum Schulen/Krankenhäuser → nein
+    - Legitimität: keine Direktwahlen (Clan-System), extrem viel Korruption → nein
+    - Seit 1991 kein funktionierender Zentralstaat
+  - *Mali* - versagend (Grenzfall)
+    - Sicherheit: Islamisten (JNIM, IS Sahel) im Norden und Zentrum, Treibstoffblockade von Bamako,
+      Tuareg-Rebellen, russische Söldner (Wagner/Africa Corps) → stark eingeschränkt
+    - Wohlfahrt: sehr arm, Schulen im Norden zu, in Bamako funktioniert der Staat noch → teilweise
+    - Legitimität: Militärjunta seit den Putschen 2020/21, Wahlen verschoben, Parteien verboten → kaum
+    - In der Hauptstadt hält sich der Staat noch, deshalb (noch) nicht komplett gescheitert
+  - Reserve: *Jemen* (failed - Bürgerkrieg, Huthis im Norden, Hungerkrise), *Burkina Faso* (wie Mali)
+
+* Probe-Ex
+  [[file:20261026120000-ex-Failed_States_Kongo.pdf][Probe-Ex DR Kongo (PDF)]]

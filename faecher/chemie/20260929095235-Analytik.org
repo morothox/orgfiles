@@ -526,17 +526,27 @@
     *Merke vorab:* Man testet immer mehrere Stoffe gleichzeitig. Ein Test ist nur dann positiv, wenn sich bei /einem/ Stoff etwas ändert und bei den anderen nicht.
 
 **** Teil 1: Alkohol, Carbonsäure oder Ester?
-     - *Die drei Stoffe:*
-       - *Ethanol:* CH₃–CH₂–OH -> Hydroxygruppe –OH (Alkohol)
-       - *Ethansäure:* CH₃–COOH -> Carboxygruppe –COOH (Carbonsäure)
-       - *Ethansäureethylester:* CH₃–COO–CH₂–CH₃ -> Estergruppe –COO– (Ester)
+     - *Die drei Stoffklassen:*
+       - *Alkohol* (Endung /-ol/): Kohlenwasserstoff, bei dem ein H-Atom durch eine *Hydroxygruppe –OH* ersetzt ist. Die OH-Gruppe macht ihn polar, kurze Alkohole mischen sich gut mit Wasser. Reagiert neutral, gibt also kein H⁺ ab.
+         Beispiel: *Ethanol* CH₃–CH₂–OH
+       - *Carbonsäure* (Endung /-säure/): hat am Kettenende eine *Carboxygruppe –COOH*, also ein C-Atom mit =O und –OH. Das H der OH-Gruppe kann als H⁺ abgegeben werden -> sauer.
+         Beispiel: *Ethansäure* (Essigsäure) CH₃–COOH
+       - *Ester* (Endung /-ester/): entsteht aus *Carbonsäure + Alkohol*, dabei wird Wasser abgespalten (Veresterung). Er hat die *Estergruppe –COO–*, das H der Säure ist also durch den Alkoholrest ersetzt. Kein saures H, keine freie OH-Gruppe, riecht oft fruchtig.
+         Beispiel: *Ethansäureethylester* (Ethylacetat) CH₃–COO–CH₂–CH₃
+         CH₃–COOH + HO–CH₂–CH₃ ⇌ CH₃–COO–CH₂–CH₃ + H₂O
 
+     - *Strukturformeln (alle Bindungen ausgeschrieben):*
      #+BEGIN_SRC text
-                                     O                         O
-                                     ║                         ║
-       H₃C─CH₂─OH            H₃C ─── C ─── OH          H₃C ─── C ─── O ─── CH₂─CH₃
-        Ethanol                 Ethansäure               Ethansäureethylester
-       (Hydroxygruppe)         (Carboxygruppe)            (Estergruppe)
+       Ethanol                 Ethansäure              Ethansäureethylester
+
+           H   H                   H   O                   H   O           H   H
+           │   │                   │   ║                   │   ║           │   │
+       H ─ C ─ C ─ O ─ H       H ─ C ─ C ─ O ─ H       H ─ C ─ C ─ O ─ C ─ C ─ H
+           │   │                   │                       │           │   │
+           H   H                   H                       H           H   H
+
+          └─ Hydroxygruppe       └─ Carboxygruppe            └─ Estergruppe
+             –OH                    –COOH                       –COO–
      #+END_SRC
 
 **** V1: CAN-Test (Ammoniumcer(IV)-nitrat) -> Nachweis von Alkoholen
@@ -561,7 +571,10 @@
        3. Dabei werden die OH⁻-Ionen verbraucht -> pH sinkt -> Phenolphthalein wird farblos.
      - *Warum nur ganz wenig NaOH?* Sonst sind zu viele OH⁻-Ionen da, der Ester kann sie nicht alle verbrauchen und die Lösung bleibt rosa (falsch-negativ).
      - *Warum erwärmen?* Die Verseifung ist bei Raumtemperatur zu langsam.
-     - *Achtung Säure:* Eine Carbonsäure neutralisiert die OH⁻-Ionen sofort (CH₃COOH + OH⁻ → CH₃COO⁻ + H₂O). Dann wird es auch ohne Ester farblos (falsch-positiv). Deshalb muss die Säure vorher neutralisiert werden.
+     - *Warum bleibt die Ethansäure rosa?* Die Säure wird schon /beim Zutropfen/ der NaOH neutralisiert, und zwar sofort (CH₃COOH + OH⁻ → CH₃COO⁻ + H₂O). Man braucht bei ihr einfach mehr Tropfen, bis es rosa bleibt. Wenn es rosa ist, ist die ganze Säure schon zu Acetat-Ionen umgesetzt -> beim Erwärmen verbraucht nichts mehr OH⁻ -> bleibt rosa.
+       Der Ester reagiert dagegen bei Raumtemperatur kaum und verbraucht erst /beim Erwärmen/ OH⁻.
+       -> Der Unterschied ist die *Geschwindigkeit*: Säure + OH⁻ geht sofort, Ester + OH⁻ nur langsam mit Wärme.
+     - *Achtung, falsch-positiv:* Wenn man zu früh mit dem Zutropfen aufhört (die Lösung ist nur kurz rosa), ist noch Säure übrig. Die verbraucht weiter OH⁻ und die Lösung wird auch ohne Ester farblos. Deshalb so lange NaOH zugeben, bis das Rosa /bleibt/.
      - *Merksatz:* Rosa verschwindet beim Erwärmen = Ester (OH⁻ wird verbraucht).
 
 **** V3: Bromthymolblau-Test -> Nachweis von Carbonsäuren
@@ -576,19 +589,32 @@
      - *Merksatz:* Gelb = Säure (COOH-Gruppe gibt H⁺ ab).
 
 **** Teil 2: Aldehyd oder Keton? (Propanal vs. Propanon)
-     - *Die zwei Stoffe:*
-       - *Propanal:* CH₃–CH₂–CHO -> Aldehydgruppe –CHO (C=O am /Ende/ der Kette, mit H daneben)
-       - *Propanon (Aceton):* CH₃–CO–CH₃ -> Ketogruppe >C=O (C=O in der /Mitte/ der Kette)
+     - *Gemeinsamkeit:* Beide haben eine *Carbonylgruppe C=O* (C-Atom mit Doppelbindung zum O). Der Unterschied ist, /wo/ sie sitzt.
+     - *Aldehyd* (Endung /-al/): C=O am *Kettenende*. Das C-Atom der C=O-Gruppe hat noch ein *H-Atom* -> *Aldehydgruppe –CHO*.
+       Beispiel: *Propanal* CH₃–CH₂–CHO
+     - *Keton* (Endung /-on/): C=O in der *Mitte* der Kette. Das C-Atom der C=O-Gruppe hat links und rechts je ein *C-Atom*, also kein H -> *Ketogruppe >C=O* (auch Carbonylgruppe).
+       Beispiel: *Propanon* (Aceton) CH₃–CO–CH₃
      - *Der entscheidende Unterschied:* Aldehyde lassen sich leicht oxidieren (das H an der CHO-Gruppe wird zu OH -> Carbonsäure). Ketone haben dort kein H und lassen sich deshalb nicht so leicht oxidieren.
-       -> Fehling, Tollens und Schiff nutzen genau das aus: Nur der Aldehyd reagiert.
+       -> Fehling und Tollens nutzen genau das aus: Nur der Aldehyd reagiert. Bei der Schiff-Probe reagiert auch nur der Aldehyd, weil seine C=O-Gruppe reaktiver ist.
 
+     - *Strukturformeln (alle Bindungen ausgeschrieben):*
      #+BEGIN_SRC text
-                    O                              O
-                    ║                              ║
-       H₃C ─ CH₂ ─ C ─ H                H₃C ───── C ───── CH₃
-          Propanal (Aldehyd)               Propanon (Keton)
-          C=O am Kettenende                C=O in der Mitte
+       Propanal (Aldehyd)              Propanon (Keton)
+
+           H   H   O                       H   O   H
+           │   │   ║                       │   ║   │
+       H ─ C ─ C ─ C ─ H               H ─ C ─ C ─ C ─ H
+           │   │                           │       │
+           H   H                           H       H
+
+       C=O am Ende, daran ein H        C=O in der Mitte, links und rechts C
      #+END_SRC
+
+     - *Zusammenhang mit Alkoholen (Oxidationsreihe):*
+       - primärer Alkohol (OH am Ende) -> *Aldehyd* -> Carbonsäure
+         Propan-1-ol -> Propanal -> Propansäure
+       - sekundärer Alkohol (OH in der Mitte) -> *Keton* -> keine weitere Oxidation
+         Propan-2-ol -> Propanon
 
 **** V1: DNPH-Test -> Hinweis auf C=O (Carbonylgruppe)
      - *Durchführung:* 5 Tropfen Probe + 10 Tropfen 2,4-Dinitrophenylhydrazin-Lösung (DNPH).

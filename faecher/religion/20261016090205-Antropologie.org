@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID: 44EFB293-44A2-4A30-996B-88E85C20B3E7
 :END:
+
 #+TITLE: Antropologie
 
 #+filetags: :religion:q12:

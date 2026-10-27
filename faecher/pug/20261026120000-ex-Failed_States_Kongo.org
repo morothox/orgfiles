@@ -1,0 +1,80 @@
+:PROPERTIES:
+:ID:       7C2E9A41-3B5D-4F18-9E62-D41A0B8C7F35
+:END:
+#+TITLE: Probe-Ex: Fragile Staatlichkeit – DR Kongo
+#+FILETAGS: :pug:ex:q12:
+#+DATE:    [2026-10-26 Mo]
+
+* Rahmendaten
+- *Fach:* Politik und Gesellschaft
+- *Prüfungsform:* Stegreifaufgabe (Ex), Probe
+- *Bearbeitungszeit:* 20 Minuten
+- *Gesamtpunktzahl:* 20 BE
+- *Hilfsmittel:* keine
+
+* Materialien
+
+** M1 – Demokratische Republik Kongo: Steckbrief und Chronik
+Die DR Kongo liegt in Zentralafrika, ist etwa sechsmal so groß wie Deutschland und hat rund 110 Millionen Einwohner. Das Land ist reich an Rohstoffen: Es fördert über 70 % des weltweiten Kobalts (wichtig für Akkus) und viel Coltan, Kupfer und Gold. Trotzdem lebt die große Mehrheit der Menschen in extremer Armut.
+
+| Jahr      | Ereignis |
+|-----------+----------|
+| 1885–1960 | Belgische Kolonie, brutale Ausbeutung (Kautschuk, Zwangsarbeit) |
+| 1965–1997 | Diktatur Mobutu, Staatsvermögen fließt in private Taschen |
+| 1996–2003 | Zwei Kongokriege mit Beteiligung von bis zu neun Nachbarstaaten, Millionen Tote |
+| seit 1999 | UN-Friedensmission (heute MONUSCO) im Land |
+| 2023      | Wiederwahl von Präsident Tshisekedi |
+| 2025      | Rebellengruppe M23 erobert die Großstädte Goma und Bukavu im Osten; Friedensabkommen zwischen Kongo und Ruanda in Washington, Kämpfe gehen trotzdem weiter |
+
+** M2 – Der Osten: Ein Land ohne Gewaltmonopol
+In den östlichen Provinzen Nord- und Süd-Kivu sowie Ituri sind über 100 bewaffnete Gruppen aktiv. Die stärkste, die M23, wird laut UN-Experten vom Nachbarland Ruanda mit Soldaten und Waffen unterstützt. Seit 2025 verwaltet sie Goma und Bukavu wie ein eigener Staat: Sie setzt eigene Bürgermeister ein, erhebt Steuern und kontrolliert die Grenzposten.
+
+Viele Gruppen finanzieren sich über den Handel mit Rohstoffen aus illegalen Minen. Die kongolesische Armee gilt als schlecht bezahlt und undiszipliniert; Soldaten plündern teils selbst und werden von UN-Berichten für Menschenrechtsverletzungen verantwortlich gemacht. Die Regierung arbeitet mit lokalen Milizen („Wazalendo“) zusammen, die ebenfalls Zivilisten angreifen. In der Hauptstadt Kinshasa im Westen, rund 1.500 km entfernt, ist die Lage dagegen weitgehend ruhig; dort funktionieren Behörden, Ministerien und Gerichte.
+
+** M3 – Versorgung und Alltag
+Rund 7 Millionen Menschen sind innerhalb des Landes auf der Flucht, eine der höchsten Zahlen weltweit. Über 25 Millionen Menschen haben nicht genug zu essen. Immer wieder brechen Krankheiten wie Cholera, Mpox oder Ebola aus; das Gesundheitssystem ist vor allem auf dem Land kaum vorhanden. Viele Kinder gehen nicht zur Schule, obwohl die Grundschule seit 2019 offiziell kostenlos ist.
+
+Ein großer Teil der Rohstoffe wird von ausländischen Firmen abgebaut. Die Einnahmen kommen kaum bei der Bevölkerung an. Im Bergbau arbeiten auch Kinder unter gefährlichen Bedingungen.
+
+** M4 – Politik und Recht
+Bei der Wahl 2023 wurde Präsident Félix Tshisekedi offiziell mit rund 73 % wiedergewählt. Die katholische Kirche, die mit Zehntausenden Beobachtern die Wahl begleitete, berichtete von schweren Unregelmäßigkeiten: Wahllokale öffneten nicht, Wahlmaschinen fehlten, die Abstimmung wurde teils um Tage verlängert. In umkämpften Gebieten im Osten konnte gar nicht gewählt werden.
+
+Im Korruptionsindex von Transparency International liegt die DR Kongo regelmäßig unter den 20 schlechtesten Ländern. Kritische Journalisten und Oppositionelle werden verhaftet. Gleichzeitig gibt es ein Parlament, Parteien und eine lebendige Zivilgesellschaft, die die Regierung offen kritisiert.
+
+* Aufgaben
+
+** Aufgabe 1 [3 BE]
+Nenne die drei Staatsfunktionen nach Schneckener und erkläre, warum eine davon als die wichtigste gilt.
+
+#+begin_export typst
+#v(0.3cm)
+#stack(spacing: 0.8cm, ..range(5).map(_ => line(length: 100%, stroke: 0.35pt + luma(190))))
+#v(0.4cm)
+#+end_export
+
+** Aufgabe 2 [8 BE]
+Analysiere anhand von M2–M4, inwieweit die DR Kongo die drei Staatsfunktionen erfüllt. Ordne deine Befunde jeweils mindestens einem Indikator von Staatszerfall zu.
+
+#+begin_export typst
+#v(0.3cm)
+#stack(spacing: 0.8cm, ..range(14).map(_ => line(length: 100%, stroke: 0.35pt + luma(190))))
+#v(0.4cm)
+#+end_export
+
+** Aufgabe 3 [6 BE]
+Beurteile, ob die DR Kongo als schwacher, versagender oder gescheiterter Staat einzustufen ist. Gehe dabei auch auf eine Schwäche der Einteilung ein.
+
+#+begin_export typst
+#v(0.3cm)
+#stack(spacing: 0.8cm, ..range(10).map(_ => line(length: 100%, stroke: 0.35pt + luma(190))))
+#v(0.4cm)
+#+end_export
+
+** Aufgabe 4 [3 BE]
+Erläutere zwei Folgen, die der Staatszerfall in der DR Kongo über die Landesgrenzen hinaus hat.
+
+#+begin_export typst
+#v(0.3cm)
+#stack(spacing: 0.8cm, ..range(6).map(_ => line(length: 100%, stroke: 0.35pt + luma(190))))
+#v(0.4cm)
+#+end_export
