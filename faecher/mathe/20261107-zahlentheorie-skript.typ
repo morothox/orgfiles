@@ -1,25 +1,26 @@
 #let md(m) = $space (mod #m)$
 #let ggT = math.op("ggT")
 #let farbe = rgb("#1f5f8b")
-#let kasten(titel, c, body) = block(width: 100%, breakable: true, fill: c.lighten(90%), stroke: (left: 3pt + c), inset: (x: 10pt, y: 8pt), radius: 2pt, above: 1em, below: 1em)[#text(fill: c.darken(20%), weight: "bold")[#titel] #h(0.3em) #body]
+#let kasten(titel, c, body) = block(width: 100%, breakable: true, fill: c.lighten(93%), stroke: (left: 4pt + c), inset: (x: 10pt, y: 8pt), radius: 2pt, above: 1em, below: 1em)[#text(fill: c.darken(35%), weight: "bold")[#titel] #h(0.3em) #body]
 #let defi(t, b) = kasten("Definition" + if t != "" [ (#t)], rgb("#1f5f8b"), b)
 #let satz(t, b) = kasten(t, rgb("#2e7d32"), b)
 #let bsp(t, b) = kasten("Beispiel" + if t != "" [: #t], rgb("#6d4c9f"), b)
 #let merke(b) = kasten("Merke", rgb("#c77700"), b)
 #let falle(b) = kasten("Typischer Fehler", rgb("#b3261e"), b)
-#let beweis(b) = block(width: 100%, inset: (left: 10pt), stroke: (left: 1pt + luma(170)), above: 0.6em, below: 1em)[_Beweis._ #b #h(1fr) $square.stroked$]
-#let karo(h) = block(width: 100%, height: h, above: 0.5em, below: 1.2em, stroke: 0.4pt + luma(190), fill: tiling(size: (5mm, 5mm))[#place(line(start: (0pt, 0pt), end: (5mm, 0pt), stroke: 0.25pt + luma(212)))#place(line(start: (0pt, 0pt), end: (0pt, 5mm), stroke: 0.25pt + luma(212)))])
+#let beweis(b) = block(width: 100%, inset: (left: 10pt), stroke: (left: 1.5pt + luma(120)), above: 0.6em, below: 1em)[_Beweis._ #b #h(1fr) $square.stroked$]
+#let karo(h) = block(width: 100%, height: h, above: 0.5em, below: 1.2em, stroke: 0.8pt + luma(120), fill: tiling(size: (5mm, 5mm))[#place(line(start: (0pt, 0pt), end: (5mm, 0pt), stroke: 0.4pt + luma(185)))#place(line(start: (0pt, 0pt), end: (0pt, 5mm), stroke: 0.4pt + luma(185)))])
 #let doc(titel, untertitel, body) = {
   set document(title: titel)
-  set page(paper: "a4", margin: (x: 1.8cm, top: 2cm, bottom: 1.8cm),
-    header: context { if counter(page).get().first() > 1 [#set text(8pt, fill: luma(110)); #titel #h(1fr) Mathe-Vertiefungskurs Q12] },
-    footer: context [#set text(8pt, fill: luma(110)); #h(1fr) #counter(page).display("1 / 1", both: true) #h(1fr)])
-  set text(lang: "de", size: 11pt)
-  set par(justify: true, leading: 0.6em)
+  set page(paper: "a4", margin: (x: 1.5cm, top: 1.8cm, bottom: 1.6cm),
+    header: context { if counter(page).get().first() > 1 [#set text(9pt, fill: luma(60)); #titel #h(1fr) Mathe-Vertiefungskurs Q12] },
+    footer: context [#set text(9pt, fill: luma(60)); #h(1fr) #counter(page).display("1 / 1", both: true) #h(1fr)])
+  set text(lang: "de", size: 12.5pt, font: "Inter", fill: black, weight: 450)
+  show math.equation: set text(size: 13.5pt, weight: "regular")
+  set par(justify: false, leading: 0.75em, spacing: 1.1em)
   set heading(numbering: "1.")
   show heading.where(level: 1): it => block(above: 1.4em, below: 0.8em, text(fill: farbe, size: 14pt, it))
-  set table(stroke: 0.5pt + luma(150), inset: 5pt, align: center)
-  align(center)[#text(20pt, weight: "bold", fill: farbe)[#titel] \ #v(0.2em) #text(11pt, fill: luma(80))[#untertitel]]
+  set table(stroke: 0.7pt + luma(90), inset: 6pt, align: center)
+  align(center)[#text(20pt, weight: "bold", fill: farbe)[#titel] \ #v(0.2em) #text(12pt, fill: luma(40))[#untertitel]]
   v(0.6em)
   body
 }
