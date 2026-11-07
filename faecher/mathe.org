@@ -10,6 +10,12 @@
 * 📁 Skripte & PDFs
 - [[file:../pdf/][PDF-Ordner]]
 
+* 🔢 Zahlentheorie (Vertiefungskurs, Ex)
+- Skript mit Beweisen: [[file:mathe/20261107-zahlentheorie-skript.pdf][Modulo, ggT, erweiterter Euklid & Inverse]]
+- Übungsaufgaben (26 + Probe-Ex): [[file:mathe/20261107-zahlentheorie-aufgaben.pdf][Aufgaben mit Schreibplatz]]
+- Lösungen: [[file:mathe/20261107-zahlentheorie-loesungen.pdf][Ausführliche Lösungen]]
+- Kern: Inverses von $a$ mod $m$ = $x$ mit $a \cdot x \equiv 1 \pmod{m}$, existiert genau dann, wenn $\operatorname{ggT}(a,m)=1$
+
 * 📖 Analysis
 ** 📈 Integralrechnung
 - Stammfunktionen: $\int x^n \, dx = \frac{1}{n+1} x^{n+1} + C$
