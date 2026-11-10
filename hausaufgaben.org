@@ -28,3 +28,11 @@
   DEADLINE: <2026-10-16 Fr.>
   Fach: Mathe
   Notizen: 
+* TODO 3+4 Sinnabschnitt fertig schreiben auf dem AB
+  DEADLINE: <2026-10-30 Fr.>
+  Fach: Deutsch
+  Notizen: 
+* TODO Heidrich von Kleist der zerbrochene Krug  
+  DEADLINE: <2026-11-30 Mo.>
+  Fach: Deutsch
+  Notizen: 

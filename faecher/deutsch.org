@@ -10,6 +10,8 @@
   1. Überblick über die Epochen: [[id:942CEA95-BA90-4868-8B78-1FBBCF0125D3][Epochen]] 
 * Iphigenie 
   1. Iphigenie auf Tauris (Artemis-Kult): [[id:E654CDF5-8F92-4EC0-BE4F-76EFB85D1178][Iphigenie auf Tauris]]
+* Aufsatzarbeit
+    [[id:FD3F0D48-BC05-4800-A4E8-6BEE0AC7D44F][Aufsatzarbeit]]
 * Stielmittel: 
   - Notiz: [[id:105A8D76-00AE-441A-BED5-68EE0E95844B][Stielmittel]]
   - Anki-Deck: [[file:deutsch/20261015-Stielmittel-Ex.apkg][Anki-Deck: 32 Karteikarten für Ex]] (mit ~<leader>oo~ öffnen)
