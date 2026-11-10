@@ -43,6 +43,8 @@
 - Kunststoffe & Polymere (Polymerisation, Polykondensation, Polyaddition)
 * Analytik
   [[id:E4B86F48-2229-4025-8A95-99C8B2990D1F][Analytik]]
+* Atombau 
+[[id:2E6CF421-AA36-402E-A1AB-1F7C99CBF2D7][Atombau]]
 * 📊 Wichtige Formeln & Konstanten
 | Physikalische Größe | Formelzeichen | Einheit      | Formel / Zusammenhang | Bemerkung               |
 |---------------------+---------------+--------------+-----------------------+-------------------------|

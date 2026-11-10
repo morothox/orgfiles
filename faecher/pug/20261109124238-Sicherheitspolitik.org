@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID: 7DAA7B59-BCEA-449A-A540-07F0FAC87B09
+:END:
+#+TITLE: Sicherheitspolitik
+
+#+filetags: :pug:q12:
+
+* Institutionen & Konfliktfeld
+  [[/Users/morothox/Downloads/Sicherheitspolitik im Wandel der Zeit.pdf][Sicherheitspolitik]]
+
+* Argumente & Positionen
+  - 

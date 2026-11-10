@@ -520,10 +520,9 @@
       - *Warum Salzsäure (HCl)?* Metallchloride besitzen eine wesentlich höhere Flüchtigkeit als z. B. Oxide, Sulfate oder Nitrate. Durch die HCl wird das Salz an der Oberfläche in das leicht verdampfbare Chlorid überführt.
       - *Warum Kobaltglas bei Kalium?* Natrium ist als Verunreinigung praktisch überall vorhanden (an den Händen, im Staub, im Glas). Wegen der extrem hohen Intensität der gelben Natrium-Doppellinie (589 nm) wird die schwächere violette Kaliumflamme meist vollständig überstrahlt. Blaues Kobaltglas enthält Co²⁺-Ionen, die gelbes Natriumlicht selektiv absorbieren, während violettes Licht ungehindert durchtritt.
       - *Hinweis vs. Nachweis:* Die Flammenfärbung ist eine orientierende *Vorprobe* (Hinweis). Bei Stoffgemischen überdecken sich die Farben gegenseitig, weshalb für einen zweifelsfreien Nachweis nasschemische Fällungsreaktionen oder ein Spektroskop erforderlich sind.
-*** 1.9 Nachweis funktioneller Gruppen
+*** 1.9 Nachweis funktioneller Gruppe 
     *AB* [[/Users/morothox/Downloads/AB Q12.pdf][funktioneller Gruppen]]
 
-    *Merke vorab:* Man testet immer mehrere Stoffe gleichzeitig. Ein Test ist nur dann positiv, wenn sich bei /einem/ Stoff etwas ändert und bei den anderen nicht.
 
 **** Teil 1: Alkohol, Carbonsäure oder Ester?
      - *Die drei Stoffklassen:*
@@ -663,6 +662,9 @@
      | Fehling        | Aldehyd (–CHO)  | blau -> rotbraun (Cu₂O) | bleibt blau    |
      | Tollens        | Aldehyd (–CHO)  | Silberspiegel (Ag)      | bleibt klar    |
      | Schiff         | Aldehyd (–CHO)  | farblos -> violett      | bleibt farblos |
+**** Reddox Reaktion 
+**** [[AB]]
+[[file:../../../Downloads/Chemie 1-16.jpg][Was habt ihr beobachtet?]]
 * Quantitative Analytik
 ** Wie viel ist drinnen?
 
